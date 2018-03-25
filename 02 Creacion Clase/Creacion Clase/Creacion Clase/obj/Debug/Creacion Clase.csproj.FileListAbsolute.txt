@@ -1,0 +1,9 @@
+D:\Ariel\Creacion Clase\Creacion Clase\Creacion Clase\bin\Debug\Creacion Clase.exe.config
+D:\Ariel\Creacion Clase\Creacion Clase\Creacion Clase\obj\Debug\Creacion Clase.csprojResolveAssemblyReference.cache
+D:\Ariel\Creacion Clase\Creacion Clase\Creacion Clase\bin\Debug\Creacion Clase.exe
+D:\Ariel\Creacion Clase\Creacion Clase\Creacion Clase\bin\Debug\Creacion Clase.pdb
+D:\Ariel\Creacion Clase\Creacion Clase\Creacion Clase\obj\Debug\Creacion Clase.exe
+D:\Ariel\Creacion Clase\Creacion Clase\Creacion Clase\obj\Debug\Creacion Clase.pdb
+F:\UTN\Ariel\02 Creacion Clase\Creacion Clase\Creacion Clase\bin\Debug\Creacion Clase.exe.config
+F:\UTN\Ariel\02 Creacion Clase\Creacion Clase\Creacion Clase\obj\Debug\Creacion Clase.exe
+F:\UTN\Ariel\02 Creacion Clase\Creacion Clase\Creacion Clase\obj\Debug\Creacion Clase.pdb

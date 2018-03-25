@@ -1,0 +1,9 @@
+D:\Ariel\Clase 1\Clase 1\Ej 9\bin\Debug\Ej 9.exe.config
+D:\Ariel\Clase 1\Clase 1\Ej 9\bin\Debug\Ej 9.exe
+D:\Ariel\Clase 1\Clase 1\Ej 9\bin\Debug\Ej 9.pdb
+D:\Ariel\Clase 1\Clase 1\Ej 9\obj\Debug\Ej 9.csprojResolveAssemblyReference.cache
+D:\Ariel\Clase 1\Clase 1\Ej 9\obj\Debug\Ej 9.exe
+D:\Ariel\Clase 1\Clase 1\Ej 9\obj\Debug\Ej 9.pdb
+F:\UTN\Ariel\01 Ejercicios\Clase 1\Ej 9\bin\Debug\Ej 9.exe.config
+F:\UTN\Ariel\01 Ejercicios\Clase 1\Ej 9\obj\Debug\Ej 9.exe
+F:\UTN\Ariel\01 Ejercicios\Clase 1\Ej 9\obj\Debug\Ej 9.pdb

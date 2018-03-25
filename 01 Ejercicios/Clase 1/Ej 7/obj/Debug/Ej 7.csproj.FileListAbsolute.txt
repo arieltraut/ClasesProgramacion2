@@ -1,0 +1,5 @@
+D:\Ariel\Clase 1\Clase 1\Ej 7\bin\Debug\Ej 7.exe.config
+D:\Ariel\Clase 1\Clase 1\Ej 7\bin\Debug\Ej 7.exe
+D:\Ariel\Clase 1\Clase 1\Ej 7\bin\Debug\Ej 7.pdb
+D:\Ariel\Clase 1\Clase 1\Ej 7\obj\Debug\Ej 7.exe
+D:\Ariel\Clase 1\Clase 1\Ej 7\obj\Debug\Ej 7.pdb

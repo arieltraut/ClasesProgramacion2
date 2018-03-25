@@ -1,0 +1,6 @@
+D:\Ariel\Clase 1\Clase 1\Ej 6\bin\Debug\Ej 6.exe.config
+D:\Ariel\Clase 1\Clase 1\Ej 6\bin\Debug\Ej 6.exe
+D:\Ariel\Clase 1\Clase 1\Ej 6\bin\Debug\Ej 6.pdb
+D:\Ariel\Clase 1\Clase 1\Ej 6\obj\Debug\Ej 6.csprojResolveAssemblyReference.cache
+D:\Ariel\Clase 1\Clase 1\Ej 6\obj\Debug\Ej 6.exe
+D:\Ariel\Clase 1\Clase 1\Ej 6\obj\Debug\Ej 6.pdb
