@@ -10,33 +10,40 @@ namespace Creacion_Clase
     {
         static void Main(string[] args)
         {
-            int opcion, binario;
+            int opcion, enteroIngresado;
+            string binarioIngresado;
             Conversor conversor = new Conversor();
-
-
-            Console.WriteLine("1- Convertir de Binario a Entero");
-            Console.WriteLine("2- Convertir de Entero a Binario");
-            Console.WriteLine("3- Salir");
-
-            if (int.TryParse(Console.ReadLine(), out opcion))
+            
+            do
             {
-                switch (opcion)
+                Console.WriteLine("1- Convertir de Binario a Entero");
+                Console.WriteLine("2- Convertir de Entero a Binario");
+                Console.WriteLine("3- Salir");
+
+                if (int.TryParse(Console.ReadLine(), out opcion))
                 {
-                    case 1:
-                        Console.WriteLine("Ingresar Binario a convertir");
-                        if (int.TryParse(Console.ReadLine(), out binario))
-                        {
-                            conversor.EnteroBinario(binario);
-                        }
-
-                        break;
-                    case 2:
-                        break;
-                    case 3:
-                        break;
-
+                    switch (opcion)
+                    {
+                        case 1:
+                            Console.WriteLine("Ingresar Binario a convertir");
+                            if (int.TryParse(Console.ReadLine(), out enteroIngresado))
+                            {
+                                //salida = conversor.EnteroBinario(numeroIngresado);
+                                Console.WriteLine(conversor.EnteroBinario(enteroIngresado));
+                            }
+                            break;
+                        case 2:                           
+                            Console.WriteLine("Ingrese Entero a convertir");
+                            binarioIngresado = Console.ReadLine();
+                            Console.WriteLine(conversor.BinarioEntero(binarioIngresado));
+                            break;
+                        case 3:
+                            break;
+                    }
+                    Console.ReadKey();
+                    Console.Clear();
                 }
-            }
-        }
+            }while(opcion != 3);
+         }
     }
 }
