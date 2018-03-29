@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Ej_1
+namespace Ej_01
 {
     class Program
     {

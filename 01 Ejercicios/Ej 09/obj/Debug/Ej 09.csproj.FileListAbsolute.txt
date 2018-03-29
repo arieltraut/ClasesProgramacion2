@@ -1,0 +1,5 @@
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\01 Ejercicios\Ej 09\bin\Debug\Ej 09.exe.config
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\01 Ejercicios\Ej 09\bin\Debug\Ej 09.exe
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\01 Ejercicios\Ej 09\bin\Debug\Ej 09.pdb
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\01 Ejercicios\Ej 09\obj\Debug\Ej 09.exe
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\01 Ejercicios\Ej 09\obj\Debug\Ej 09.pdb

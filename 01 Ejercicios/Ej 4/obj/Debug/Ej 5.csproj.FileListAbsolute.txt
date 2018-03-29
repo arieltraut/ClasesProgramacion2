@@ -1,6 +1,0 @@
-D:\Ariel\Clase 1\Clase 1\Ej 4\bin\Debug\Ej 4.exe.config
-D:\Ariel\Clase 1\Clase 1\Ej 4\bin\Debug\Ej 4.exe
-D:\Ariel\Clase 1\Clase 1\Ej 4\bin\Debug\Ej 4.pdb
-D:\Ariel\Clase 1\Clase 1\Ej 4\obj\Debug\Ej 4.exe
-D:\Ariel\Clase 1\Clase 1\Ej 4\obj\Debug\Ej 4.pdb
-D:\Ariel\Clase 1\Clase 1\Ej 4\obj\Debug\Ej 5.csprojResolveAssemblyReference.cache
