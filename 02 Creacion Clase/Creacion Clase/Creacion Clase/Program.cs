@@ -25,17 +25,16 @@ namespace Creacion_Clase
                     switch (opcion)
                     {
                         case 1:
-                            Console.WriteLine("Ingresar Binario a convertir");
-                            if (int.TryParse(Console.ReadLine(), out enteroIngresado))
-                            {
-                                //salida = conversor.EnteroBinario(numeroIngresado);
-                                Console.WriteLine(conversor.EnteroBinario(enteroIngresado));
-                            }
+                            Console.WriteLine("Ingrese Binario a convertir");
+                            binarioIngresado = Console.ReadLine();
+                            Console.WriteLine(conversor.BinarioDecimal(binarioIngresado));
                             break;
                         case 2:                           
-                            Console.WriteLine("Ingrese Entero a convertir");
-                            binarioIngresado = Console.ReadLine();
-                            Console.WriteLine(conversor.BinarioEntero(binarioIngresado));
+                            Console.WriteLine("Ingresar Entero a convertir");
+                            if (int.TryParse(Console.ReadLine(), out enteroIngresado))
+                            {
+                                Console.WriteLine(conversor.EnteroBinario(enteroIngresado));
+                            }
                             break;
                         case 3:
                             break;
