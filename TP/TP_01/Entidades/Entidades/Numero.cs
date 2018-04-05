@@ -15,7 +15,7 @@ namespace Entidades
         /// </summary>
         /// <param name="strNumero">Cadena a validar</param>
         /// <returns>Valor ingresado en formato double</returns>
-        double ValidarNumero(string strNumero) 
+        private double ValidarNumero(string strNumero) //ver private
         {
             double retorno;
             if (double.TryParse(strNumero, out retorno))
@@ -33,7 +33,7 @@ namespace Entidades
             set
             {
                 if (ValidarNumero(Convert.ToString(value)) != 0)
-                    numero = value;
+                    this.numero = value;
             }
         }
 

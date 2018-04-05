@@ -1,0 +1,18 @@
+D:\Ariel\01 Ejercicios\Clase 1\Ej 16\bin\Debug\Ej 16.exe.config
+D:\Ariel\01 Ejercicios\Clase 1\Ej 16\obj\Debug\Ej 16.csprojResolveAssemblyReference.cache
+D:\Ariel\01 Ejercicios\Clase 1\Ej 16\bin\Debug\Ej 16.exe
+D:\Ariel\01 Ejercicios\Clase 1\Ej 16\bin\Debug\Ej 16.pdb
+D:\Ariel\01 Ejercicios\Clase 1\Ej 16\obj\Debug\Ej 16.exe
+D:\Ariel\01 Ejercicios\Clase 1\Ej 16\obj\Debug\Ej 16.pdb
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\01 Ejercicios\Clase 1\Ej 16\bin\Debug\Ej 16.exe.config
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\01 Ejercicios\Clase 1\Ej 16\obj\Debug\Ej 16.exe
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\01 Ejercicios\Clase 1\Ej 16\obj\Debug\Ej 16.pdb
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\01 Ejercicios\Ej 16\bin\Debug\Ej 16.exe.config
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\01 Ejercicios\Ej 16\obj\Debug\Ej 16.exe
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\01 Ejercicios\Ej 16\obj\Debug\Ej 16.pdb
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\01 Ejercicios\Ej 16\bin\Debug\Ej 16.exe
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\01 Ejercicios\Ej 16\bin\Debug\Ej 16.pdb
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\01 Ejercicios\Ej 16\obj\Debug\Ej 16.csprojResolveAssemblyReference.cache
+D:\Ariel\clasesprogramacion2\01 Ejercicios\Ej 16\bin\Debug\Ej 16.exe.config
+D:\Ariel\clasesprogramacion2\01 Ejercicios\Ej 16\obj\Debug\Ej 16.exe
+D:\Ariel\clasesprogramacion2\01 Ejercicios\Ej 16\obj\Debug\Ej 16.pdb
