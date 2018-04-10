@@ -1,0 +1,12 @@
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\TP\TP_01\Entidades\Entidades\bin\Debug\Entidades.exe.config
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\TP\TP_01\Entidades\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\TP\TP_01\Entidades\Entidades\bin\Debug\Entidades.exe
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\TP\TP_01\Entidades\Entidades\bin\Debug\Entidades.pdb
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\TP\TP_01\Entidades\Entidades\obj\Debug\Entidades.exe
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\TP\TP_01\Entidades\Entidades\obj\Debug\Entidades.pdb
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\TP\TP_01\Entidades2\Entidades\bin\Debug\Entidades.dll.config
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\TP\TP_01\Entidades2\Entidades\bin\Debug\Entidades.dll
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\TP\TP_01\Entidades2\Entidades\bin\Debug\Entidades.pdb
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\TP\TP_01\Entidades2\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\TP\TP_01\Entidades2\Entidades\obj\Debug\Entidades.dll
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\TP\TP_01\Entidades2\Entidades\obj\Debug\Entidades.pdb

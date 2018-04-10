@@ -10,3 +10,6 @@ C:\Users\Ari\Desktop\clasesprogramacion2\03 Ej Clase 5\Ej Clase 5\obj\Debug\Ej C
 C:\Users\Ari\Desktop\clasesprogramacion2\03 Ej Clase 5\Ej Clase 5\bin\Debug\Ej Clase 5.exe
 C:\Users\Ari\Desktop\clasesprogramacion2\03 Ej Clase 5\Ej Clase 5\bin\Debug\Ej Clase 5.pdb
 C:\Users\Ari\Desktop\clasesprogramacion2\03 Ej Clase 5\Ej Clase 5\obj\Debug\Repaso.csprojResolveAssemblyReference.cache
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\03 Ej Clase 5\Ej Clase 5\bin\Debug\Ej Clase 5.exe.config
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\03 Ej Clase 5\Ej Clase 5\obj\Debug\Ej Clase 5.exe
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\03 Ej Clase 5\Ej Clase 5\obj\Debug\Ej Clase 5.pdb
