@@ -3,3 +3,9 @@ D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\01 Ejercicios\Ej 01\bin\Debug\Ej 01
 D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\01 Ejercicios\Ej 01\bin\Debug\Ej 01.pdb
 D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\01 Ejercicios\Ej 01\obj\Debug\Ej 01.exe
 D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\01 Ejercicios\Ej 01\obj\Debug\Ej 01.pdb
+D:\Ariel\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 01\bin\Debug\Ej 01.exe.config
+D:\Ariel\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 01\bin\Debug\Ej 01.exe
+D:\Ariel\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 01\bin\Debug\Ej 01.pdb
+D:\Ariel\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 01\obj\Debug\Ej 01.csprojResolveAssemblyReference.cache
+D:\Ariel\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 01\obj\Debug\Ej 01.exe
+D:\Ariel\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 01\obj\Debug\Ej 01.pdb

@@ -22,12 +22,12 @@ namespace MiCalculadora
         TextBox txtNumero1;
         TextBox txtNumero2;
 
-        private static double Operar(string numero1, string numero2, string operador)
+        public static double Operar(string numero1, string numero2, string operador) // ver porque dice private
         {
-            
-            Calculadora.Operar((Numero)numero1 
+            Numero num1 = new Numero(numero1);
+            Numero num2 = new Numero(numero2);
 
-            return 0;
+            return  Calculadora.Operar(num1,num2,operador);
         }
     }
 }

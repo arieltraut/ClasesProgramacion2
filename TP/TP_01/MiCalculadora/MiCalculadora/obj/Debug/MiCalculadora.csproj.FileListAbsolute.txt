@@ -9,3 +9,14 @@ D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\TP\TP_01\MiCalculadora\MiCalculador
 D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\TP\TP_01\MiCalculadora\MiCalculadora\obj\Debug\MiCalculadora.csproj.GenerateResource.Cache
 D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\TP\TP_01\MiCalculadora\MiCalculadora\obj\Debug\MiCalculadora.exe
 D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\TP\TP_01\MiCalculadora\MiCalculadora\obj\Debug\MiCalculadora.pdb
+C:\Users\Ari\Desktop\clasesprogramacion2\TP\TP_01\MiCalculadora\MiCalculadora\bin\Debug\MiCalculadora.exe.config
+C:\Users\Ari\Desktop\clasesprogramacion2\TP\TP_01\MiCalculadora\MiCalculadora\obj\Debug\MiCalculadora.exe
+C:\Users\Ari\Desktop\clasesprogramacion2\TP\TP_01\MiCalculadora\MiCalculadora\obj\Debug\MiCalculadora.csprojResolveAssemblyReference.cache
+C:\Users\Ari\Desktop\clasesprogramacion2\TP\TP_01\MiCalculadora\MiCalculadora\obj\Debug\MiCalculadora.Form1.resources
+C:\Users\Ari\Desktop\clasesprogramacion2\TP\TP_01\MiCalculadora\MiCalculadora\obj\Debug\MiCalculadora.Properties.Resources.resources
+C:\Users\Ari\Desktop\clasesprogramacion2\TP\TP_01\MiCalculadora\MiCalculadora\obj\Debug\MiCalculadora.csproj.GenerateResource.Cache
+C:\Users\Ari\Desktop\clasesprogramacion2\TP\TP_01\MiCalculadora\MiCalculadora\bin\Debug\MiCalculadora.exe
+C:\Users\Ari\Desktop\clasesprogramacion2\TP\TP_01\MiCalculadora\MiCalculadora\bin\Debug\MiCalculadora.pdb
+C:\Users\Ari\Desktop\clasesprogramacion2\TP\TP_01\MiCalculadora\MiCalculadora\bin\Debug\Entidades.dll
+C:\Users\Ari\Desktop\clasesprogramacion2\TP\TP_01\MiCalculadora\MiCalculadora\bin\Debug\Entidades.pdb
+C:\Users\Ari\Desktop\clasesprogramacion2\TP\TP_01\MiCalculadora\MiCalculadora\obj\Debug\MiCalculadora.pdb

@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Express 2012 for Windows Desktop
+# Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ej 11", "Ej 11\Ej 11.csproj", "{A89E7775-B2B9-42E3-9AF1-8AF7F9645449}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ej 16", "Ej 16\Ej 16.csproj", "{5BC7EBE9-4C69-4905-A4C0-5A6FE69302CD}"
@@ -20,6 +20,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ej 17", "Ej 17\Ej 17.csproj", "{13D8F4E1-7006-4D95-9708-21721196A21F}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ej 19", "Ej 19\Ej 19.csproj", "{66DBF3C2-CBCC-4F37-A217-90C738748A9C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ej 20", "Ej 20\Ej 20.csproj", "{C2083F46-2965-4EB7-83F9-FAC077CAE9CE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -67,6 +69,10 @@ Global
 		{66DBF3C2-CBCC-4F37-A217-90C738748A9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{66DBF3C2-CBCC-4F37-A217-90C738748A9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{66DBF3C2-CBCC-4F37-A217-90C738748A9C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2083F46-2965-4EB7-83F9-FAC077CAE9CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2083F46-2965-4EB7-83F9-FAC077CAE9CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2083F46-2965-4EB7-83F9-FAC077CAE9CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2083F46-2965-4EB7-83F9-FAC077CAE9CE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

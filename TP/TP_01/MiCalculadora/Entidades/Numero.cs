@@ -36,8 +36,7 @@ namespace Entidades
             double retorno=0;
             if (double.TryParse(strNumero, out retorno))
                 return retorno;
-            else
-                return retorno;
+            return retorno;
         }
 
         /// <summary>
@@ -117,7 +116,7 @@ namespace Entidades
         }
 
         /// <summary>
-        /// Método que sobrecarga el operador +
+        /// Método que sobrecarga el operador -
         /// </summary>
         /// <param name="............">...............</param>
         /// <returns>......................</returns>
@@ -128,7 +127,7 @@ namespace Entidades
         }
 
         /// <summary>
-        /// Método que sobrecarga el operador +
+        /// Método que sobrecarga el operador *
         /// </summary>
         /// <param name="............">...............</param>
         /// <returns>......................</returns>
@@ -139,7 +138,7 @@ namespace Entidades
         }
 
         /// <summary>
-        /// Método que sobrecarga el operador +
+        /// Método que sobrecarga el operador /
         /// </summary>
         /// <param name="............">...............</param>
         /// <returns>......................</returns>

@@ -19,12 +19,15 @@ namespace MiCalculadora
 
         private void btnOperar_Click(object sender, EventArgs e)
         {
-
+            int indice = cmbOperador.SelectedIndex;
+            lblResultado.Text = (LaCalculadora.Operar(txtNumero1.Text, txtNumero2.Text, cmbOperador.Items[indice].ToString())).ToString();        
         }
 
         private void btnLimpiar_Click(object sender, EventArgs e)
         {
-
+            txtNumero1.Text = "";
+            txtNumero2.Text = "";
+            cmbOperador.Text = "";
         }
 
         private void btnCerrar_Click(object sender, EventArgs e)
@@ -47,9 +50,9 @@ namespace MiCalculadora
 
         }
 
-        private void txtNumero1_TextChanged(object sender, EventArgs e)
+        private void Form1_Load(object sender, EventArgs e)
         {
-
+            lblResultado.Text = "";
         }
     }
 }

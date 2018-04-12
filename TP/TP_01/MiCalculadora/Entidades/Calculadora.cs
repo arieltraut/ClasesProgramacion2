@@ -15,7 +15,7 @@ namespace Entidades
         /// <returns>Cadena validada</returns>
         private static string ValidarOperador(string operador)
         {
-            if (operador != "-" || operador != "/" || operador != "*")
+            if (operador != "-" && operador != "/" && operador != "*")
                 return "+";
             return operador;
         }
@@ -28,7 +28,7 @@ namespace Entidades
         public static double Operar(Numero num1, Numero num2, string operador) //ver tema static
         {
             double resultado = 0;
-            switch (Calculadora.ValidarOperador(operador))
+            /*switch (Calculadora.ValidarOperador(operador))
             {
                 case "+":
                     resultado = num1 + num2;
@@ -42,7 +42,7 @@ namespace Entidades
                 case "*":
                     resultado = num1 * num2;
                     break;
-            }
+            }*/
             return resultado;
         }
     }

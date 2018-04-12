@@ -1,0 +1,8 @@
+D:\Ariel\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 20\bin\Debug\Ej 20.exe.config
+C:\Users\Ari\Desktop\SifereClientAppDEDUCCIONES\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 20\bin\Debug\Ej 20.exe.config
+C:\Users\Ari\Desktop\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 20\bin\Debug\Ej 20.exe.config
+C:\Users\Ari\Desktop\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 20\obj\Debug\Ej 20.csprojResolveAssemblyReference.cache
+C:\Users\Ari\Desktop\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 20\bin\Debug\Ej 20.exe
+C:\Users\Ari\Desktop\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 20\bin\Debug\Ej 20.pdb
+C:\Users\Ari\Desktop\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 20\obj\Debug\Ej 20.exe
+C:\Users\Ari\Desktop\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 20\obj\Debug\Ej 20.pdb
