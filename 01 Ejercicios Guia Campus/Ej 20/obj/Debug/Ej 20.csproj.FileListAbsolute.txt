@@ -6,3 +6,8 @@ C:\Users\Ari\Desktop\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 20\bin\Deb
 C:\Users\Ari\Desktop\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 20\bin\Debug\Ej 20.pdb
 C:\Users\Ari\Desktop\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 20\obj\Debug\Ej 20.exe
 C:\Users\Ari\Desktop\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 20\obj\Debug\Ej 20.pdb
+D:\Ariel\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 20\obj\Debug\Ej 20.exe
+D:\Ariel\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 20\obj\Debug\Ej 20.pdb
+D:\Ariel\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 20\bin\Debug\Ej 20.exe
+D:\Ariel\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 20\bin\Debug\Ej 20.pdb
+D:\Ariel\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 20\obj\Debug\Ej 20.csprojResolveAssemblyReference.cache

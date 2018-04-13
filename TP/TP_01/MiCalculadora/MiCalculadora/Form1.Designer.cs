@@ -91,46 +91,54 @@
             // 
             // txtNumero1
             // 
-            this.txtNumero1.Location = new System.Drawing.Point(36, 43);
-            this.txtNumero1.Margin = new System.Windows.Forms.Padding(1, 1, 1, 1);
+            this.txtNumero1.Font = new System.Drawing.Font("Microsoft Sans Serif", 20F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtNumero1.Location = new System.Drawing.Point(36, 49);
+            this.txtNumero1.Margin = new System.Windows.Forms.Padding(1);
             this.txtNumero1.Multiline = true;
             this.txtNumero1.Name = "txtNumero1";
-            this.txtNumero1.Size = new System.Drawing.Size(132, 45);
+            this.txtNumero1.Size = new System.Drawing.Size(132, 39);
             this.txtNumero1.TabIndex = 5;
-            this.txtNumero1.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
+            this.txtNumero1.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
             // txtNumero2
             // 
-            this.txtNumero2.Location = new System.Drawing.Point(308, 43);
-            this.txtNumero2.Margin = new System.Windows.Forms.Padding(1, 1, 1, 1);
+            this.txtNumero2.Font = new System.Drawing.Font("Microsoft Sans Serif", 20F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtNumero2.Location = new System.Drawing.Point(308, 49);
+            this.txtNumero2.Margin = new System.Windows.Forms.Padding(1);
             this.txtNumero2.Multiline = true;
             this.txtNumero2.Name = "txtNumero2";
-            this.txtNumero2.Size = new System.Drawing.Size(132, 45);
+            this.txtNumero2.Size = new System.Drawing.Size(132, 39);
             this.txtNumero2.TabIndex = 7;
-            this.txtNumero2.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
+            this.txtNumero2.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
             // cmbOperador
             // 
+            this.cmbOperador.Cursor = System.Windows.Forms.Cursors.Arrow;
+            this.cmbOperador.Font = new System.Drawing.Font("Microsoft Sans Serif", 20F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.cmbOperador.FormattingEnabled = true;
             this.cmbOperador.Items.AddRange(new object[] {
             "+",
             "-",
             "*",
             "/"});
-            this.cmbOperador.Location = new System.Drawing.Point(213, 57);
-            this.cmbOperador.Margin = new System.Windows.Forms.Padding(1, 1, 1, 1);
+            this.cmbOperador.Location = new System.Drawing.Point(194, 49);
+            this.cmbOperador.Margin = new System.Windows.Forms.Padding(1);
             this.cmbOperador.Name = "cmbOperador";
-            this.cmbOperador.Size = new System.Drawing.Size(54, 21);
+            this.cmbOperador.Size = new System.Drawing.Size(88, 39);
             this.cmbOperador.TabIndex = 9;
+            this.cmbOperador.SelectedIndexChanged += new System.EventHandler(this.cmbOperador_SelectedIndexChanged);
+            this.cmbOperador.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.cmbOperador_KeyPress);
             // 
             // lblResultado
             // 
             this.lblResultado.AutoSize = true;
-            this.lblResultado.Location = new System.Drawing.Point(210, 9);
+            this.lblResultado.Font = new System.Drawing.Font("Microsoft Sans Serif", 20F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblResultado.Location = new System.Drawing.Point(411, 9);
             this.lblResultado.Name = "lblResultado";
-            this.lblResultado.Size = new System.Drawing.Size(35, 13);
+            this.lblResultado.Size = new System.Drawing.Size(86, 31);
             this.lblResultado.TabIndex = 10;
             this.lblResultado.Text = "label1";
+            this.lblResultado.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
             // 
             // Form1
             // 

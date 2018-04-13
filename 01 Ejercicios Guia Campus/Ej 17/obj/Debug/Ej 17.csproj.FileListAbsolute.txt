@@ -1,3 +1,4 @@
 D:\Ariel\clasesprogramacion2\01 Ejercicios\Ej 17\bin\Debug\Ej 17.exe.config
 C:\Users\Ari\Desktop\Nueva carpeta\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 17\bin\Debug\Ej 17.exe.config
 C:\Users\Ari\Desktop\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 17\obj\Debug\Ej 17.csprojResolveAssemblyReference.cache
+D:\Ariel\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 17\obj\Debug\Ej 17.csprojResolveAssemblyReference.cache

@@ -24,7 +24,8 @@ namespace Entidades
                 this.numero = conversion;
         }
         #endregion
-
+        
+        #region Set
 
         /// <summary>
         /// Método que valida valores numericos.
@@ -51,6 +52,10 @@ namespace Entidades
                     this.numero = value;
             }
         }
+
+        #endregion
+
+        #region Conversiones Decimal/Binario
 
         /// <summary>
         /// Método que convierte un binario ASCII en un número entero
@@ -103,6 +108,8 @@ namespace Entidades
                 return error;
             return binario;
         }
+
+        #endregion
 
         /// <summary>
         /// Método que sobrecarga el operador +

@@ -108,7 +108,7 @@ namespace Billetes
         public static bool operator !=(Pesos p1, Pesos p2)
         {
             bool retorno = true;
-            if (p1.GetCantidad() == p2.GetCantidad())
+            if (object.ReferenceEquals(p1.GetCantidad(), p1.GetCantidad()))
                 retorno = false;
             return retorno;
         }

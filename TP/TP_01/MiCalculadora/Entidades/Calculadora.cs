@@ -28,7 +28,7 @@ namespace Entidades
         public static double Operar(Numero num1, Numero num2, string operador) //ver tema static
         {
             double resultado = 0;
-            /*switch (Calculadora.ValidarOperador(operador))
+            switch (operador)
             {
                 case "+":
                     resultado = num1 + num2;
@@ -42,7 +42,7 @@ namespace Entidades
                 case "*":
                     resultado = num1 * num2;
                     break;
-            }*/
+            }
             return resultado;
         }
     }

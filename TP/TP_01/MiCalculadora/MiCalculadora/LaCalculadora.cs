@@ -11,7 +11,7 @@ namespace MiCalculadora
 {
     class LaCalculadora
     {
-        Button btnCerrar;
+        /*Button btnCerrar;
         Button btnConvertirABinario;
         Button btnConvertirADecimal;
         Button btnLimpiar;
@@ -20,14 +20,14 @@ namespace MiCalculadora
         IContainerControl components;
         Label lblResultado;
         TextBox txtNumero1;
-        TextBox txtNumero2;
+        TextBox txtNumero2;*/
 
         public static double Operar(string numero1, string numero2, string operador) // ver porque dice private
         {
             Numero num1 = new Numero(numero1);
             Numero num2 = new Numero(numero2);
-
-            return  Calculadora.Operar(num1,num2,operador);
+            double resultado = Calculadora.Operar(num1, num2, operador);
+            return resultado;
         }
     }
 }

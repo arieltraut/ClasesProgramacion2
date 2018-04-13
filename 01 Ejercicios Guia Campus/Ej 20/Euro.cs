@@ -100,7 +100,7 @@ namespace Billetes
         {
             bool retorno = false;
             Dolar d = new Dolar(p.GetCantidad() * Pesos.GetCotizacion());
-            if (e.GetCantidad() == (d.GetCantidad() * Euro.GetCotizacion()))
+            if (object.ReferenceEquals(e.GetCantidad(), (d.GetCantidad() * Dolar.GetCotizacion())))
                 retorno = true;
             return retorno;
         }

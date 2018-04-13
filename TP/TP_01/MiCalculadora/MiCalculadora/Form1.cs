@@ -54,5 +54,15 @@ namespace MiCalculadora
         {
             lblResultado.Text = "";
         }
+
+        private void cmbOperador_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void cmbOperador_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            e.Handled = true;
+        }
     }
 }
