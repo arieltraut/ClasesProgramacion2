@@ -62,15 +62,16 @@ namespace Entidades
         /// </summary>
         /// <param name="binario">Binario ASCII a convertir. EJ: 1001</param>
         /// <returns>Valor entero resultado de la conversión. EJ: 9</returns>
-        public string BinarioDecimal(string binario)
+        public static string BinarioDecimal(string binario)
         {
-            double nroDecimal = 0;
+            int nroDecimal = 0;
             string error = "Valor invalido";
 
             for (int i = 0; i < binario.Length; i++)
             {
-                if (binario[i] == 1 || binario[i] == 0)
-                    nroDecimal += double.Parse(binario[i].ToString()) * (double)Math.Pow(2, i);
+                int aux = int.Parse(binario[i].ToString());
+                if (aux == 1 || aux == 0)
+                    nroDecimal += int.Parse(binario[i].ToString()) * (int)Math.Pow(2, i);
                 else
                     return error;
             }
@@ -85,12 +86,12 @@ namespace Entidades
         public static string DecimalBinario(double numero)
         {
             string binario = "";
-            while (numero > 0)
+            while (numero >= 2)
             {
                 binario = (numero % 2).ToString() + binario;
-                numero = numero / 2;
+                numero = (int)numero / 2;
             }
-            return binario;
+            return numero.ToString()+binario;
         }
 
         /// <summary>
@@ -100,17 +101,18 @@ namespace Entidades
         /// <returns>Valor binario ASCII resultado de la conversión. EJ: 1001</returns>
         public static string DecimalBinario(string numero)
         {
-            string binario = "", error = "Valor invalido";
-            double conversion = 0;
-            if (double.TryParse(numero, out conversion))
-                binario = DecimalBinario(conversion);
-            else
-                return error;
-            return binario;
+            string error = "Valor invalido";
+            for (int i = 0; i < numero.Length; i++)
+            {
+                if (!char.IsDigit(numero, i))
+                    return error;
+            }
+            return DecimalBinario(double.Parse(numero));
         }
 
         #endregion
 
+        #region Sobrecargas
         /// <summary>
         /// Método que sobrecarga el operador +
         /// </summary>
@@ -154,5 +156,6 @@ namespace Entidades
             double retorno = n1.numero / n2.numero;
             return retorno;
         }
+        #endregion
     }
 }

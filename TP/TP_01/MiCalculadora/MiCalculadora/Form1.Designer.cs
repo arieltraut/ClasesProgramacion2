@@ -41,9 +41,10 @@
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(36, 122);
+            this.button1.Location = new System.Drawing.Point(96, 291);
+            this.button1.Margin = new System.Windows.Forms.Padding(8, 7, 8, 7);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(129, 43);
+            this.button1.Size = new System.Drawing.Size(344, 103);
             this.button1.TabIndex = 0;
             this.button1.Text = "Operar";
             this.button1.UseVisualStyleBackColor = true;
@@ -51,9 +52,10 @@
             // 
             // button2
             // 
-            this.button2.Location = new System.Drawing.Point(173, 122);
+            this.button2.Location = new System.Drawing.Point(461, 291);
+            this.button2.Margin = new System.Windows.Forms.Padding(8, 7, 8, 7);
             this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(129, 43);
+            this.button2.Size = new System.Drawing.Size(344, 103);
             this.button2.TabIndex = 1;
             this.button2.Text = "Limpiar";
             this.button2.UseVisualStyleBackColor = true;
@@ -61,9 +63,10 @@
             // 
             // button3
             // 
-            this.button3.Location = new System.Drawing.Point(309, 122);
+            this.button3.Location = new System.Drawing.Point(824, 291);
+            this.button3.Margin = new System.Windows.Forms.Padding(8, 7, 8, 7);
             this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(129, 43);
+            this.button3.Size = new System.Drawing.Size(344, 103);
             this.button3.TabIndex = 2;
             this.button3.Text = "Cerrar";
             this.button3.UseVisualStyleBackColor = true;
@@ -71,9 +74,10 @@
             // 
             // button4
             // 
-            this.button4.Location = new System.Drawing.Point(36, 174);
+            this.button4.Location = new System.Drawing.Point(96, 415);
+            this.button4.Margin = new System.Windows.Forms.Padding(8, 7, 8, 7);
             this.button4.Name = "button4";
-            this.button4.Size = new System.Drawing.Size(196, 43);
+            this.button4.Size = new System.Drawing.Size(523, 103);
             this.button4.TabIndex = 3;
             this.button4.Text = "Convertir a Binario";
             this.button4.UseVisualStyleBackColor = true;
@@ -81,9 +85,10 @@
             // 
             // button5
             // 
-            this.button5.Location = new System.Drawing.Point(242, 174);
+            this.button5.Location = new System.Drawing.Point(645, 415);
+            this.button5.Margin = new System.Windows.Forms.Padding(8, 7, 8, 7);
             this.button5.Name = "button5";
-            this.button5.Size = new System.Drawing.Size(196, 43);
+            this.button5.Size = new System.Drawing.Size(523, 103);
             this.button5.TabIndex = 4;
             this.button5.Text = "Convertir a Decimal";
             this.button5.UseVisualStyleBackColor = true;
@@ -92,22 +97,22 @@
             // txtNumero1
             // 
             this.txtNumero1.Font = new System.Drawing.Font("Microsoft Sans Serif", 20F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtNumero1.Location = new System.Drawing.Point(36, 49);
-            this.txtNumero1.Margin = new System.Windows.Forms.Padding(1);
+            this.txtNumero1.Location = new System.Drawing.Point(96, 117);
+            this.txtNumero1.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.txtNumero1.Multiline = true;
             this.txtNumero1.Name = "txtNumero1";
-            this.txtNumero1.Size = new System.Drawing.Size(132, 39);
+            this.txtNumero1.Size = new System.Drawing.Size(345, 87);
             this.txtNumero1.TabIndex = 5;
             this.txtNumero1.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
             // txtNumero2
             // 
             this.txtNumero2.Font = new System.Drawing.Font("Microsoft Sans Serif", 20F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtNumero2.Location = new System.Drawing.Point(308, 49);
-            this.txtNumero2.Margin = new System.Windows.Forms.Padding(1);
+            this.txtNumero2.Location = new System.Drawing.Point(821, 117);
+            this.txtNumero2.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.txtNumero2.Multiline = true;
             this.txtNumero2.Name = "txtNumero2";
-            this.txtNumero2.Size = new System.Drawing.Size(132, 39);
+            this.txtNumero2.Size = new System.Drawing.Size(345, 87);
             this.txtNumero2.TabIndex = 7;
             this.txtNumero2.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
@@ -121,30 +126,29 @@
             "-",
             "*",
             "/"});
-            this.cmbOperador.Location = new System.Drawing.Point(194, 49);
-            this.cmbOperador.Margin = new System.Windows.Forms.Padding(1);
+            this.cmbOperador.Location = new System.Drawing.Point(517, 117);
+            this.cmbOperador.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.cmbOperador.Name = "cmbOperador";
-            this.cmbOperador.Size = new System.Drawing.Size(88, 39);
+            this.cmbOperador.Size = new System.Drawing.Size(228, 84);
             this.cmbOperador.TabIndex = 9;
-            this.cmbOperador.SelectedIndexChanged += new System.EventHandler(this.cmbOperador_SelectedIndexChanged);
             this.cmbOperador.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.cmbOperador_KeyPress);
             // 
             // lblResultado
             // 
-            this.lblResultado.AutoSize = true;
             this.lblResultado.Font = new System.Drawing.Font("Microsoft Sans Serif", 20F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblResultado.Location = new System.Drawing.Point(411, 9);
+            this.lblResultado.Location = new System.Drawing.Point(96, 20);
+            this.lblResultado.Margin = new System.Windows.Forms.Padding(8, 0, 0, 0);
             this.lblResultado.Name = "lblResultado";
-            this.lblResultado.Size = new System.Drawing.Size(86, 31);
+            this.lblResultado.Size = new System.Drawing.Size(1070, 76);
             this.lblResultado.TabIndex = 10;
-            this.lblResultado.Text = "label1";
+            this.lblResultado.Text = "resultado";
             this.lblResultado.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
             // 
             // Form1
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(16F, 31F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(474, 248);
+            this.ClientSize = new System.Drawing.Size(1264, 591);
             this.Controls.Add(this.lblResultado);
             this.Controls.Add(this.cmbOperador);
             this.Controls.Add(this.txtNumero2);
@@ -155,6 +159,7 @@
             this.Controls.Add(this.button2);
             this.Controls.Add(this.button1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
+            this.Margin = new System.Windows.Forms.Padding(8, 7, 8, 7);
             this.MaximizeBox = false;
             this.MinimizeBox = false;
             this.Name = "Form1";

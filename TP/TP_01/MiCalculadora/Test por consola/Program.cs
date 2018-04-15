@@ -15,10 +15,22 @@ namespace Test_por_consola
             Numero num2 = new Numero(10);
 
             
-            Console.WriteLine(Calculadora.Operar(num1,num2,"-"));
+            //Console.WriteLine(Calculadora.Operar(num1,num2,"-"));
             /*Console.WriteLine(num1 - num2);
             Console.WriteLine(num1 * num2);
             Console.WriteLine(num1 / num2);*/
+
+            /*string nroBinario = "111";
+
+            Console.WriteLine(Numero.BinarioDecimal(nroBinario));*/
+
+            string nroDecimal = "7";
+            //double nroDecimal2 = 7;
+            Console.WriteLine(Numero.DecimalBinario(nroDecimal));
+            //Console.WriteLine(Numero.DecimalBinario(nroDecimal2));
+
+
+
             Console.ReadKey();
         }
     }
