@@ -4,3 +4,6 @@ D:\Ariel\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 27\bin\Debug\Ej 27.pdb
 D:\Ariel\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 27\obj\Debug\Ej 27.csprojResolveAssemblyReference.cache
 D:\Ariel\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 27\obj\Debug\Ej 27.exe
 D:\Ariel\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 27\obj\Debug\Ej 27.pdb
+C:\Users\Ari\Desktop\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 27\bin\Debug\Ej 27.exe.config
+C:\Users\Ari\Desktop\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 27\obj\Debug\Ej 27.exe
+C:\Users\Ari\Desktop\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 27\obj\Debug\Ej 27.pdb

@@ -64,18 +64,20 @@ namespace Entidades
         /// <returns>Valor entero resultado de la conversión. EJ: 9</returns>
         public static string BinarioDecimal(string binario)
         {
-            int nroDecimal = 0;
-            string error = "Valor invalido";
+            int nroDecimal = 0, aux = 0;
+            string retorno = "";
 
-            for (int i = 0; i < binario.Length; i++)
+            for (int i = 1; i <= binario.Length; i++)
             {
-                int aux = int.Parse(binario[i].ToString()); // primer conversion
-                if (aux == 1 || aux == 0)
-                    nroDecimal += int.Parse(binario[i].ToString()) * (int)Math.Pow(2, i); //convierto 2 veces
+                if (Int32.TryParse(binario[i-1].ToString(), out aux) && (aux == 1 || aux == 0))
+                {
+                    nroDecimal += aux * (int)Math.Pow(2, binario.Length - i);
+                    retorno = nroDecimal.ToString();
+                }
                 else
-                    return error;
+                    retorno = "Valor invalido";
             }
-            return nroDecimal.ToString();
+            return retorno;
         }
 
         /// <summary>

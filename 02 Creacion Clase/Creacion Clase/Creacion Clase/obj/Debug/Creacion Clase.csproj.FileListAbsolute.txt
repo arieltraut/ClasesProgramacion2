@@ -19,3 +19,9 @@ C:\Users\Ari\Desktop\Prog - Lab II-20180327T173830Z-001\Prog - Lab II\02 Creacio
 C:\Users\Ari\Desktop\Prog - Lab II-20180327T173830Z-001\Prog - Lab II\02 Creacion Clase\Creacion Clase\Creacion Clase\obj\Debug\Creacion Clase.csprojResolveAssemblyReference.cache
 C:\Users\Ari\Desktop\Prog - Lab II-20180327T173830Z-001\Prog - Lab II\02 Creacion Clase\Creacion Clase\Creacion Clase\bin\Debug\Creacion Clase.exe
 C:\Users\Ari\Desktop\Prog - Lab II-20180327T173830Z-001\Prog - Lab II\02 Creacion Clase\Creacion Clase\Creacion Clase\bin\Debug\Creacion Clase.pdb
+C:\Users\Ari\Desktop\clasesprogramacion2\02 Creacion Clase\Creacion Clase\Creacion Clase\bin\Debug\Creacion Clase.exe.config
+C:\Users\Ari\Desktop\clasesprogramacion2\02 Creacion Clase\Creacion Clase\Creacion Clase\obj\Debug\Creacion Clase.exe
+C:\Users\Ari\Desktop\clasesprogramacion2\02 Creacion Clase\Creacion Clase\Creacion Clase\obj\Debug\Creacion Clase.pdb
+C:\Users\Ari\Desktop\clasesprogramacion2\02 Creacion Clase\Creacion Clase\Creacion Clase\bin\Debug\Creacion Clase.exe
+C:\Users\Ari\Desktop\clasesprogramacion2\02 Creacion Clase\Creacion Clase\Creacion Clase\bin\Debug\Creacion Clase.pdb
+C:\Users\Ari\Desktop\clasesprogramacion2\02 Creacion Clase\Creacion Clase\Creacion Clase\obj\Debug\Creacion Clase.csprojResolveAssemblyReference.cache
