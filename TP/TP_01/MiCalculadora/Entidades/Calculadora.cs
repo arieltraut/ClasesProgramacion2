@@ -28,7 +28,7 @@ namespace Entidades
         public static double Operar(Numero num1, Numero num2, string operador) //ver tema static
         {
             double resultado = 0;
-            switch (operador) //ValidarOperador(operador)
+            switch (ValidarOperador(operador))
             {
                 case "+":
                     resultado = num1 + num2;

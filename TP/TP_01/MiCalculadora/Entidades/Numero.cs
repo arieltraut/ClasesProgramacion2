@@ -14,7 +14,7 @@ namespace Entidades
 
         public Numero(double numero)
         {
-            this.numero = numero;
+            this.SetNumero = numero;
         }
 
         public Numero(string strNumero)
@@ -69,9 +69,9 @@ namespace Entidades
 
             for (int i = 0; i < binario.Length; i++)
             {
-                int aux = int.Parse(binario[i].ToString());
+                int aux = int.Parse(binario[i].ToString()); // primer conversion
                 if (aux == 1 || aux == 0)
-                    nroDecimal += int.Parse(binario[i].ToString()) * (int)Math.Pow(2, i);
+                    nroDecimal += int.Parse(binario[i].ToString()) * (int)Math.Pow(2, i); //convierto 2 veces
                 else
                     return error;
             }
