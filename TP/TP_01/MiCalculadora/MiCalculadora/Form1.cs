@@ -25,7 +25,7 @@ namespace MiCalculadora
                 if (indice == 3 && (String.IsNullOrEmpty(txtNumero2.Text) || indice == 3 && (Convert.ToDouble(txtNumero2.Text)) == 0))
                     lblResultado.Text = "No se puede dividir en cero";
                 else
-                    lblResultado.Text = (LaCalculadora.Operar(txtNumero1.Text, txtNumero2.Text, cmbOperador.Items[indice].ToString())).ToString("0.##");       
+                    lblResultado.Text = (this.Operar(txtNumero1.Text, txtNumero2.Text, cmbOperador.Items[indice].ToString())).ToString("0.##");       
         }
 
         private void btnLimpiar_Click(object sender, EventArgs e)
@@ -62,5 +62,14 @@ namespace MiCalculadora
         {
             e.Handled = true;
         }
+
+        private double Operar(string numero1, string numero2, string operador)
+        {
+            Numero num1 = new Numero(numero1);
+            Numero num2 = new Numero(numero2);
+            double resultado = Calculadora.Operar(num1, num2, operador);
+            return resultado;
+        }
     }
 }
+
