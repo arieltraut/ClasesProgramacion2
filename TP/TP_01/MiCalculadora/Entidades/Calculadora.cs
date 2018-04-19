@@ -21,11 +21,13 @@ namespace Entidades
         }
 
         /// <summary>
-        /// ........................
+        /// Metodo que realiza operaciones aritmeticas.
         /// </summary>
-        /// <param name="...">.........</param>
-        /// <returns>..................</returns>
-        public static double Operar(Numero num1, Numero num2, string operador) //ver tema static
+        /// <param name="num1">Primer operando.</param>
+        /// <param name="num2">Segundo operando</param>
+        /// <param name="operador">Operador</param>
+        /// <returns>Resultado de la operacion</returns>
+        public static double Operar(Numero num1, Numero num2, string operador)
         {
             double resultado = 0;
             switch (ValidarOperador(operador))
