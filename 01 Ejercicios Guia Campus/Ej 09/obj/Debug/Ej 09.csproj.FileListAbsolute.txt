@@ -8,3 +8,8 @@ D:\Ariel\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 09\bin\Debug\Ej 09.exe
 D:\Ariel\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 09\bin\Debug\Ej 09.pdb
 D:\Ariel\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 09\obj\Debug\Ej 09.exe
 D:\Ariel\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 09\obj\Debug\Ej 09.pdb
+C:\Users\Ari\Desktop\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 09\bin\Debug\Ej 09.exe.config
+C:\Users\Ari\Desktop\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 09\bin\Debug\Ej 09.exe
+C:\Users\Ari\Desktop\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 09\bin\Debug\Ej 09.pdb
+C:\Users\Ari\Desktop\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 09\obj\Debug\Ej 09.exe
+C:\Users\Ari\Desktop\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 09\obj\Debug\Ej 09.pdb

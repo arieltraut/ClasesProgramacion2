@@ -43,10 +43,10 @@ namespace Ej_19
             return a + b;
         }
 
-        explicit operator int Conversion (Sumador s)
+        /*explicit operator int Conversion (Sumador s)
         {
 
-        }
+        }*/
     
 
     }

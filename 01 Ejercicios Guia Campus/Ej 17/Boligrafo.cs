@@ -39,7 +39,7 @@ namespace Ej_17
             this.SetTinta(cantidadTintaMaxima);
         }
 
-        public bool Pintar(short gasto, out string dibujo)
+        /*public bool Pintar(short gasto, out string dibujo)
         {
             short aux = (Int16)(this.tinta - gasto); // casting a int16 porque da error sino, no se sabe porque
             if (aux > 0)
@@ -53,7 +53,7 @@ namespace Ej_17
             }
             
             return false;
-        }
+        }*/
 
     }
 }

@@ -30,13 +30,9 @@ namespace Ej_27
                 colaNegativos.Enqueue(a);
             }
 
-
-
-
-
             
 
-            listaNumeros.Sort(ordenDescendiente) ;
+            listaNumeros.Sort(ordenDescendente) ;
             Console.WriteLine();
             foreach (int a in listaNumeros)
             {
@@ -48,7 +44,7 @@ namespace Ej_27
         }
 
 
-        static int ordenDescendiente (int a, int b) //siempre static
+        static int ordenDescendente (int a, int b) //siempre static
         {
             return -(a.CompareTo(b));  
         }

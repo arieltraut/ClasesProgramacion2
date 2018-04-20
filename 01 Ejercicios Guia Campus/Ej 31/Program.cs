@@ -10,6 +10,10 @@ namespace Ej_31
     {
         static void Main(string[] args)
         {
+            Negocio miNegocio = new Negocio("nombreNegocio");
+
+            
+
         }
     }
 }

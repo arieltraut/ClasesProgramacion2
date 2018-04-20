@@ -12,28 +12,33 @@ namespace Ej_31
         private Queue<Cliente> clientes;
         private string nombre;
 
-
+        #region Constructores
         private Negocio()
         {
             this.clientes = new Queue<Cliente>();
             this.caja = new PuestoAtencion(PuestoAtencion.Puesto.Caja1);
         }
         
-        public Negocio(string nombre)
+        public Negocio(string nombre) : this()
         {
             this.nombre = nombre;    
         }
-       
-        
+        #endregion
+
+
         public Cliente Cliente
         {
             get
             {
                 return this.clientes.Dequeue();
             }
-
-          
+            set
+            {
+                bool x = this + value;
+            } 
         }
+
+        #region Sobrecargas
 
         public static bool operator +(Negocio n, Cliente c)
         {
@@ -57,10 +62,12 @@ namespace Ej_31
         {
             return !(n == c);
         }
+        #endregion
 
-        public static bool operator ~(Negocio n)
-        {
-            return 
+
+        public bool operator ~(Negocio n)
+        {          
+            return this.caja.Atender(n.Cliente); 
         }
     }
 }
