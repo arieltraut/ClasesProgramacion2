@@ -39,7 +39,7 @@ namespace Entidades
         }
 
         /// <summary>
-        /// Propiedad que valida y asigna valor al atributo numero.
+        /// Propiedad que asigna valor al atributo numero.
         /// </summary>
         /// <returns>Valor ingresado en formato double</returns>
         public string SetNumero
@@ -82,16 +82,16 @@ namespace Entidades
         /// <summary>
         /// Método que convierte un número entero en un binario
         /// </summary>
-        /// <param name="numero">Número a convertir. EJ: 9</param>
+        /// <param name="numero">Número a convertir.</param>
         /// <returns>Valor binario resultado de la conversión.</returns>
         public static string DecimalBinario(double numero)
         {
             string binario = "";
             int entero = (int)numero;
-            while (numero >= 2)
+            while (entero >= 2)
             {
                 binario = (entero % 2).ToString() + binario;
-                entero = entero / 2;
+                entero = (int)entero / 2;
             }
             return entero.ToString()+binario;
         }

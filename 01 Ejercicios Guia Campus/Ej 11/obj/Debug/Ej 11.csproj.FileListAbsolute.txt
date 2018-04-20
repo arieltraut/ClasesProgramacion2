@@ -19,3 +19,6 @@ D:\Ariel\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 11\bin\Debug\Ej 11.pdb
 D:\Ariel\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 11\obj\Debug\Ej 11.csprojResolveAssemblyReference.cache
 D:\Ariel\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 11\obj\Debug\Ej 11.exe
 D:\Ariel\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 11\obj\Debug\Ej 11.pdb
+D:\Ariel\clasesprogramacion2\01 Ejercicios Guia Campus\Hasta el 30\Ej 11\bin\Debug\Ej 11.exe.config
+D:\Ariel\clasesprogramacion2\01 Ejercicios Guia Campus\Hasta el 30\Ej 11\obj\Debug\Ej 11.exe
+D:\Ariel\clasesprogramacion2\01 Ejercicios Guia Campus\Hasta el 30\Ej 11\obj\Debug\Ej 11.pdb

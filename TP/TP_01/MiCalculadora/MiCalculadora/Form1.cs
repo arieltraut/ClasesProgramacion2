@@ -69,22 +69,6 @@ namespace MiCalculadora
             e.Handled = true;
         }
 
-
-        /// <summary>
-        /// Método que toma ambos operandos y operador y retorna el resultado
-        /// </summary>
-        /// <param name="numero1">Primer operando.</param>
-        /// <param name="numero2">Segundo operando</param>
-        /// <param name="operador">Operador</param>
-        /// <returns>Resultado de la operacion</returns>
-        private double Operar(string numero1, string numero2, string operador)
-        {
-            Numero num1 = new Numero(numero1);
-            Numero num2 = new Numero(numero2);
-            double resultado = Calculadora.Operar(num1, num2, operador);
-            return resultado;
-        }
-
         private void txtNumero1_KeyDown(object sender, KeyEventArgs e)
         {
             if (e.KeyCode == Keys.Enter)
@@ -101,7 +85,20 @@ namespace MiCalculadora
             }
         }
 
-
+        /// <summary>
+        /// Método que toma ambos operandos y operador y retorna el resultado
+        /// </summary>
+        /// <param name="numero1">Primer operando.</param>
+        /// <param name="numero2">Segundo operando</param>
+        /// <param name="operador">Operador</param>
+        /// <returns>Resultado de la operacion</returns>
+        private double Operar(string numero1, string numero2, string operador)
+        {
+            Numero num1 = new Numero(numero1);
+            Numero num2 = new Numero(numero2);
+            double resultado = Calculadora.Operar(num1, num2, operador);
+            return resultado;
+        }
     }
 }
 
