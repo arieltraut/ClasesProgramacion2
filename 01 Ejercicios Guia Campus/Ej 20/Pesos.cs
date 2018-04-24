@@ -92,6 +92,37 @@ namespace Billetes
 
         #endregion
 
+
+        public override bool Equals(object obj)
+        {
+            if (obj is Pesos)
+            {
+                Pesos temp = (Pesos)obj;
+                if (GetCantidad() == temp.GetCantidad())
+                    return true;
+            }            
+            return false;
+        }
+
+        public static bool operator ==(Pesos p1, Pesos p2)
+        {
+            /*bool retorno = true;
+            if (object.ReferenceEquals(p1.GetCantidad(), p1.GetCantidad()))
+                retorno = false;*/
+            return p1.Equals(p2);
+        }
+
+        public static bool operator !=(Pesos p1, Pesos p2)
+        {
+            return !(p1 == p2); // !(p1.Equals(p2);
+        }
+
+
+        public override int GetHashCode()
+        {
+            return this.ToString().GetHashCode();
+        }
+        
         public static bool operator !=(Pesos p, Dolar d)
         {
             bool retorno = true;
@@ -105,18 +136,7 @@ namespace Billetes
             return !(p != d);
         }
 
-        public static bool operator !=(Pesos p1, Pesos p2)
-        {
-            bool retorno = true;
-            if (object.ReferenceEquals(p1.GetCantidad(), p1.GetCantidad()))
-                retorno = false;
-            return retorno;
-        }
 
-        public static bool operator ==(Pesos p1, Pesos p2)
-        {
-            return !(p1 != p2);
-        }
 
 
 

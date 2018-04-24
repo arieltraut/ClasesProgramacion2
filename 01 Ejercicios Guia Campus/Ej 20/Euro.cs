@@ -96,6 +96,33 @@ namespace Billetes
 
         #region Igual o Distinto
 
+        public override bool Equals(object obj)
+        {
+            if (obj is Euro)
+            {
+                Euro temp = (Euro)obj;
+                if (GetCantidad() == temp.GetCantidad())
+                    return true;
+            }
+            return false;
+        }
+
+        public static bool operator ==(Euro e1, Euro e2)
+        {
+            return e1.Equals(e2);
+        }
+
+        public static bool operator !=(Euro e1, Euro e2)
+        {
+            return !(e1 == e2);
+        }
+
+        public override int GetHashCode()
+        {
+            return this.ToString().GetHashCode();
+        }        
+        
+
         public static bool operator ==(Euro e, Pesos p)
         {
             bool retorno = false;
@@ -123,18 +150,7 @@ namespace Billetes
             return !(d == e);
         }
 
-        public static bool operator ==(Euro e1, Euro e2)
-        {
-            bool retorno = false;
-            if (e1.GetCantidad() == e2.GetCantidad())
-                retorno = true;
-            return retorno;
-        }
 
-        public static bool operator !=(Euro e1, Euro e2)
-        {
-            return !(e1 == e2);
-        }
 
         #endregion
     }
