@@ -14,3 +14,9 @@ C:\Users\Ari\Desktop\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 05\bin\Deb
 C:\Users\Ari\Desktop\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 05\obj\Debug\Ej 05.csprojResolveAssemblyReference.cache
 C:\Users\Ari\Desktop\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 05\obj\Debug\Ej 05.exe
 C:\Users\Ari\Desktop\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 05\obj\Debug\Ej 05.pdb
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 05\bin\Debug\Ej 05.exe.config
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 05\bin\Debug\Ej 05.exe
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 05\bin\Debug\Ej 05.pdb
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 05\obj\Debug\Ej 05.csprojResolveAssemblyReference.cache
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 05\obj\Debug\Ej 05.exe
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 05\obj\Debug\Ej 05.pdb

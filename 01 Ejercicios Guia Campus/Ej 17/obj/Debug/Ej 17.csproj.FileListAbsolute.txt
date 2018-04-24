@@ -7,3 +7,9 @@ C:\Users\Ari\Desktop\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 17\bin\Deb
 C:\Users\Ari\Desktop\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 17\bin\Debug\Ej 17.pdb
 C:\Users\Ari\Desktop\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 17\obj\Debug\Ej 17.exe
 C:\Users\Ari\Desktop\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 17\obj\Debug\Ej 17.pdb
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 17\bin\Debug\Ej 17.exe.config
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 17\bin\Debug\Ej 17.exe
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 17\bin\Debug\Ej 17.pdb
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 17\obj\Debug\Ej 17.csprojResolveAssemblyReference.cache
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 17\obj\Debug\Ej 17.exe
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 17\obj\Debug\Ej 17.pdb

@@ -64,10 +64,10 @@ namespace Ej_31
         }
         #endregion
 
-
+        /*
         public bool operator ~(Negocio n)
         {          
             return this.caja.Atender(n.Cliente); 
-        }
+        }*/
     }
 }
