@@ -20,3 +20,9 @@ D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 19\bin
 D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 19\obj\Debug\Ej 19.csprojResolveAssemblyReference.cache
 D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 19\obj\Debug\Ej 19.exe
 D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 19\obj\Debug\Ej 19.pdb
+C:\Users\airi\Desktop\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 19\bin\Debug\Ej 19.exe.config
+C:\Users\airi\Desktop\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 19\bin\Debug\Ej 19.exe
+C:\Users\airi\Desktop\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 19\bin\Debug\Ej 19.pdb
+C:\Users\airi\Desktop\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 19\obj\Debug\Ej 19.csprojResolveAssemblyReference.cache
+C:\Users\airi\Desktop\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 19\obj\Debug\Ej 19.exe
+C:\Users\airi\Desktop\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 19\obj\Debug\Ej 19.pdb

@@ -16,3 +16,9 @@ D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 26\bin
 D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 26\obj\Debug\Ej 26.csprojResolveAssemblyReference.cache
 D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 26\obj\Debug\Ej 26.exe
 D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 26\obj\Debug\Ej 26.pdb
+C:\Users\airi\Desktop\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 26\bin\Debug\Ej 26.exe.config
+C:\Users\airi\Desktop\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 26\bin\Debug\Ej 26.exe
+C:\Users\airi\Desktop\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 26\bin\Debug\Ej 26.pdb
+C:\Users\airi\Desktop\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 26\obj\Debug\Ej 26.csprojResolveAssemblyReference.cache
+C:\Users\airi\Desktop\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 26\obj\Debug\Ej 26.exe
+C:\Users\airi\Desktop\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 26\obj\Debug\Ej 26.pdb

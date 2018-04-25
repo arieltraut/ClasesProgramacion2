@@ -34,3 +34,12 @@ D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 28\obj
 D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 28\obj\Debug\Ej 28.csproj.GenerateResource.Cache
 D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 28\obj\Debug\Ej 28.exe
 D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 28\obj\Debug\Ej 28.pdb
+C:\Users\airi\Desktop\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 28\bin\Debug\Ej 28.exe.config
+C:\Users\airi\Desktop\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 28\bin\Debug\Ej 28.exe
+C:\Users\airi\Desktop\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 28\bin\Debug\Ej 28.pdb
+C:\Users\airi\Desktop\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 28\obj\Debug\Ej 28.csprojResolveAssemblyReference.cache
+C:\Users\airi\Desktop\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 28\obj\Debug\Ej_28.Form1.resources
+C:\Users\airi\Desktop\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 28\obj\Debug\Ej_28.Properties.Resources.resources
+C:\Users\airi\Desktop\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 28\obj\Debug\Ej 28.csproj.GenerateResource.Cache
+C:\Users\airi\Desktop\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 28\obj\Debug\Ej 28.exe
+C:\Users\airi\Desktop\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 28\obj\Debug\Ej 28.pdb

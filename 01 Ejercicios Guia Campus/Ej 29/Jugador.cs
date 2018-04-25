@@ -42,10 +42,33 @@ namespace Ej_29
 
         public float GetPromedioGoles()
         {
-            return (float)totalGoles / partidosJugados;
+            return (partidosJugados == 0) ? 0 : (float)totalGoles / partidosJugados;
         }
 
+        public string MostrarDatos()
+        {
+            StringBuilder sb = new StringBuilder();
+            sb.AppendLine(dni.ToString());
+            sb.AppendLine(nombre);
+            sb.AppendLine(partidosJugados.ToString());
+            sb.AppendLine(totalGoles.ToString());
+            sb.AppendLine(GetPromedioGoles().ToString());
 
+            return sb.ToString();
+        }
+
+        public static bool operator ==(Jugador j1, Jugador j2)
+        {
+            if ((!Object.ReferenceEquals(j1, null)) || !(Object.ReferenceEquals(j2, null)))
+                if (j1.dni == j2.dni)
+                    return true;
+            return false;
+        }
+
+        public static bool operator !=(Jugador j1, Jugador j2)
+        {
+            return !(j1 == j2);
+        }
 
     }
 }
