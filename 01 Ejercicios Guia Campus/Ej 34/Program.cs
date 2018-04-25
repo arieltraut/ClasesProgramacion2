@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Threading;
 
 namespace Ej_34
 {
@@ -10,6 +11,11 @@ namespace Ej_34
     {
         static void Main(string[] args)
         {
+            VehiculoTerrestre vehiculo;
+            
+            Moto harleyDavidson = new Moto(2,0,Colores..,);
+            
+
         }
     }
 }

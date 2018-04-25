@@ -6,12 +6,17 @@ using System.Threading.Tasks;
 
 namespace Ej_34
 {
-    class Camion
+    class Camion : VehiculoTerrestre
     {
-        private short cantidadRuedas;
+        private short cantidadMarchas;
         private int pesoCarga;
 
-
+        public Camion(short cantRuedas, short cantPuertas, Colores color,
+            short cantMarchas, int pesoCarga) : base (cantRuedas,cantPuertas,color)
+        {
+            this.cantidadMarchas = cantMarchas;
+            this.pesoCarga = pesoCarga;
+        }
 
 
 

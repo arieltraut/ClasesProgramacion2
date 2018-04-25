@@ -6,20 +6,17 @@ using System.Threading.Tasks;
 
 namespace Ej_34
 {
-    class Automovil
+    class Automovil : VehiculoTerrestre
     {
-        private short cantidadPuertas;
-        private Colores color;
         private short cantidadMarchas;
         private int cantidadPasajeros;
 
-        public enum Colores
+        public Automovil(short cantRuedas, short cantPuertas, Colores color,
+            short cantMarchas, int cantPasajeros) : base (cantRuedas,cantPuertas,color)
         {
-            Rojo,
-            Blanco,
-            Azul,
-            Gris,
-            Negro
+            this.cantidadMarchas = cantMarchas;
+            this.cantidadPasajeros = cantPasajeros;
         }
+
     }
 }
