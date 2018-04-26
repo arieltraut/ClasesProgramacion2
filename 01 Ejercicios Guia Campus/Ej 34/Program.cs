@@ -10,10 +10,10 @@ namespace Ej_34
     class Program
     {
         static void Main(string[] args)
-        {
-            VehiculoTerrestre vehiculo;
-            
-            Moto harleyDavidson = new Moto(2,0,Colores..,);
+        {          
+            Moto harleyDavidson = new Moto(2,0,VehiculoTerrestre.Colores.Azul,250);
+
+
             
 
         }
