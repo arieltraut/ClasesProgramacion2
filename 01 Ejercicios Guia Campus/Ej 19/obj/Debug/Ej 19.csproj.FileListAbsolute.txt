@@ -26,3 +26,5 @@ C:\Users\airi\Desktop\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 19\bin\De
 C:\Users\airi\Desktop\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 19\obj\Debug\Ej 19.csprojResolveAssemblyReference.cache
 C:\Users\airi\Desktop\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 19\obj\Debug\Ej 19.exe
 C:\Users\airi\Desktop\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 19\obj\Debug\Ej 19.pdb
+D:\Ariel\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 19\bin\Debug\Ej 19.exe
+D:\Ariel\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 19\bin\Debug\Ej 19.pdb

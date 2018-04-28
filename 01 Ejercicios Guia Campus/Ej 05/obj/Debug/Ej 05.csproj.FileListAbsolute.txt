@@ -26,3 +26,4 @@ C:\Users\airi\Desktop\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 05\bin\De
 C:\Users\airi\Desktop\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 05\obj\Debug\Ej 05.csprojResolveAssemblyReference.cache
 C:\Users\airi\Desktop\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 05\obj\Debug\Ej 05.exe
 C:\Users\airi\Desktop\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 05\obj\Debug\Ej 05.pdb
+D:\Ariel\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 05\obj\Debug\Ej 05.csprojResolveAssemblyReference.cache

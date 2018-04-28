@@ -10,7 +10,7 @@ namespace CentralitaHerencia
     {
         protected Franja franjaHoraria;
 
-        public float CostoLlamada
+        public override float CostoLlamada
         {
             get
             {
@@ -53,12 +53,24 @@ namespace CentralitaHerencia
             return retorno;
         }
 
-        public string Mostrar()
+        protected override string Mostrar()
         {
             StringBuilder sb = new StringBuilder();
-            sb.AppendLine("Costo llamada provincial: " + this.CostoLlamada.ToString());
-            base.Mostrar();
+            sb.AppendFormat("{0}\t Costo Prov:  ${1}", base.Mostrar(), this.CostoLlamada.ToString("0.##"));
             return sb.ToString();
+        }
+
+        public override bool Equals(object obj)
+        {
+            if (obj is Local)
+                return true;
+            else
+                return false;
+        }
+
+        public override string ToString()
+        {
+            return Mostrar();
         }
 
     }

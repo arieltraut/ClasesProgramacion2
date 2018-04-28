@@ -13,3 +13,8 @@ C:\Users\airi\Desktop\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 33\bin\De
 C:\Users\airi\Desktop\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 33\bin\Debug\Ej 33.pdb
 C:\Users\airi\Desktop\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 33\obj\Debug\Ej 33.exe
 C:\Users\airi\Desktop\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 33\obj\Debug\Ej 33.pdb
+D:\Ariel\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 33\bin\Debug\Ej 33.exe.config
+D:\Ariel\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 33\bin\Debug\Ej 33.exe
+D:\Ariel\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 33\bin\Debug\Ej 33.pdb
+D:\Ariel\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 33\obj\Debug\Ej 33.exe
+D:\Ariel\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 33\obj\Debug\Ej 33.pdb

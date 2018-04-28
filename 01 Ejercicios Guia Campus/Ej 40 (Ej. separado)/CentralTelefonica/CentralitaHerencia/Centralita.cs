@@ -81,13 +81,25 @@ namespace CentralitaHerencia
             StringBuilder sb = new StringBuilder();
             sb.AppendLine("------------------------------------");            
             sb.AppendLine("Razon Social: " + razonSocial);
-            sb.AppendLine("Ganancia Total: " + GananciasPorTotal.ToString());
-            sb.AppendLine("Ganancia Local: " + GananciasPorLocal.ToString());
-            sb.AppendLine("Ganancia Provincial: " + GananciasPorProvincial.ToString());
-            sb.AppendLine("--------------Llamadas--------------");
+            sb.AppendLine("Ganancia Total: \t$" + GananciasPorTotal.ToString("0.##"));
+            sb.AppendLine("Ganancia Local: \t$" + GananciasPorLocal.ToString("0.##"));
+            sb.AppendLine("Ganancia Provincial: \t$" + GananciasPorProvincial.ToString("0.##"));
+            sb.AppendLine("------------------------------------");
             foreach (Llamada llamada in listaDeLlamadas)
             {
-                sb.AppendLine(llamada.Mostrar().ToString());
+                sb.AppendLine(llamada.ToString());
+                
+                /*Sin polimorfismo
+                /*if (llamada is Local)
+                {
+                    Local aux = (Local)llamada;
+                    sb.AppendLine(aux.ToString());
+                }
+                else if (llamada is Provincial)
+                {
+                    Provincial aux = (Provincial)llamada;
+                    sb.AppendLine(aux.ToString());
+                }*/
             }
             return sb.ToString();
         }
@@ -97,5 +109,37 @@ namespace CentralitaHerencia
             this.Llamadas.Sort(Llamada.OrdenarPorDuracion);
         }
 
+        public override string ToString()
+        {
+            return this.Mostrar();
+        }
+
+        private void AgregarLlamada(Llamada nuevaLlamada)
+        {
+            if (Object.ReferenceEquals(nuevaLlamada, null))
+                listaDeLlamadas.Add(nuevaLlamada);
+        }
+
+        public static bool operator ==(Centralita c, Llamada llamada)
+        {
+            foreach(Llamada aux in c.listaDeLlamadas)
+            {
+                if(aux != llamada)
+                    return false;
+            }
+            return true;
+        }
+
+        public static bool operator !=(Centralita c, Llamada llamada)
+        {
+            return !(c == llamada);
+        }
+
+        public static Centralita operator +(Centralita c, Llamada nuevaLlamada)
+        {
+            if (c != nuevaLlamada)
+                c.AgregarLlamada(nuevaLlamada);
+            return c;
+        }
     }
 }

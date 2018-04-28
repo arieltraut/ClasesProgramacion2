@@ -29,7 +29,7 @@ namespace CentralitaHerencia
             Console.WriteLine(c.Mostrar());
             c.OrdenarLlamadas();
             Console.WriteLine();
-            Console.WriteLine("----------Llamadas ordenadas por duracion---------");
+            Console.WriteLine("Llamadas ordenadas por duracion");
             Console.WriteLine();
             Console.WriteLine(c.Mostrar());
             Console.ReadKey();

@@ -5,9 +5,15 @@ C:\Users\Ari\Desktop\xx\01 Ejercicios Guia Campus\Ej 37 (Ejercicio separado Cent
 C:\Users\Ari\Desktop\xx\01 Ejercicios Guia Campus\Ej 37 (Ejercicio separado Central Telefonica)\CentralTelefonica\CentralitaHerencia\obj\Debug\CentralitaHerencia.csprojResolveAssemblyReference.cache
 C:\Users\Ari\Desktop\xx\01 Ejercicios Guia Campus\Ej 37 (Ejercicio separado Central Telefonica)\CentralTelefonica\CentralitaHerencia\obj\Debug\CentralitaHerencia.exe
 C:\Users\Ari\Desktop\xx\01 Ejercicios Guia Campus\Ej 37 (Ejercicio separado Central Telefonica)\CentralTelefonica\CentralitaHerencia\obj\Debug\CentralitaHerencia.pdb
-C:\Users\Ari\Desktop\xx\01 Ejercicios Guia Campus\Ej 40 (Ej. separado)\CentralTelefonica\CentralitaHerencia\bin\Debug\CentralitaHerencia.exe.config
-C:\Users\Ari\Desktop\xx\01 Ejercicios Guia Campus\Ej 40 (Ej. separado)\CentralTelefonica\CentralitaHerencia\obj\Debug\CentralitaHerencia.exe
-C:\Users\Ari\Desktop\xx\01 Ejercicios Guia Campus\Ej 40 (Ej. separado)\CentralTelefonica\CentralitaHerencia\obj\Debug\CentralitaHerencia.pdb
-C:\Users\Ari\Desktop\xx\01 Ejercicios Guia Campus\Ej 40 (Ej. separado)\CentralTelefonica\CentralitaHerencia\bin\Debug\CentralitaHerencia.exe
-C:\Users\Ari\Desktop\xx\01 Ejercicios Guia Campus\Ej 40 (Ej. separado)\CentralTelefonica\CentralitaHerencia\bin\Debug\CentralitaHerencia.pdb
-C:\Users\Ari\Desktop\xx\01 Ejercicios Guia Campus\Ej 40 (Ej. separado)\CentralTelefonica\CentralitaHerencia\obj\Debug\CentralitaHerencia.csprojResolveAssemblyReference.cache
+C:\Users\Ari\Desktop\xx\01 Ejercicios Guia Campus\Ej 37 (Ej. separado Central Telefonica)\CentralTelefonica\CentralitaHerencia\bin\Debug\CentralitaHerencia.exe.config
+C:\Users\Ari\Desktop\xx\01 Ejercicios Guia Campus\Ej 37 (Ej. separado Central Telefonica)\CentralTelefonica\CentralitaHerencia\obj\Debug\CentralitaHerencia.exe
+C:\Users\Ari\Desktop\xx\01 Ejercicios Guia Campus\Ej 37 (Ej. separado Central Telefonica)\CentralTelefonica\CentralitaHerencia\obj\Debug\CentralitaHerencia.pdb
+C:\Users\Ari\Desktop\xx\01 Ejercicios Guia Campus\Ej 37 (Ej. separado Central Telefonica)\CentralTelefonica\CentralitaHerencia\bin\Debug\CentralitaHerencia.exe
+C:\Users\Ari\Desktop\xx\01 Ejercicios Guia Campus\Ej 37 (Ej. separado Central Telefonica)\CentralTelefonica\CentralitaHerencia\bin\Debug\CentralitaHerencia.pdb
+C:\Users\Ari\Desktop\xx\01 Ejercicios Guia Campus\Ej 37 (Ej. separado Central Telefonica)\CentralTelefonica\CentralitaHerencia\obj\Debug\CentralitaHerencia.csprojResolveAssemblyReference.cache
+D:\Ariel\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 40 (Ej. separado)\CentralTelefonica\CentralitaHerencia\bin\Debug\CentralitaHerencia.exe.config
+D:\Ariel\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 40 (Ej. separado)\CentralTelefonica\CentralitaHerencia\obj\Debug\CentralitaHerencia.exe
+D:\Ariel\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 40 (Ej. separado)\CentralTelefonica\CentralitaHerencia\obj\Debug\CentralitaHerencia.pdb
+D:\Ariel\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 40 (Ej. separado)\CentralTelefonica\CentralitaHerencia\bin\Debug\CentralitaHerencia.exe
+D:\Ariel\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 40 (Ej. separado)\CentralTelefonica\CentralitaHerencia\bin\Debug\CentralitaHerencia.pdb
+D:\Ariel\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 40 (Ej. separado)\CentralTelefonica\CentralitaHerencia\obj\Debug\CentralitaHerencia.csprojResolveAssemblyReference.cache
