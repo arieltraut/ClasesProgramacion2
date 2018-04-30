@@ -5,3 +5,8 @@ D:\Ariel\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 34\bin\Debug\Ej 34.exe
 D:\Ariel\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 34\bin\Debug\Ej 34.pdb
 D:\Ariel\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 34\obj\Debug\Ej 34.exe
 D:\Ariel\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 34\obj\Debug\Ej 34.pdb
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 34\bin\Debug\Ej 34.exe.config
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 34\bin\Debug\Ej 34.exe
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 34\bin\Debug\Ej 34.pdb
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 34\obj\Debug\Ej 34.exe
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 34\obj\Debug\Ej 34.pdb

@@ -42,33 +42,46 @@ namespace Ej_29
 
         public float GetPromedioGoles()
         {
-            return (partidosJugados == 0) ? 0 : (float)totalGoles / partidosJugados;
+            this.promedioGoles = (partidosJugados == 0) ? 0 : (float)totalGoles / partidosJugados;
+            return promedioGoles;
         }
 
         public string MostrarDatos()
         {
             StringBuilder sb = new StringBuilder();
-            sb.AppendLine(dni.ToString());
-            sb.AppendLine(nombre);
-            sb.AppendLine(partidosJugados.ToString());
-            sb.AppendLine(totalGoles.ToString());
-            sb.AppendLine(GetPromedioGoles().ToString());
+            sb.AppendFormat("DNI:\t{0}\n", dni.ToString());
+            sb.AppendLine("Nombre\t" + nombre);
+            sb.AppendLine("P. Jug:\t" + partidosJugados.ToString());
+            sb.AppendLine("Goles:\t" + totalGoles.ToString());
+            sb.AppendLine("Prom:\t" + GetPromedioGoles().ToString("0.##"));
 
             return sb.ToString();
         }
 
-        public static bool operator ==(Jugador j1, Jugador j2)
+        public override bool Equals(object obj)
         {
-            if ((!Object.ReferenceEquals(j1, null)) || !(Object.ReferenceEquals(j2, null)))
-                if (j1.dni == j2.dni)
+            if (obj is Jugador && !Object.ReferenceEquals(obj,null))
+            {
+                Jugador aux = (Jugador)obj;
+                if (dni == aux.dni)
                     return true;
+            }
             return false;
         }
 
+        public static bool operator ==(Jugador j1, Jugador j2)
+        {
+            return j1.Equals(j2);
+        }
+        
         public static bool operator !=(Jugador j1, Jugador j2)
         {
             return !(j1 == j2);
         }
 
+        public override int GetHashCode()
+        {
+            return this.ToString().GetHashCode();
+        } 
     }
 }

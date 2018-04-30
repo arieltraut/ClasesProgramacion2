@@ -9,15 +9,15 @@ namespace Ej_29
     class Equipo
     {
         private short cantidadDeJugadores;
-        List<Jugador> jugadores;
+        private List<Jugador> jugadores;
         private string nombre;
 
         private Equipo()
         {
-            List<Jugador> jugadores = new List<Jugador>();
+            this.jugadores = new List<Jugador>();
         }
 
-        public Equipo(short cantidad, string nombre)
+        public Equipo(short cantidad, string nombre) : this ()
         {
             this.cantidadDeJugadores = cantidad;
             this.nombre = nombre;

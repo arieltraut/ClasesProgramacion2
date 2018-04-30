@@ -16,25 +16,28 @@ namespace Ej_28
         {
             InitializeComponent();
         }
-        Dictionary<string, int> miDiccionario = new Dictionary<string, int>();
 
         private void Calcular_Click(object sender, EventArgs e)
         {
-            string[] palabras = richTextBox1.Text.Split(' ');
-            StringBuilder sb = new StringBuilder();
-            StringBuilder sb2 = new StringBuilder();
+            Dictionary<string, int> miDiccionario = new Dictionary<string, int>();
+            char[] separadores = {' ', ',', '.', ':', ';', '\n'}; //ver tema espacio + coma toma espacios como palabra
+            string[] palabras = richTextBox1.Text.Split(separadores);
+
 
             foreach (string palabra in palabras)
             {
                 if (miDiccionario.ContainsKey(palabra))
                 {
                     int aux = miDiccionario[palabra];
-                    aux++;
+                    aux += 1;
                     miDiccionario[palabra] = aux;               
                 }
                 else
                     miDiccionario.Add(palabra,1);
             }
+
+            StringBuilder sb = new StringBuilder();
+
             foreach (KeyValuePair<string, int> entrada in miDiccionario)
             {
                 sb.AppendFormat("{0} {1}", entrada.Key, entrada.Value);
