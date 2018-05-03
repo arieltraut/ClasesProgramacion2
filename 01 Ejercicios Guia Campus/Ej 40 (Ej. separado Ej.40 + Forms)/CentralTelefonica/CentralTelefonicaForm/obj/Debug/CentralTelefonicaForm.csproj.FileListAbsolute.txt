@@ -1,0 +1,24 @@
+D:\Ariel\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 40 (Ej. separado)\CentralTelefonica\CentralTelefonicaForm\bin\Debug\CentralTelefonicaForm.exe.config
+D:\Ariel\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 40 (Ej. separado)\CentralTelefonica\CentralTelefonicaForm\bin\Debug\CentralTelefonicaForm.exe
+D:\Ariel\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 40 (Ej. separado)\CentralTelefonica\CentralTelefonicaForm\bin\Debug\CentralTelefonicaForm.pdb
+D:\Ariel\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 40 (Ej. separado)\CentralTelefonica\CentralTelefonicaForm\obj\Debug\CentralTelefonicaForm.csprojResolveAssemblyReference.cache
+D:\Ariel\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 40 (Ej. separado)\CentralTelefonica\CentralTelefonicaForm\obj\Debug\CentralTelefonicaForm.Form1.resources
+D:\Ariel\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 40 (Ej. separado)\CentralTelefonica\CentralTelefonicaForm\obj\Debug\CentralTelefonicaForm.LlamadorForm.resources
+D:\Ariel\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 40 (Ej. separado)\CentralTelefonica\CentralTelefonicaForm\obj\Debug\CentralTelefonicaForm.Properties.Resources.resources
+D:\Ariel\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 40 (Ej. separado)\CentralTelefonica\CentralTelefonicaForm\obj\Debug\CentralTelefonicaForm.csproj.GenerateResource.Cache
+D:\Ariel\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 40 (Ej. separado)\CentralTelefonica\CentralTelefonicaForm\obj\Debug\CentralTelefonicaForm.exe
+D:\Ariel\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 40 (Ej. separado)\CentralTelefonica\CentralTelefonicaForm\obj\Debug\CentralTelefonicaForm.pdb
+D:\Ariel\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 40 (Ej. separado)\CentralTelefonica\CentralTelefonicaForm\bin\Debug\CentralitaHerencia.exe
+D:\Ariel\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 40 (Ej. separado)\CentralTelefonica\CentralTelefonicaForm\bin\Debug\CentralitaHerencia.pdb
+C:\Users\Ari\Desktop\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 40 (Ej. separado Ej.40 + Forms)\CentralTelefonica\CentralTelefonicaForm\bin\Debug\CentralTelefonicaForm.exe.config
+C:\Users\Ari\Desktop\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 40 (Ej. separado Ej.40 + Forms)\CentralTelefonica\CentralTelefonicaForm\obj\Debug\CentralTelefonicaForm.exe
+C:\Users\Ari\Desktop\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 40 (Ej. separado Ej.40 + Forms)\CentralTelefonica\CentralTelefonicaForm\obj\Debug\CentralTelefonicaForm.pdb
+C:\Users\Ari\Desktop\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 40 (Ej. separado Ej.40 + Forms)\CentralTelefonica\CentralTelefonicaForm\obj\Debug\CentralTelefonicaForm.csprojResolveAssemblyReference.cache
+C:\Users\Ari\Desktop\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 40 (Ej. separado Ej.40 + Forms)\CentralTelefonica\CentralTelefonicaForm\obj\Debug\CentralTelefonicaForm.CTForm.resources
+C:\Users\Ari\Desktop\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 40 (Ej. separado Ej.40 + Forms)\CentralTelefonica\CentralTelefonicaForm\obj\Debug\CentralTelefonicaForm.LlamadorForm.resources
+C:\Users\Ari\Desktop\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 40 (Ej. separado Ej.40 + Forms)\CentralTelefonica\CentralTelefonicaForm\obj\Debug\CentralTelefonicaForm.Properties.Resources.resources
+C:\Users\Ari\Desktop\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 40 (Ej. separado Ej.40 + Forms)\CentralTelefonica\CentralTelefonicaForm\obj\Debug\CentralTelefonicaForm.csproj.GenerateResource.Cache
+C:\Users\Ari\Desktop\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 40 (Ej. separado Ej.40 + Forms)\CentralTelefonica\CentralTelefonicaForm\bin\Debug\CentralTelefonicaForm.exe
+C:\Users\Ari\Desktop\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 40 (Ej. separado Ej.40 + Forms)\CentralTelefonica\CentralTelefonicaForm\bin\Debug\CentralTelefonicaForm.pdb
+C:\Users\Ari\Desktop\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 40 (Ej. separado Ej.40 + Forms)\CentralTelefonica\CentralTelefonicaForm\bin\Debug\CentralitaHerencia.exe
+C:\Users\Ari\Desktop\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 40 (Ej. separado Ej.40 + Forms)\CentralTelefonica\CentralTelefonicaForm\bin\Debug\CentralitaHerencia.pdb
