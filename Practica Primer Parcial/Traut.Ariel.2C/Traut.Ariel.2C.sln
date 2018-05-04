@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entidades", "Entidades\Entidades.csproj", "{31A9DEC8-FEA3-41CA-87BC-B1B2FE05321A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "..\Traut.Ariel.2C\Test\Test.csproj", "{B5A3DDCA-04CC-4068-8175-5464B442776E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31A9DEC8-FEA3-41CA-87BC-B1B2FE05321A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31A9DEC8-FEA3-41CA-87BC-B1B2FE05321A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31A9DEC8-FEA3-41CA-87BC-B1B2FE05321A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31A9DEC8-FEA3-41CA-87BC-B1B2FE05321A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5A3DDCA-04CC-4068-8175-5464B442776E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5A3DDCA-04CC-4068-8175-5464B442776E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5A3DDCA-04CC-4068-8175-5464B442776E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5A3DDCA-04CC-4068-8175-5464B442776E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
