@@ -44,34 +44,34 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="CTForm.cs">
+    <Compile Include="FrmMenu.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="CTForm.Designer.cs">
-      <DependentUpon>CTForm.cs</DependentUpon>
+    <Compile Include="FrmMenu.Designer.cs">
+      <DependentUpon>FrmMenu.cs</DependentUpon>
     </Compile>
-    <Compile Include="FacturacionForm.cs">
+    <Compile Include="FrmMostrar.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="FacturacionForm.Designer.cs">
-      <DependentUpon>FacturacionForm.cs</DependentUpon>
+    <Compile Include="FrmMostrar.Designer.cs">
+      <DependentUpon>FrmMostrar.cs</DependentUpon>
     </Compile>
-    <Compile Include="LlamadorForm.cs">
+    <Compile Include="FrmLlamador.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="LlamadorForm.Designer.cs">
-      <DependentUpon>LlamadorForm.cs</DependentUpon>
+    <Compile Include="FrmLlamador.Designer.cs">
+      <DependentUpon>FrmLlamador.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="CTForm.resx">
-      <DependentUpon>CTForm.cs</DependentUpon>
+    <EmbeddedResource Include="FrmMenu.resx">
+      <DependentUpon>FrmMenu.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="FacturacionForm.resx">
-      <DependentUpon>FacturacionForm.cs</DependentUpon>
+    <EmbeddedResource Include="FrmMostrar.resx">
+      <DependentUpon>FrmMostrar.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="LlamadorForm.resx">
-      <DependentUpon>LlamadorForm.cs</DependentUpon>
+    <EmbeddedResource Include="FrmLlamador.resx">
+      <DependentUpon>FrmLlamador.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>

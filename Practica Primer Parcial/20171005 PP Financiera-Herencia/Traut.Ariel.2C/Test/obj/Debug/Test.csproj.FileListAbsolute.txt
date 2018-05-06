@@ -1,0 +1,19 @@
+D:\VisualStudio\Traut.Ariel.2C\Test\bin\Debug\Test.exe.config
+D:\VisualStudio\Traut.Ariel.2C\Test\bin\Debug\Test.exe
+D:\VisualStudio\Traut.Ariel.2C\Test\bin\Debug\Test.pdb
+D:\VisualStudio\Traut.Ariel.2C\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+D:\VisualStudio\Traut.Ariel.2C\Test\obj\Debug\Test.exe
+D:\VisualStudio\Traut.Ariel.2C\Test\obj\Debug\Test.pdb
+D:\VisualStudio\Traut.Ariel.2C\Test\bin\Debug\Entidades.dll
+D:\VisualStudio\Traut.Ariel.2C\Test\bin\Debug\Entidades.pdb
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\Practica Primer Parcial\Traut.Ariel.2C\Test\bin\Debug\Test.exe.config
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\Practica Primer Parcial\Traut.Ariel.2C\Test\bin\Debug\Test.exe
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\Practica Primer Parcial\Traut.Ariel.2C\Test\bin\Debug\Test.pdb
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\Practica Primer Parcial\Traut.Ariel.2C\Test\bin\Debug\Entidades.dll
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\Practica Primer Parcial\Traut.Ariel.2C\Test\bin\Debug\Entidades.pdb
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\Practica Primer Parcial\Traut.Ariel.2C\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\Practica Primer Parcial\Traut.Ariel.2C\Test\obj\Debug\Test.exe
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\Practica Primer Parcial\Traut.Ariel.2C\Test\obj\Debug\Test.pdb
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\Practica Primer Parcial\20171005 PP Financiera-Herencia\Traut.Ariel.2C\Test\bin\Debug\Test.exe.config
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\Practica Primer Parcial\20171005 PP Financiera-Herencia\Traut.Ariel.2C\Test\obj\Debug\Test.exe
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\Practica Primer Parcial\20171005 PP Financiera-Herencia\Traut.Ariel.2C\Test\obj\Debug\Test.pdb

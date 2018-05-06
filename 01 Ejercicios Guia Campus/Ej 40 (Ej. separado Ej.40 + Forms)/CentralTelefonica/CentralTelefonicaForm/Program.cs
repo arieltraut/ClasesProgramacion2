@@ -16,7 +16,7 @@ namespace CentralTelefonicaForm
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new CTForm());
+            Application.Run(new FrmMenu());
         }
     }
 }
