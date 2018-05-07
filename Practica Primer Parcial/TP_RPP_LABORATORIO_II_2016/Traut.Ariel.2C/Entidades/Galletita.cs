@@ -9,7 +9,7 @@ namespace Entidades
     public class Galletita : Producto
     {
         protected float peso;
-        protected bool deConsumo;
+        protected static bool deConsumo;
 
         public enum ESaborJugo
         {
@@ -18,16 +18,16 @@ namespace Entidades
             Rico
         }
 
-        //private Galletita()
-        //{
-        //    this.deConsumo = true;
-        //}
+        static Galletita()
+        {
+            deConsumo = true;
+        }
+
 
         public Galletita(int codigoBarra, float precio, EMarcaProducto marca, float peso)
             : base(codigoBarra, marca, precio)
         {
             this.peso = peso;
-            this.deConsumo = true;
         }
 
 
@@ -43,8 +43,10 @@ namespace Entidades
 
         private string MostrarGalletita(Galletita g)
         {
-            return string.Format("{0}\tPeso: {1}\n",
-               g, this.peso);
+            StringBuilder sb = new StringBuilder();
+            sb.AppendFormat(g);
+            sb.AppendFormat("\tPeso: {0}", g.peso.ToString());
+            return sb.ToString();
         }
 
         public override string ToString()

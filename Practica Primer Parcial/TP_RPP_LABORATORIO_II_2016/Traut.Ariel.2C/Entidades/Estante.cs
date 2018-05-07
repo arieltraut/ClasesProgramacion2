@@ -44,15 +44,14 @@ namespace Entidades
             sb.AppendLine("Capacidad estante: " + e.capacidad);
             foreach (Producto prod in e.productos)
             {
-                //if (prod is Jugo)
-                //    sb.AppendLine(((Jugo)prod).ToString());
-                //else if (prod is Gaseosa)
-                //    sb.AppendLine(((Gaseosa)prod).ToString());
-                //else if (prod is Galletita)
-                //    sb.AppendLine(((Galletita)prod).ToString());
-                //else if (prod is Harina)
-                //    sb.AppendLine(((Harina)prod).ToString());
-                sb.AppendLine(prod);
+                if (prod is Jugo)
+                    sb.AppendLine(((Jugo)prod).ToString());
+                else if (prod is Gaseosa)
+                    sb.AppendLine(((Gaseosa)prod).ToString());
+                else if (prod is Galletita)
+                    sb.AppendLine(((Galletita)prod).ToString());
+                else if (prod is Harina)
+                    sb.AppendLine(((Harina)prod).ToString());
             }
             return sb.ToString();
         }

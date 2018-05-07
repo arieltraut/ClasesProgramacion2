@@ -9,25 +9,23 @@ namespace Entidades
     public class Gaseosa : Producto
     {
         protected float litros;
-        protected bool deConsumo;
+        protected static bool deConsumo;
 
-        ////private Jugo()
-        ////{
-        ////    this.deConsumo = true;
-        ////}
+
+        static Gaseosa()
+        {
+            deConsumo = true;
+        }
 
         public Gaseosa(int codigoBarra, float precio, EMarcaProducto marca, float litros)
             : base(codigoBarra, marca, precio)
         {
             this.litros = litros;
-            this.deConsumo = true;
         }
 
         public Gaseosa(Producto p, float litros)
             : this((int)p, p.Precio, p.Marca, litros)
         {
-            this.litros = litros;
-            this.deConsumo = true;
         }
 
 
@@ -42,8 +40,10 @@ namespace Entidades
 
         private string MostrarGaseosa()
         {
-            return string.Format("{0}\tLitros: {1}\n",
-               this, this.litros);
+            StringBuilder sb = new StringBuilder();
+            sb.AppendFormat(this);
+            sb.AppendFormat("\tLitros: {0}", this.litros.ToString());
+            return sb.ToString();
         }
 
         public override string ToString()

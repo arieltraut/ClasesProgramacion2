@@ -9,7 +9,7 @@ namespace Entidades
     public class Jugo : Producto
     {
         protected ESaborJugo sabor;
-        protected bool deConsumo;
+        protected static bool deConsumo;
 
         public enum ESaborJugo
         {
@@ -18,16 +18,15 @@ namespace Entidades
             Rico
         }
 
-        //private Jugo()
-        //{
-        //    this.deConsumo = true;
-        //}
+        static Jugo()
+        {
+            deConsumo = true;
+        }
 
         public Jugo(int codigoBarra, float precio, EMarcaProducto marca, ESaborJugo sabor)
             : base(codigoBarra, marca, precio)
         {
             this.sabor = sabor;
-            this.deConsumo = true;
         }
 
 
@@ -43,8 +42,10 @@ namespace Entidades
 
         private string MostrarJugo()
         {
-            return string.Format("{0}\tSabor: {1}\n",
-               this, this.sabor);
+            StringBuilder sb = new StringBuilder();
+            sb.AppendFormat(this);
+            sb.AppendFormat("\tSabor: {0}", this.sabor.ToString());
+            return sb.ToString();
         }
 
         public override string ToString()

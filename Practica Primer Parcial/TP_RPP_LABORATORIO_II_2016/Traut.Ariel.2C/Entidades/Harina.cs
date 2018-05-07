@@ -9,7 +9,7 @@ namespace Entidades
     public class Harina : Producto
     {
         protected ETipoHarina tipo;
-        protected bool deConsumo;
+        protected static bool deConsumo;
 
         public enum ETipoHarina
         {
@@ -18,16 +18,17 @@ namespace Entidades
             Integral
         }
 
-        //private Harina()
-        //{
-        //    this.deConsumo = true;
-        //}
+
+
+        static Harina()
+        {
+            deConsumo = true;
+        }
 
         public Harina(int codigoBarra, float precio, EMarcaProducto marca, ETipoHarina tipo)
             : base(codigoBarra, marca, precio)
         {
             this.tipo = tipo;
-            this.deConsumo = true;
         }
 
 
@@ -44,8 +45,10 @@ namespace Entidades
 
         private string MostrarHarina()
         {
-            return string.Format("{0}\tTipo: {1}\n",
-               this, this.tipo.ToString());
+            StringBuilder sb = new StringBuilder();
+            sb.AppendFormat(this);
+            sb.AppendFormat("\tTipo: {0}", this.tipo.ToString());
+            return sb.ToString();
         }
 
         public override string ToString()
