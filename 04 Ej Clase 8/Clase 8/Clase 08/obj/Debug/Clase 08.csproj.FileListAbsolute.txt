@@ -1,0 +1,12 @@
+C:\Users\Ari\Desktop\Clase 8\Clase 08\bin\Debug\Clase 08.exe.config
+C:\Users\Ari\Desktop\Clase 8\Clase 08\bin\Debug\Clase 08.exe
+C:\Users\Ari\Desktop\Clase 8\Clase 08\bin\Debug\Clase 08.pdb
+C:\Users\Ari\Desktop\Clase 8\Clase 08\bin\Debug\Entidades.dll
+C:\Users\Ari\Desktop\Clase 8\Clase 08\bin\Debug\Entidades.pdb
+C:\Users\Ari\Desktop\Clase 8\Clase 08\obj\Debug\Clase 08.csprojResolveAssemblyReference.cache
+C:\Users\Ari\Desktop\Clase 8\Clase 08\obj\Debug\Clase_08.Properties.Resources.resources
+C:\Users\Ari\Desktop\Clase 8\Clase 08\obj\Debug\Clase 08.csproj.GenerateResource.Cache
+C:\Users\Ari\Desktop\Clase 8\Clase 08\obj\Debug\Clase 08.exe
+C:\Users\Ari\Desktop\Clase 8\Clase 08\obj\Debug\Clase 08.pdb
+C:\Users\Ari\Desktop\Clase 8\Clase 08\obj\Debug\Clase_08.CargaEmpleados.resources
+C:\Users\Ari\Desktop\Clase 8\Clase 08\obj\Debug\Clase_08.CargaEmpresa.resources
