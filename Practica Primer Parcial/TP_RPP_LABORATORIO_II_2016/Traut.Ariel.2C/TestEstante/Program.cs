@@ -89,18 +89,22 @@ namespace TestEstante
             //Gaseosa gaseosa = new Gaseosa(2, 10, Producto.EMarcaProducto.Manaos, 2);
 
             //Console.WriteLine(jugo.GetType());
-            //Console.WriteLine(gaseosa.GetType());
+            //Console.WriteLine(gaseosa.GetType().ToString().Substring(10));
+
 
 
             ////Console.WriteLine("Jugo es Gaseosa : {0}", jugo.GetType() == gaseosa.GetType());
             ////Console.WriteLine("Jugo es Gaseosa : {0}", jugo.GetType() == typeof(Producto));
             ////Console.WriteLine("Jugo es Gaseosa : {0}", jugo is Producto);
 
-            ////Console.WriteLine(Producto.ETipoProducto.Galletita);
+            //Console.WriteLine(Producto.ETipoProducto.Gaseosa);
+
+            //if (gaseosa.GetType().ToString().Substring(10) == Producto.ETipoProducto.Gaseosa.ToString())
+            //    Console.WriteLine("Son iguales");
             ////Console.WriteLine(jugo);
 
 
-            Console.ReadKey();
+            //Console.ReadKey();
         }
     }
 }

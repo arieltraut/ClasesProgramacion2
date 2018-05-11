@@ -132,12 +132,13 @@ namespace Entidades
             return false;
         }
 
-        public static Estante operator -(Estante e, Producto.ETipoProducto tipo)////////////////////ver
+        public static Estante operator -(Estante e, Producto.ETipoProducto tipo)
         {
             foreach (Producto prod in e.productos)
             {
-                if (prod.GetType().ToString() == tipo.ToString())
-                    e.productos.Remove(prod);
+                if (prod.GetType().ToString().Substring(10) == tipo.ToString())
+                    //e.productos.Remove(prod);
+                    Console.WriteLine("Es galletita" + prod.ToString());
             }
             return e;
         }

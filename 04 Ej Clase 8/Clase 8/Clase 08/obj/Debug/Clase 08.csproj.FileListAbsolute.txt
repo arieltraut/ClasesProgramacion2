@@ -10,3 +10,15 @@ C:\Users\Ari\Desktop\Clase 8\Clase 08\obj\Debug\Clase 08.exe
 C:\Users\Ari\Desktop\Clase 8\Clase 08\obj\Debug\Clase 08.pdb
 C:\Users\Ari\Desktop\Clase 8\Clase 08\obj\Debug\Clase_08.CargaEmpleados.resources
 C:\Users\Ari\Desktop\Clase 8\Clase 08\obj\Debug\Clase_08.CargaEmpresa.resources
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\04 Ej Clase 8\Clase 8\Clase 08\bin\Debug\Clase 08.exe.config
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\04 Ej Clase 8\Clase 8\Clase 08\obj\Debug\Clase 08.exe
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\04 Ej Clase 8\Clase 8\Clase 08\obj\Debug\Clase 08.pdb
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\04 Ej Clase 8\Clase 8\Clase 08\bin\Debug\Clase 08.exe
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\04 Ej Clase 8\Clase 8\Clase 08\bin\Debug\Clase 08.pdb
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\04 Ej Clase 8\Clase 8\Clase 08\bin\Debug\Entidades.dll
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\04 Ej Clase 8\Clase 8\Clase 08\bin\Debug\Entidades.pdb
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\04 Ej Clase 8\Clase 8\Clase 08\obj\Debug\Clase 08.csprojResolveAssemblyReference.cache
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\04 Ej Clase 8\Clase 8\Clase 08\obj\Debug\Clase_08.CargaEmpleados.resources
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\04 Ej Clase 8\Clase 8\Clase 08\obj\Debug\Clase_08.CargaEmpresa.resources
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\04 Ej Clase 8\Clase 8\Clase 08\obj\Debug\Clase_08.Properties.Resources.resources
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\04 Ej Clase 8\Clase 8\Clase 08\obj\Debug\Clase 08.csproj.GenerateResource.Cache

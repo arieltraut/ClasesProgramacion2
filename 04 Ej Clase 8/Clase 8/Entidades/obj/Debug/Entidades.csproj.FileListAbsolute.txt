@@ -3,3 +3,8 @@ C:\Users\Ari\Desktop\Clase 8\Entidades\bin\Debug\Entidades.pdb
 C:\Users\Ari\Desktop\Clase 8\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
 C:\Users\Ari\Desktop\Clase 8\Entidades\obj\Debug\Entidades.dll
 C:\Users\Ari\Desktop\Clase 8\Entidades\obj\Debug\Entidades.pdb
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\04 Ej Clase 8\Clase 8\Entidades\bin\Debug\Entidades.dll
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\04 Ej Clase 8\Clase 8\Entidades\bin\Debug\Entidades.pdb
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\04 Ej Clase 8\Clase 8\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\04 Ej Clase 8\Clase 8\Entidades\obj\Debug\Entidades.dll
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\04 Ej Clase 8\Clase 8\Entidades\obj\Debug\Entidades.pdb
