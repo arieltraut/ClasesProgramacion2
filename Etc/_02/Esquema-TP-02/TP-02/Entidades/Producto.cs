@@ -20,7 +20,7 @@ namespace Entidades_2017
         string _codigoDeBarras;
         ConsoleColor _colorPrimarioEmpaque;
 
-
+        #region "Constructores"
         /// <summary>
         /// Constructor por defecto.
         /// </summary>
@@ -33,12 +33,36 @@ namespace Entidades_2017
             this._codigoDeBarras = codigoDeBarras;
             this._colorPrimarioEmpaque = color;
         }
+        #endregion
 
+        #region "Propiedades"
         /// <summary>
         /// ReadOnly: Retornará la cantidad de calorias del producto
         /// </summary>
         protected abstract short CantidadCalorias { get; }
+        #endregion
 
+        #region "Sobrecargas"
+        /// <summary>
+        /// Dos productos son iguales si comparten el mismo código de barras
+        /// </summary>
+        /// <returns>True si son iguales, False si no lo son</returns>
+        public override bool Equals(object obj)
+        {
+            return (this == (Producto)obj);
+        }
+
+        /// <summary>
+        /// Obtiene el HashCode de la instancia.
+        /// </summary>
+        /// <returns>HashCode de la instancia</returns>
+        public override int GetHashCode()
+        {
+            return this.GetHashCode();
+        }
+        #endregion
+
+        #region "Metodos"
         /// <summary>
         /// Publica todos los datos del Producto.
         /// </summary>
@@ -47,7 +71,9 @@ namespace Entidades_2017
         {
             return (string)this;
         }
+        #endregion
 
+        #region "Operadores"
         /// <summary>
         /// Retorna todos los datos del producto recibido
         /// </summary>
@@ -75,6 +101,7 @@ namespace Entidades_2017
         {
             return (v1._codigoDeBarras == v2._codigoDeBarras);
         }
+
         /// <summary>
         /// Dos productos son distintos si su código de barras es distinto
         /// </summary>
@@ -83,7 +110,8 @@ namespace Entidades_2017
         /// <returns>True si son distintos, False si no lo son</returns>
         public static bool operator !=(Producto v1, Producto v2)
         {
-            return (v1._codigoDeBarras == v2._codigoDeBarras);
+            return !(v1 == v2);
         }
+        #endregion
     }
 }

@@ -9,6 +9,7 @@ namespace Entidades_2017
     public class Dulce : Producto
     {
 
+        #region "Constructores"
         /// <summary>
         /// Constructor por defecto
         /// </summary>
@@ -18,8 +19,10 @@ namespace Entidades_2017
         public Dulce(EMarca marca, string codigo, ConsoleColor color)
             : base(codigo, marca, color)
         {
-        }     
-        
+        }
+        #endregion
+
+        #region "Propiedades"
         /// <summary>
         /// Los dulces tienen 80 calorías
         /// </summary>
@@ -30,7 +33,9 @@ namespace Entidades_2017
                 return 80;
             }
         }
+        #endregion
 
+        #region "Metodos"
         /// <summary>
         /// Publica todos los datos del Producto.
         /// </summary>
@@ -47,5 +52,6 @@ namespace Entidades_2017
 
             return sb.ToString();
         }
+        #endregion
     }
 }

@@ -13,6 +13,7 @@ namespace Entidades_2017
         public enum ETipo { Entera, Descremada }
         ETipo _tipo;
 
+        #region "Constructores"
         /// <summary>
         /// Por defecto, TIPO será ENTERA
         /// </summary>
@@ -37,7 +38,9 @@ namespace Entidades_2017
         {
             _tipo = tipo;
         }
+        #endregion
 
+        #region "Propiedades"
         /// <summary>
         /// Las leches tienen 20 calorías
         /// </summary>
@@ -48,7 +51,9 @@ namespace Entidades_2017
                 return 20;
             }
         }
+        #endregion
 
+        #region "Metodos"
         /// <summary>
         /// Publica todos los datos del Producto.
         /// </summary>
@@ -66,5 +71,6 @@ namespace Entidades_2017
 
             return sb.ToString();
         }
+        #endregion
     }
 }

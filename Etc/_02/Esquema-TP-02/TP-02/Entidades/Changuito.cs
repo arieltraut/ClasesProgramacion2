@@ -42,7 +42,7 @@ namespace Entidades_2017
         /// <summary>
         /// Muestro la concecionaria y TODOS los Productos
         /// </summary>
-        /// <returns></returns>
+        /// <returns>Metodo Mostrar con tipo Todos</returns>
         public override string ToString()
         {
             return this.Mostrar(ETipo.Todos);
@@ -50,7 +50,6 @@ namespace Entidades_2017
         #endregion
 
         #region "Métodos"
-
         /// <summary>
         /// Expone los datos del elemento y su lista (incluidas sus herencias)
         /// SOLO del tipo requerido
@@ -82,7 +81,7 @@ namespace Entidades_2017
         /// </summary>
         /// <param name="changuito">Objeto donde se agregará el elemento</param>
         /// <param name="p">Objeto a agregar</param>
-        /// <returns></returns>
+        /// <returns>Instancia de Changuito</returns>
         public static Changuito operator +(Changuito changuito, Producto p)
         {
             if (changuito._espacioDisponible >= changuito._productos.Count()+1)
@@ -102,7 +101,7 @@ namespace Entidades_2017
         /// </summary>
         /// <param name="changuito">Objeto donde se quitará el elemento</param>
         /// <param name="p">Objeto a quitar</param>
-        /// <returns></returns>
+        /// <returns>Instancia de Changuito</returns>
         public static Changuito operator -(Changuito changuito, Producto p)
         {
             foreach (Producto v in changuito._productos)

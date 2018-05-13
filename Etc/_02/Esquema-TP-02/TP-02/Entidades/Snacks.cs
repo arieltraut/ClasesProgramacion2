@@ -8,6 +8,7 @@ namespace Entidades_2017
 {
     public class Snacks : Producto
     {
+        #region "Constructores"
         /// <summary>
         /// Constructor por defecto.
         /// </summary>
@@ -18,7 +19,9 @@ namespace Entidades_2017
             : base(codigo, marca, color)
         {
         }
+        #endregion
 
+        #region "Propiedades"
         /// <summary>
         /// Los snacks tienen 104 calorías
         /// </summary>
@@ -29,7 +32,9 @@ namespace Entidades_2017
                 return 104;
             }
         }
+        #endregion
 
+        #region "Metodos"
         /// <summary>
         /// Publica todos los datos del Producto.
         /// </summary>
@@ -45,5 +50,6 @@ namespace Entidades_2017
 
             return sb.ToString();
         }
+        #endregion
     }
 }
