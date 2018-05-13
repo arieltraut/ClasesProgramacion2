@@ -1,0 +1,8 @@
+D:\Ariel\[TRAUT].[ARIEL]\VistaForm\bin\Debug\VistaForm.exe.config
+D:\Ariel\[TRAUT].[ARIEL]\VistaForm\bin\Debug\VistaForm.exe
+D:\Ariel\[TRAUT].[ARIEL]\VistaForm\bin\Debug\VistaForm.pdb
+D:\Ariel\[TRAUT].[ARIEL]\VistaForm\obj\Debug\VistaForm.csprojResolveAssemblyReference.cache
+D:\Ariel\[TRAUT].[ARIEL]\VistaForm\obj\Debug\VistaForm.Properties.Resources.resources
+D:\Ariel\[TRAUT].[ARIEL]\VistaForm\obj\Debug\VistaForm.csproj.GenerateResource.Cache
+D:\Ariel\[TRAUT].[ARIEL]\VistaForm\obj\Debug\VistaForm.exe
+D:\Ariel\[TRAUT].[ARIEL]\VistaForm\obj\Debug\VistaForm.pdb

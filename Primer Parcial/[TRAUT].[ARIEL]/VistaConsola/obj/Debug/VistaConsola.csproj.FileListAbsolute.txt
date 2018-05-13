@@ -1,0 +1,11 @@
+D:\Ariel\[TRAUT].[ARIEL]\VistaConsola\bin\Debug\VistaConsola.exe.config
+D:\Ariel\[TRAUT].[ARIEL]\VistaConsola\bin\Debug\VistaConsola.exe
+D:\Ariel\[TRAUT].[ARIEL]\VistaConsola\bin\Debug\VistaConsola.pdb
+D:\Ariel\[TRAUT].[ARIEL]\VistaConsola\obj\Debug\VistaConsola.csprojResolveAssemblyReference.cache
+D:\Ariel\[TRAUT].[ARIEL]\VistaConsola\obj\Debug\VistaConsola.exe
+D:\Ariel\[TRAUT].[ARIEL]\VistaConsola\obj\Debug\VistaConsola.pdb
+D:\Ariel\[TRAUT].[ARIEL]\VistaConsola\bin\Debug\Traut.Ariel.2C.dll
+D:\Ariel\[TRAUT].[ARIEL]\VistaConsola\bin\Debug\Traut.Ariel.2C.pdb
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\Primer Parcial\[TRAUT].[ARIEL]\VistaConsola\bin\Debug\VistaConsola.exe.config
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\Primer Parcial\[TRAUT].[ARIEL]\VistaConsola\obj\Debug\VistaConsola.exe
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\Primer Parcial\[TRAUT].[ARIEL]\VistaConsola\obj\Debug\VistaConsola.pdb

@@ -1,0 +1,5 @@
+C:\Users\ariee\Desktop\TRAUT.ARIEL\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\ariee\Desktop\TRAUT.ARIEL\Entidades\bin\Debug\Entidades.dll
+C:\Users\ariee\Desktop\TRAUT.ARIEL\Entidades\bin\Debug\Entidades.pdb
+C:\Users\ariee\Desktop\TRAUT.ARIEL\Entidades\obj\Debug\Entidades.dll
+C:\Users\ariee\Desktop\TRAUT.ARIEL\Entidades\obj\Debug\Entidades.pdb

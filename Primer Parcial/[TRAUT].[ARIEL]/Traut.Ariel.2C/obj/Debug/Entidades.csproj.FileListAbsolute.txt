@@ -1,0 +1,5 @@
+D:\Ariel\[TRAUT].[ARIEL]\Traut.Ariel.2C\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+D:\Ariel\[TRAUT].[ARIEL]\Traut.Ariel.2C\bin\Debug\Traut.Ariel.2C.dll
+D:\Ariel\[TRAUT].[ARIEL]\Traut.Ariel.2C\bin\Debug\Traut.Ariel.2C.pdb
+D:\Ariel\[TRAUT].[ARIEL]\Traut.Ariel.2C\obj\Debug\Traut.Ariel.2C.dll
+D:\Ariel\[TRAUT].[ARIEL]\Traut.Ariel.2C\obj\Debug\Traut.Ariel.2C.pdb
