@@ -19,20 +19,21 @@ namespace CentralitaHerencia
             Provincial l4 = new Provincial(Provincial.Franja.Franja_3, l2);
             // Las llamadas se irán registrando en la Centralita.
             // La centralita mostrará por pantalla todas las llamadas según las vaya registrando.
-            c.Llamadas.Add(l1);
+            c += l1;
             Console.WriteLine(c.Mostrar());
-            c.Llamadas.Add(l2);
+            c += l2;
             Console.WriteLine(c.Mostrar());
-            c.Llamadas.Add(l3);
+            c += l3;
             Console.WriteLine(c.Mostrar());
-            c.Llamadas.Add(l4);
+            c += l4;
             Console.WriteLine(c.Mostrar());
             c.OrdenarLlamadas();
             Console.WriteLine();
             Console.WriteLine("Llamadas ordenadas por duracion");
             Console.WriteLine();
             Console.WriteLine(c.Mostrar());
-            Console.ReadKey();
+            Console.ReadKey();
+
         }
     }
 }

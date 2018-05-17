@@ -116,7 +116,7 @@ namespace CentralitaHerencia
 
         private void AgregarLlamada(Llamada nuevaLlamada)
         {
-            if (Object.ReferenceEquals(nuevaLlamada, null))
+            if (!Object.ReferenceEquals(nuevaLlamada, null))
                 listaDeLlamadas.Add(nuevaLlamada);
         }
 
@@ -124,10 +124,10 @@ namespace CentralitaHerencia
         {
             foreach(Llamada aux in c.listaDeLlamadas)
             {
-                if(aux != llamada)
-                    return false;
+                if(aux == llamada)
+                    return true;
             }
-            return true;
+            return false;
         }
 
         public static bool operator !=(Centralita c, Llamada llamada)

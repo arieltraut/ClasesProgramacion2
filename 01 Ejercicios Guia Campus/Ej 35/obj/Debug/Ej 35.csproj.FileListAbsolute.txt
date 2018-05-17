@@ -4,3 +4,9 @@ D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 35\bin
 D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 35\bin\Debug\Ej 35.pdb
 D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 35\obj\Debug\Ej 35.exe
 D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 35\obj\Debug\Ej 35.pdb
+D:\Ariel\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 35\bin\Debug\Ej 35.exe.config
+D:\Ariel\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 35\obj\Debug\Ej 35.exe
+D:\Ariel\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 35\obj\Debug\Ej 35.pdb
+C:\Users\Ari\Desktop\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 35\bin\Debug\Ej 35.exe.config
+C:\Users\Ari\Desktop\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 35\obj\Debug\Ej 35.exe
+C:\Users\Ari\Desktop\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 35\obj\Debug\Ej 35.pdb

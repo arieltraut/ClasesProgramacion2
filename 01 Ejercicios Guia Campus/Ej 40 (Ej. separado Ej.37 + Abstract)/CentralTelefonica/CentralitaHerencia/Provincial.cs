@@ -62,7 +62,7 @@ namespace CentralitaHerencia
 
         public override bool Equals(object obj)
         {
-            if (obj is Local)
+            if (obj is Provincial)
                 return true;
             else
                 return false;

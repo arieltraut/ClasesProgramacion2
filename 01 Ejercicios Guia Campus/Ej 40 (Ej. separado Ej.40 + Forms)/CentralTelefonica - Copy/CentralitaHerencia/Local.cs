@@ -44,10 +44,7 @@ namespace CentralitaHerencia
 
         public override bool Equals(object obj)
         {
-            if (obj is Local)
-                return true;
-            else
-                return false;
+            return (obj is Local);
         }
 
         public override string ToString()
