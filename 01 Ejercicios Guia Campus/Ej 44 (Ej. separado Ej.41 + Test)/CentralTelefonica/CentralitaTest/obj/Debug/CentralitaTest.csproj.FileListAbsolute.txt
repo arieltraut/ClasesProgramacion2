@@ -1,0 +1,7 @@
+D:\Ariel\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 44 (Ej. separado Ej.41 + Test)\CentralTelefonica\CentralitaTest\obj\Debug\CentralitaTest.csprojResolveAssemblyReference.cache
+D:\Ariel\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 44 (Ej. separado Ej.41 + Test)\CentralTelefonica\CentralitaTest\bin\Debug\CentralitaTest.dll
+D:\Ariel\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 44 (Ej. separado Ej.41 + Test)\CentralTelefonica\CentralitaTest\bin\Debug\CentralitaTest.pdb
+D:\Ariel\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 44 (Ej. separado Ej.41 + Test)\CentralTelefonica\CentralitaTest\bin\Debug\CentralitaHerencia.exe
+D:\Ariel\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 44 (Ej. separado Ej.41 + Test)\CentralTelefonica\CentralitaTest\bin\Debug\CentralitaHerencia.pdb
+D:\Ariel\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 44 (Ej. separado Ej.41 + Test)\CentralTelefonica\CentralitaTest\obj\Debug\CentralitaTest.dll
+D:\Ariel\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 44 (Ej. separado Ej.41 + Test)\CentralTelefonica\CentralitaTest\obj\Debug\CentralitaTest.pdb
