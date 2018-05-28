@@ -1,0 +1,16 @@
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 47 (Ej. separado Generics)\Ej 47\TestConsola\bin\Debug\TestConsola.exe.config
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 47 (Ej. separado Generics)\Ej 47\TestConsola\bin\Debug\TestConsola.exe
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 47 (Ej. separado Generics)\Ej 47\TestConsola\bin\Debug\TestConsola.pdb
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 47 (Ej. separado Generics)\Ej 47\TestConsola\bin\Debug\Entidades.dll
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 47 (Ej. separado Generics)\Ej 47\TestConsola\bin\Debug\Entidades.pdb
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 47 (Ej. separado Generics)\Ej 47\TestConsola\obj\Debug\TestConsola.csprojResolveAssemblyReference.cache
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 47 (Ej. separado Generics)\Ej 47\TestConsola\obj\Debug\TestConsola.exe
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 47 (Ej. separado Generics)\Ej 47\TestConsola\obj\Debug\TestConsola.pdb
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 47 (Ej. Generics)\Ej 47\TestConsola\bin\Debug\TestConsola.exe.config
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 47 (Ej. Generics)\Ej 47\TestConsola\obj\Debug\TestConsola.exe
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 47 (Ej. Generics)\Ej 47\TestConsola\obj\Debug\TestConsola.pdb
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 47 (Ej. Generics)\Ej 47\TestConsola\bin\Debug\TestConsola.exe
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 47 (Ej. Generics)\Ej 47\TestConsola\bin\Debug\TestConsola.pdb
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 47 (Ej. Generics)\Ej 47\TestConsola\bin\Debug\Entidades.dll
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 47 (Ej. Generics)\Ej 47\TestConsola\bin\Debug\Entidades.pdb
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 47 (Ej. Generics)\Ej 47\TestConsola\obj\Debug\TestConsola.csprojResolveAssemblyReference.cache

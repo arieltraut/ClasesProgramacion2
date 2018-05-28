@@ -1,0 +1,6 @@
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 46 (Ej. 43 + Test)\Ej 46\Ej 46\bin\Debug\Ej 46.exe.config
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 46 (Ej. 43 + Test)\Ej 46\Ej 46\bin\Debug\Ej 46.exe
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 46 (Ej. 43 + Test)\Ej 46\Ej 46\bin\Debug\Ej 46.pdb
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 46 (Ej. 43 + Test)\Ej 46\Ej 46\obj\Debug\Ej 46.csprojResolveAssemblyReference.cache
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 46 (Ej. 43 + Test)\Ej 46\Ej 46\obj\Debug\Ej 46.exe
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 46 (Ej. 43 + Test)\Ej 46\Ej 46\obj\Debug\Ej 46.pdb

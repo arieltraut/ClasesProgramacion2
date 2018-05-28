@@ -1,0 +1,6 @@
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 49\Ej 49\Ej 49\bin\Debug\Ej 49.exe.config
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 49\Ej 49\Ej 49\bin\Debug\Ej 49.exe
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 49\Ej 49\Ej 49\bin\Debug\Ej 49.pdb
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 49\Ej 49\Ej 49\obj\Debug\Ej 49.csprojResolveAssemblyReference.cache
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 49\Ej 49\Ej 49\obj\Debug\Ej 49.exe
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 49\Ej 49\Ej 49\obj\Debug\Ej 49.pdb

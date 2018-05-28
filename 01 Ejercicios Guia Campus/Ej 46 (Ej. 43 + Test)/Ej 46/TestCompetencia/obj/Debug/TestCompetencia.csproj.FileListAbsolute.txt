@@ -1,0 +1,7 @@
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 46 (Ej. 43 + Test)\Ej 46\TestCompetencia\bin\Debug\TestCompetencia.dll
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 46 (Ej. 43 + Test)\Ej 46\TestCompetencia\bin\Debug\TestCompetencia.pdb
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 46 (Ej. 43 + Test)\Ej 46\TestCompetencia\obj\Debug\TestCompetencia.csprojResolveAssemblyReference.cache
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 46 (Ej. 43 + Test)\Ej 46\TestCompetencia\obj\Debug\TestCompetencia.dll
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 46 (Ej. 43 + Test)\Ej 46\TestCompetencia\obj\Debug\TestCompetencia.pdb
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 46 (Ej. 43 + Test)\Ej 46\TestCompetencia\bin\Debug\Ej 46.exe
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 46 (Ej. 43 + Test)\Ej 46\TestCompetencia\bin\Debug\Ej 46.pdb

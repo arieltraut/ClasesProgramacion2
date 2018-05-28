@@ -1,0 +1,11 @@
+D:\VisualStudio\Ej 50\Ej 50\bin\Debug\Ej 50.exe.config
+D:\VisualStudio\Ej 50\Ej 50\bin\Debug\Ej 50.exe
+D:\VisualStudio\Ej 50\Ej 50\bin\Debug\Ej 50.pdb
+D:\VisualStudio\Ej 50\Ej 50\bin\Debug\Entidades.dll
+D:\VisualStudio\Ej 50\Ej 50\bin\Debug\Entidades.pdb
+D:\VisualStudio\Ej 50\Ej 50\obj\Debug\Ej 50.csprojResolveAssemblyReference.cache
+D:\VisualStudio\Ej 50\Ej 50\obj\Debug\Ej 50.exe
+D:\VisualStudio\Ej 50\Ej 50\obj\Debug\Ej 50.pdb
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 50\Ej 50\Ej 50\bin\Debug\Ej 50.exe.config
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 50\Ej 50\Ej 50\obj\Debug\Ej 50.exe
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 50\Ej 50\Ej 50\obj\Debug\Ej 50.pdb

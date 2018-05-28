@@ -1,0 +1,8 @@
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 48\Ej 48\TestConsola\bin\Debug\TestConsola.exe.config
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 48\Ej 48\TestConsola\bin\Debug\TestConsola.exe
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 48\Ej 48\TestConsola\bin\Debug\TestConsola.pdb
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 48\Ej 48\TestConsola\bin\Debug\Entidades.dll
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 48\Ej 48\TestConsola\bin\Debug\Entidades.pdb
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 48\Ej 48\TestConsola\obj\Debug\TestConsola.csprojResolveAssemblyReference.cache
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 48\Ej 48\TestConsola\obj\Debug\TestConsola.exe
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 48\Ej 48\TestConsola\obj\Debug\TestConsola.pdb

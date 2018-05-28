@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ej 50", "Ej 50\Ej 50.csproj", "{78FD90FC-7916-4E8B-B5DF-6E6E19F37EB1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entidades", "Entidades\Entidades.csproj", "{9CF3539B-AF65-4289-B853-0B072335368C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{78FD90FC-7916-4E8B-B5DF-6E6E19F37EB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78FD90FC-7916-4E8B-B5DF-6E6E19F37EB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78FD90FC-7916-4E8B-B5DF-6E6E19F37EB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78FD90FC-7916-4E8B-B5DF-6E6E19F37EB1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9CF3539B-AF65-4289-B853-0B072335368C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CF3539B-AF65-4289-B853-0B072335368C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CF3539B-AF65-4289-B853-0B072335368C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CF3539B-AF65-4289-B853-0B072335368C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

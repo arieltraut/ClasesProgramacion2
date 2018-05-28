@@ -65,22 +65,27 @@ namespace Ej_43
 
         public static bool operator +(Competencia c, VehiculoDeCarrera a)
         {
-            if ((c.TipoDeCompetencia == TipoCompetencia.F1 && a is AutoF1)
-                || (c.TipoDeCompetencia == TipoCompetencia.MotoCross && a is MotoCross))
+            try
             {
-                if ((c.competidores.Count < c.cantidadCompetidores) && c != a)
-                {
-                    Random r = new Random();
-                    c.competidores.Add(a);
-                    a.EnCompetencia = true;
-                    a.VueltasRestantes = c.cantidadVueltas;
-                    a.CantidadCombustible = (short)r.Next(15, 100);
-
-                    return true;
-                }
+                if (c == a)
+                { }
             }
-            else
-                throw new CompetenciaNoDisponibleException("El vehículo no corresponde a la competencia", "Competencia", "==");
+            catch (CompetenciaNoDisponibleException e)
+            {
+                Console.WriteLine(e.ToString());
+                throw new CompetenciaNoDisponibleException("Competencia incorrecta", "Competencia", "+");
+            }                
+                        
+            if ((c.competidores.Count < c.cantidadCompetidores) && c != a)
+            {
+                Random r = new Random();
+                c.competidores.Add(a);
+                a.EnCompetencia = true;
+                a.VueltasRestantes = c.cantidadVueltas;
+                a.CantidadCombustible = (short)r.Next(15, 100);
+
+                return true;
+            }
             return false;
         }
 

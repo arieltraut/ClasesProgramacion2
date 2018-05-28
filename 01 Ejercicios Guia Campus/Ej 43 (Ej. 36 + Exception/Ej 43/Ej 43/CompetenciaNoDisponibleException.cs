@@ -43,7 +43,7 @@ namespace Ej_43
             StringBuilder sb = new StringBuilder();
             sb.AppendFormat("Excepción en el método {0} de la clase {1}:\n",this.NombreMetodo,this.NombreClase);
             sb.AppendLine(this.Message);
-            sb.AppendLine(this.InnerException.ToString());
+            //sb.AppendLine(this.InnerException.ToString());
             
             return sb.ToString();
         }

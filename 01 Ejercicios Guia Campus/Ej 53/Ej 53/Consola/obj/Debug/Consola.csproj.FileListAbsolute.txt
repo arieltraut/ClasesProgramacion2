@@ -1,0 +1,8 @@
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 53\Ej 53\Consola\bin\Debug\Consola.exe.config
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 53\Ej 53\Consola\bin\Debug\Consola.exe
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 53\Ej 53\Consola\bin\Debug\Consola.pdb
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 53\Ej 53\Consola\bin\Debug\Entidades.dll
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 53\Ej 53\Consola\bin\Debug\Entidades.pdb
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 53\Ej 53\Consola\obj\Debug\Consola.csprojResolveAssemblyReference.cache
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 53\Ej 53\Consola\obj\Debug\Consola.exe
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 53\Ej 53\Consola\obj\Debug\Consola.pdb
