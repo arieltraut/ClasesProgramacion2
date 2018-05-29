@@ -6,9 +6,16 @@ using System.Threading.Tasks;
 
 namespace Entidades
 {
-    class Cartuchera1
+    public class Cartuchera1
     {
         List<IAcciones> lista = new List<IAcciones>();
+
+        
+        public List<IAcciones> Lista
+        {
+            get { return this.lista; }
+        }
+
 
         public bool ProbarElementos()
         {
@@ -17,17 +24,20 @@ namespace Entidades
             {
                 foreach (IAcciones aux in this.lista)
                 {
-                    if(aux.UnidadesDeEscritura >= 10)
+                    if(aux.UnidadesDeEscritura >= 1)
                     {
-                        aux.UnidadesDeEscritura -= 10;
-                        //aux.Escribir("123456789012345678901234567890");
-                        if(aux.UnidadesDeEscritura < 10)
-                            aux.Recargar(10);
+                        if (aux is Lapiz)
+                            aux.Escribir("vacaciones"); //0.1 por caracter
+                        if (aux is Boligrafo)
+                            aux.Escribir("dos");  //0.3 por caracter
                     }
                     else
                     {
                         retorno = false;
-                    }          
+                    }
+
+                    if (aux.UnidadesDeEscritura < 1)
+                        aux.Recargar(1);
                 }
             }
             catch(NotImplementedException e)

@@ -24,6 +24,19 @@ namespace Consola
             Console.WriteLine(eBoligrafo.texto);
             Console.ForegroundColor = colorOriginal;
             Console.WriteLine(miBoligrafo);
+
+
+            Cartuchera1 cartuchera1 = new Cartuchera1();
+
+            cartuchera1.Lista.Add(miLapiz);
+            cartuchera1.Lista.Add(miBoligrafo);
+
+            cartuchera1.ProbarElementos();
+
+            Console.WriteLine(miLapiz);
+            Console.WriteLine(miBoligrafo);
+
+
             Console.ReadKey();
         }
     }

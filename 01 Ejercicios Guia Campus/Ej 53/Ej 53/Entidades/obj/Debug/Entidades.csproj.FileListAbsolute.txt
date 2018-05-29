@@ -3,3 +3,8 @@ D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 53\Ej 
 D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 53\Ej 53\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
 D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 53\Ej 53\Entidades\obj\Debug\Entidades.dll
 D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 53\Ej 53\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Ari\Desktop\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 53\Ej 53\Entidades\bin\Debug\Entidades.dll
+C:\Users\Ari\Desktop\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 53\Ej 53\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Ari\Desktop\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 53\Ej 53\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\Ari\Desktop\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 53\Ej 53\Entidades\obj\Debug\Entidades.dll
+C:\Users\Ari\Desktop\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 53\Ej 53\Entidades\obj\Debug\Entidades.pdb

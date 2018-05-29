@@ -22,20 +22,21 @@ namespace Ej_56
 
         private void abrirToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            OpenFileDialog theDialog = new OpenFileDialog();
-            theDialog.Title = "Open Text File";
-            theDialog.Filter = "TXT files|*.txt";
-            theDialog.InitialDirectory = @"C:\";
-            if (theDialog.ShowDialog() == DialogResult.OK)
+            OpenFileDialog openFile = new OpenFileDialog();
+            openFile.Title = "Open Text File";
+            openFile.Filter = "TXT files|*.txt";
+            openFile.InitialDirectory = @"C:\";
+            if (openFile.ShowDialog() == DialogResult.OK)
             {
-                ruta = theDialog.FileName.ToString();
-                MessageBox.Show(theDialog.FileName.ToString());
-                //richTextBox1.LoadFile(theDialog.FileName, RichTextBoxStreamType.PlainText); //otra forma
-            }
-            StreamReader lectura = new StreamReader(theDialog.FileName);
+                ruta = openFile.FileName.ToString();
+                //MessageBox.Show(openFile.FileName.ToString());
+                //richTextBox1.LoadFile(openFile.FileName, RichTextBoxStreamType.PlainText); //otra forma
 
-            richTextBox1.Text = lectura.ReadToEnd();
-            lectura.Close();
+                StreamReader lectura = new StreamReader(openFile.FileName);
+                richTextBox1.Text = lectura.ReadToEnd();
+                lectura.Close();
+            }
+
     
         }
 
