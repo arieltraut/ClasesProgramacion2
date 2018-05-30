@@ -37,7 +37,7 @@ namespace Ej_56
                 lectura.Close();
             }
 
-    
+
         }
 
         private void guardarToolStripMenuItem_Click(object sender, EventArgs e)
@@ -46,6 +46,19 @@ namespace Ej_56
             guardar.Write(richTextBox1.Text);
         }
 
+        private void guardarToolStripMenuItem1_Click(object sender, EventArgs e)
+        {
+            SaveFileDialog guardarComo = new SaveFileDialog();
 
+            if (guardarComo.ShowDialog() == DialogResult.OK)
+            {
+                StreamWriter escritura = new StreamWriter(guardarComo.FileName);
+                escritura.Write(richTextBox1.Text);
+                escritura.Close();
+            }
+        }
     }
+
+
+    
 }

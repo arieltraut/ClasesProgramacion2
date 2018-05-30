@@ -16,3 +16,12 @@ C:\Users\Ari\Desktop\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 56\Ej 56\E
 C:\Users\Ari\Desktop\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 56\Ej 56\Ej 56\obj\Debug\Ej_56.Form1.resources
 C:\Users\Ari\Desktop\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 56\Ej 56\Ej 56\obj\Debug\Ej_56.Properties.Resources.resources
 C:\Users\Ari\Desktop\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 56\Ej 56\Ej 56\obj\Debug\Ej 56.csproj.GenerateResource.Cache
+C:\Users\OROZCO PC\Desktop\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 56\Ej 56\Ej 56\bin\Debug\Ej 56.exe.config
+C:\Users\OROZCO PC\Desktop\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 56\Ej 56\Ej 56\obj\Debug\Ej 56.exe
+C:\Users\OROZCO PC\Desktop\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 56\Ej 56\Ej 56\obj\Debug\Ej 56.pdb
+C:\Users\OROZCO PC\Desktop\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 56\Ej 56\Ej 56\bin\Debug\Ej 56.exe
+C:\Users\OROZCO PC\Desktop\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 56\Ej 56\Ej 56\bin\Debug\Ej 56.pdb
+C:\Users\OROZCO PC\Desktop\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 56\Ej 56\Ej 56\obj\Debug\Ej 56.csprojResolveAssemblyReference.cache
+C:\Users\OROZCO PC\Desktop\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 56\Ej 56\Ej 56\obj\Debug\Ej_56.Form1.resources
+C:\Users\OROZCO PC\Desktop\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 56\Ej 56\Ej 56\obj\Debug\Ej_56.Properties.Resources.resources
+C:\Users\OROZCO PC\Desktop\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 56\Ej 56\Ej 56\obj\Debug\Ej 56.csproj.GenerateResource.Cache

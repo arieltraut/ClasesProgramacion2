@@ -77,6 +77,7 @@
             this.guardarToolStripMenuItem1.Name = "guardarToolStripMenuItem1";
             this.guardarToolStripMenuItem1.Size = new System.Drawing.Size(159, 22);
             this.guardarToolStripMenuItem1.Text = "Guardar como...";
+            this.guardarToolStripMenuItem1.Click += new System.EventHandler(this.guardarToolStripMenuItem1_Click);
             // 
             // statusStrip1
             // 
