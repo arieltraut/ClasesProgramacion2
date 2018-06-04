@@ -1,0 +1,12 @@
+D:\VisualStudio\Ej 57\Consola\bin\Debug\Consola.exe.config
+D:\VisualStudio\Ej 57\Consola\bin\Debug\Consola.exe
+D:\VisualStudio\Ej 57\Consola\bin\Debug\Consola.pdb
+D:\VisualStudio\Ej 57\Consola\obj\Debug\Consola.csprojResolveAssemblyReference.cache
+D:\VisualStudio\Ej 57\Consola\obj\Debug\Consola.exe
+D:\VisualStudio\Ej 57\Consola\obj\Debug\Consola.pdb
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 57\Consola\bin\Debug\Consola.exe.config
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 57\Consola\obj\Debug\Consola.exe
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 57\Consola\obj\Debug\Consola.pdb
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 57\Consola\bin\Debug\Consola.exe
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 57\Consola\bin\Debug\Consola.pdb
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 57\Consola\obj\Debug\Consola.csprojResolveAssemblyReference.cache

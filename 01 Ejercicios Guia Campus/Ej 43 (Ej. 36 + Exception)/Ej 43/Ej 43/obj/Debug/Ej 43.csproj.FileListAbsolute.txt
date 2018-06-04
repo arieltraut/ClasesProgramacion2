@@ -1,0 +1,12 @@
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 43 (Ej. 36 + Exception\Ej 43\Ej 43\bin\Debug\Ej 43.exe.config
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 43 (Ej. 36 + Exception\Ej 43\Ej 43\bin\Debug\Ej 43.exe
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 43 (Ej. 36 + Exception\Ej 43\Ej 43\bin\Debug\Ej 43.pdb
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 43 (Ej. 36 + Exception\Ej 43\Ej 43\obj\Debug\Ej 43.csprojResolveAssemblyReference.cache
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 43 (Ej. 36 + Exception\Ej 43\Ej 43\obj\Debug\Ej 43.exe
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 43 (Ej. 36 + Exception\Ej 43\Ej 43\obj\Debug\Ej 43.pdb
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 43 (Ej. 36 + Exception)\Ej 43\Ej 43\bin\Debug\Ej 43.exe.config
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 43 (Ej. 36 + Exception)\Ej 43\Ej 43\obj\Debug\Ej 43.exe
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 43 (Ej. 36 + Exception)\Ej 43\Ej 43\obj\Debug\Ej 43.pdb
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 43 (Ej. 36 + Exception)\Ej 43\Ej 43\bin\Debug\Ej 43.exe
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 43 (Ej. 36 + Exception)\Ej 43\Ej 43\bin\Debug\Ej 43.pdb
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 43 (Ej. 36 + Exception)\Ej 43\Ej 43\obj\Debug\Ej 43.csprojResolveAssemblyReference.cache

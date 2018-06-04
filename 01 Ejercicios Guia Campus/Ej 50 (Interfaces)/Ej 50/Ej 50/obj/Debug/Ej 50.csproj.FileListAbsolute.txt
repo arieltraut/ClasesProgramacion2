@@ -9,3 +9,6 @@ D:\VisualStudio\Ej 50\Ej 50\obj\Debug\Ej 50.pdb
 D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 50\Ej 50\Ej 50\bin\Debug\Ej 50.exe.config
 D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 50\Ej 50\Ej 50\obj\Debug\Ej 50.exe
 D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 50\Ej 50\Ej 50\obj\Debug\Ej 50.pdb
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 50 (Interfaces)\Ej 50\Ej 50\bin\Debug\Ej 50.exe.config
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 50 (Interfaces)\Ej 50\Ej 50\obj\Debug\Ej 50.exe
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 50 (Interfaces)\Ej 50\Ej 50\obj\Debug\Ej 50.pdb

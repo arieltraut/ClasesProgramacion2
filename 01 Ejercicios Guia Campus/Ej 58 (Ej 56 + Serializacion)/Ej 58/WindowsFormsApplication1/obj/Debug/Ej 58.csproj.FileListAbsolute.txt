@@ -1,0 +1,9 @@
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 58 (Ej 56 + Serializacion)\Ej 58\WindowsFormsApplication1\obj\Debug\Ej 58.csprojResolveAssemblyReference.cache
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 58 (Ej 56 + Serializacion)\Ej 58\WindowsFormsApplication1\obj\Debug\Ej_56.Form1.resources
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 58 (Ej 56 + Serializacion)\Ej 58\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 58 (Ej 56 + Serializacion)\Ej 58\WindowsFormsApplication1\obj\Debug\Ej 58.csproj.GenerateResource.Cache
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 58 (Ej 56 + Serializacion)\Ej 58\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 58 (Ej 56 + Serializacion)\Ej 58\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 58 (Ej 56 + Serializacion)\Ej 58\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 58 (Ej 56 + Serializacion)\Ej 58\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 58 (Ej 56 + Serializacion)\Ej 58\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb

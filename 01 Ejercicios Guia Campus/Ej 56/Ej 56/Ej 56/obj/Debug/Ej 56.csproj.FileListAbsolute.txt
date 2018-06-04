@@ -25,3 +25,6 @@ C:\Users\OROZCO PC\Desktop\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 56\E
 C:\Users\OROZCO PC\Desktop\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 56\Ej 56\Ej 56\obj\Debug\Ej_56.Form1.resources
 C:\Users\OROZCO PC\Desktop\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 56\Ej 56\Ej 56\obj\Debug\Ej_56.Properties.Resources.resources
 C:\Users\OROZCO PC\Desktop\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 56\Ej 56\Ej 56\obj\Debug\Ej 56.csproj.GenerateResource.Cache
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 56\Ej 56\Ej 56\bin\Debug\Ej 56.exe.config
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 56\Ej 56\Ej 56\obj\Debug\Ej 56.exe
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 56\Ej 56\Ej 56\obj\Debug\Ej 56.pdb

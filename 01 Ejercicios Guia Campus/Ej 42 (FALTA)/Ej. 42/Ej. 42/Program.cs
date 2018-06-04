@@ -13,14 +13,15 @@ namespace Ej._42
             float numero1 = 7;
             float numero2 = 0;
             float resultado;
-            try
-            {
+            //try
+            //{
                 resultado = Dividir(numero1, numero2);
-            }
-            catch (DivideByZeroException e)
-            {
-                Console.WriteLine(e.Message);
-            }
+            //}
+            //catch (DivideByZeroException e)
+            //{
+            //    Console.WriteLine(e.Message);               
+            //    throw new UnaException(e.Message, e);
+            //}
 
             Console.ReadKey();
         }
@@ -28,16 +29,23 @@ namespace Ej._42
 
         public static float Dividir(float num1, float num2)
         {
-            if (num2 != 0)
-                return num1 / num2;
-            else
-                throw new DivideByZeroException("El divisor no puede ser cero");
+            float resultado = 0;
+            if (num2 == 0)
+                throw new DivideByZeroException("El divisor no puede ser cero");            
+            
+            try
+            {
+                resultado = num1 / num2;
+            }
+            catch (DivideByZeroException e)
+            {
+                //Console.WriteLine(e.Message);
+                throw new UnaException(e.Message, e);
+            }
+
+            return resultado;
+            
+
         }
-
-        //        public Excepcion(string message, Exception innerException)
-        //    : base(message, innerException)
-        //{
-
-        //}
     }
 }
