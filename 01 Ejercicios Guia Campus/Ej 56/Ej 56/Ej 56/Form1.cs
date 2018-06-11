@@ -28,7 +28,7 @@ namespace Ej_56
             openFile.InitialDirectory = @"C:\";
             if (openFile.ShowDialog() == DialogResult.OK)
             {
-                ruta = openFile.FileName.ToString();
+                ruta = openFile.FileName;
                 //MessageBox.Show(openFile.FileName.ToString());
                 //richTextBox1.LoadFile(openFile.FileName, RichTextBoxStreamType.PlainText); //otra forma
 
@@ -42,8 +42,15 @@ namespace Ej_56
 
         private void guardarToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            StreamWriter guardar = new StreamWriter(ruta);
-            guardar.Write(richTextBox1.Text);
+            if (ruta == null)
+                guardarToolStripMenuItem1_Click(sender, e);
+            else
+            {
+                StreamWriter guardar = new StreamWriter(ruta);
+                guardar.Write(richTextBox1.Text);
+                guardar.Close();
+            }
+
         }
 
         private void guardarToolStripMenuItem1_Click(object sender, EventArgs e)
@@ -54,6 +61,7 @@ namespace Ej_56
             {
                 StreamWriter escritura = new StreamWriter(guardarComo.FileName);
                 escritura.Write(richTextBox1.Text);
+                ruta = guardarComo.FileName;
                 escritura.Close();
             }
         }

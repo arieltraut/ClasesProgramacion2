@@ -1,0 +1,8 @@
+D:\Ariel\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 60\Ej 60\Entidades\bin\Debug\Entidades.dll.config
+D:\Ariel\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 60\Ej 60\Entidades\bin\Debug\Entidades.dll
+D:\Ariel\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 60\Ej 60\Entidades\bin\Debug\Entidades.pdb
+D:\Ariel\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 60\Ej 60\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+D:\Ariel\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 60\Ej 60\Entidades\obj\Debug\Entidades.Properties.Resources.resources
+D:\Ariel\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 60\Ej 60\Entidades\obj\Debug\Entidades.csproj.GenerateResource.Cache
+D:\Ariel\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 60\Ej 60\Entidades\obj\Debug\Entidades.dll
+D:\Ariel\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 60\Ej 60\Entidades\obj\Debug\Entidades.pdb

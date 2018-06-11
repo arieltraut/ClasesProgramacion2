@@ -8,7 +8,7 @@ namespace IO
 {
     public interface IArchivos<T>
     {
-        bool Guardar(string ruta);
+        bool Guardar(string ruta, T obj);
         T Leer(string ruta);
     }
 }

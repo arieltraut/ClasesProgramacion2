@@ -29,16 +29,21 @@ namespace IO
             return retorno;
         }
 
-        bool Guardar(string ruta)
+        public bool Guardar(string ruta, string obj)
         {
-            if (this.ValidarArchivo(ruta))
-            {
-                StreamWriter escritura = new StreamWriter(ruta);
-                escritura.Write(RichTe);
-                escritura.Close();
-            }
-
+            StreamWriter escritura = new StreamWriter(ruta); //hacer try/catch
+            escritura.Write(obj);
+            escritura.Close();
             return true;
+        }
+
+        public string Leer(string ruta)
+        {
+            string retorno;
+            StreamReader lectura = new StreamReader(ruta);
+            retorno = lectura.ReadToEnd();
+            lectura.Close(); 
+            return retorno;
         }
 
     }

@@ -1,0 +1,12 @@
+D:\VisualStudio\Ej 60\FormProductos\bin\Debug\FormProductos.exe.config
+D:\Ariel\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 60\Ej 60\FormProductos\bin\Debug\FormProductos.exe.config
+D:\Ariel\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 60\Ej 60\FormProductos\bin\Debug\FormProductos.exe
+D:\Ariel\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 60\Ej 60\FormProductos\bin\Debug\FormProductos.pdb
+D:\Ariel\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 60\Ej 60\FormProductos\bin\Debug\Entidades.dll
+D:\Ariel\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 60\Ej 60\FormProductos\bin\Debug\Entidades.pdb
+D:\Ariel\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 60\Ej 60\FormProductos\obj\Debug\FormProductos.csprojResolveAssemblyReference.cache
+D:\Ariel\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 60\Ej 60\FormProductos\obj\Debug\FormProductos.Form1.resources
+D:\Ariel\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 60\Ej 60\FormProductos\obj\Debug\FormProductos.Properties.Resources.resources
+D:\Ariel\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 60\Ej 60\FormProductos\obj\Debug\FormProductos.csproj.GenerateResource.Cache
+D:\Ariel\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 60\Ej 60\FormProductos\obj\Debug\FormProductos.exe
+D:\Ariel\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 60\Ej 60\FormProductos\obj\Debug\FormProductos.pdb

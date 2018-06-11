@@ -16,11 +16,6 @@ namespace Ej_58
     {
         string ruta;
 
-        //public string RichTextBox1
-        //{
-        //    get { return richTextBox1.Text; }
-        //}
-
         public Form1()
         {
             InitializeComponent();
@@ -35,37 +30,63 @@ namespace Ej_58
             if (openFile.ShowDialog() == DialogResult.OK)
             {
                 ruta = openFile.FileName.ToString();
-                //MessageBox.Show(openFile.FileName.ToString());
-                //richTextBox1.LoadFile(openFile.FileName, RichTextBoxStreamType.PlainText); //otra forma           
- 
-                StreamReader lectura = new StreamReader(openFile.FileName);
-                richTextBox1.Text = lectura.ReadToEnd();
-                lectura.Close();
+                switch (openFile.FilterIndex)
+                {
+                    case 1: //selected .txt
+                        PuntoTxt leerTxt = new PuntoTxt();
+                        richTextBox1.Text = leerTxt.Leer(openFile.FileName);
+                        break;
+                    case 2: //selected .dat
+                        PuntoDat leerDat = new PuntoDat();
+                        leerDat = leerDat.Leer(openFile.FileName);
+                        richTextBox1.Text = leerDat.Contenido;
+                        break;
+                }
             }
-
-
         }
 
         private void guardarToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            StreamWriter guardar = new StreamWriter(ruta);
-            guardar.Write(richTextBox1.Text);
+            if (ruta == null)
+                guardarComoToolStripMenuItem_Click(sender, e);
+            else
+            {
+                if (Path.GetExtension(ruta) == ".txt")
+                {
+                    PuntoTxt guardarTxt = new PuntoTxt();
+                    bool aux = guardarTxt.Guardar(ruta, richTextBox1.Text);
+                }
+                else if (Path.GetExtension(ruta) == ".dat")
+                {
+                    PuntoDat guardarDat = new PuntoDat();
+                    guardarDat.Contenido = richTextBox1.Text;
+                    bool aux2 = guardarDat.Guardar(ruta, guardarDat);
+                }
+            }
+
         }
 
-        private void guardarToolStripMenuItem1_Click(object sender, EventArgs e)
+        private void guardarComoToolStripMenuItem_Click(object sender, EventArgs e)
         {
             SaveFileDialog guardarComo = new SaveFileDialog();
             guardarComo.Filter = "TXT files|*.txt|DAT files|*.dat";
 
             if (guardarComo.ShowDialog() == DialogResult.OK)
             {
-                StreamWriter escritura = new StreamWriter(guardarComo.FileName);
-                escritura.Write(richTextBox1.Text);
-                escritura.Close();
+                switch (guardarComo.FilterIndex)
+                {
+                    case 1: //selected .txt
+                        PuntoTxt guardarTxt = new PuntoTxt();
+                        bool aux = guardarTxt.Guardar(guardarComo.FileName,richTextBox1.Text);
+                        break;
+                    case 2: //selected .dat
+                        PuntoDat archivoDat = new PuntoDat();
+                        archivoDat.Contenido = richTextBox1.Text;
+                        bool aux2 = archivoDat.Guardar(guardarComo.FileName,archivoDat);
+                        break;
+                }
+                ruta = guardarComo.FileName;
             }
         }
     }
-
-
-    
 }

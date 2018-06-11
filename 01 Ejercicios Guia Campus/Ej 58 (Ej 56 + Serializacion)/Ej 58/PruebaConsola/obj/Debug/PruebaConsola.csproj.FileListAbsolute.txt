@@ -1,0 +1,8 @@
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 58 (Ej 56 + Serializacion)\Ej 58\PruebaConsola\bin\Debug\PruebaConsola.exe.config
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 58 (Ej 56 + Serializacion)\Ej 58\PruebaConsola\bin\Debug\PruebaConsola.exe
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 58 (Ej 56 + Serializacion)\Ej 58\PruebaConsola\bin\Debug\PruebaConsola.pdb
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 58 (Ej 56 + Serializacion)\Ej 58\PruebaConsola\bin\Debug\IO.dll
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 58 (Ej 56 + Serializacion)\Ej 58\PruebaConsola\bin\Debug\IO.pdb
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 58 (Ej 56 + Serializacion)\Ej 58\PruebaConsola\obj\Debug\PruebaConsola.csprojResolveAssemblyReference.cache
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 58 (Ej 56 + Serializacion)\Ej 58\PruebaConsola\obj\Debug\PruebaConsola.exe
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 58 (Ej 56 + Serializacion)\Ej 58\PruebaConsola\obj\Debug\PruebaConsola.pdb
