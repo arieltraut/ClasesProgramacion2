@@ -1,0 +1,11 @@
+D:\Ariel\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 67\Ej 69\FormEj69\bin\Debug\FormEj69.exe.config
+D:\Ariel\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 67\Ej 69\FormEj69\bin\Debug\FormEj69.exe
+D:\Ariel\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 67\Ej 69\FormEj69\bin\Debug\FormEj69.pdb
+D:\Ariel\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 67\Ej 69\FormEj69\obj\Debug\FormEj69.csprojResolveAssemblyReference.cache
+D:\Ariel\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 67\Ej 69\FormEj69\obj\Debug\FormEj69.FrmPrincipal.resources
+D:\Ariel\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 67\Ej 69\FormEj69\obj\Debug\FormEj69.Properties.Resources.resources
+D:\Ariel\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 67\Ej 69\FormEj69\obj\Debug\FormEj69.csproj.GenerateResource.Cache
+D:\Ariel\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 67\Ej 69\FormEj69\obj\Debug\FormEj69.exe
+D:\Ariel\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 67\Ej 69\FormEj69\obj\Debug\FormEj69.pdb
+D:\Ariel\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 67\Ej 69\FormEj69\obj\Debug\FormEj69.frmTestDelegados.resources
+D:\Ariel\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 67\Ej 69\FormEj69\obj\Debug\FormEj69.FrmDatos.resources

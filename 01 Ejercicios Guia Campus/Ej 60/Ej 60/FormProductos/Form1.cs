@@ -22,14 +22,22 @@ namespace FormProductos
 
         private void btnCargar_Click(object sender, EventArgs e)
         {
-            Producto producto = ProductoDAO.ObtieneProducto(1);
-            richTextBox1.Text = producto.ToString(); 
+            //Producto producto = ProductoDAO.ObtieneProducto(2); //Obtiene directo de tabla con id
+            foreach (Producto aux in lista)
+            {
+                if(aux.ProductId.ToString() == comboBox1.SelectedItem.ToString())
+                    richTextBox1.Text = aux.ToString();
+            }
+            
         }
 
         private void btnInsertar_Click(object sender, EventArgs e)
         {
-            Producto producto1 = new Producto("Producto1","rojo");
+            Producto producto1 = new Producto("Juan","amarillo");   //modificar para que cargue en lista antes y luego en base
             ProductoDAO.InsertaProducto(producto1);
+            comboBox1.Items.Clear();
+            comboBox1.Text = "";
+            Form1_Load(sender, e);
         }
 
         private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
@@ -52,6 +60,8 @@ namespace FormProductos
         {
 
             ProductoDAO.EliminaProducto(lista[(int.Parse((comboBox1.SelectedItem).ToString()))]);
+            comboBox1.Items.Clear();
+            comboBox1.Text = "";
             Form1_Load(sender, e);
 
         }

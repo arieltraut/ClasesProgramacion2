@@ -1,0 +1,11 @@
+D:\Ariel\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 67\Ej 67\FormPersona\bin\Debug\FormPersona.exe.config
+D:\Ariel\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 67\Ej 67\FormPersona\bin\Debug\FormPersona.exe
+D:\Ariel\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 67\Ej 67\FormPersona\bin\Debug\FormPersona.pdb
+D:\Ariel\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 67\Ej 67\FormPersona\bin\Debug\Entidades.dll
+D:\Ariel\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 67\Ej 67\FormPersona\bin\Debug\Entidades.pdb
+D:\Ariel\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 67\Ej 67\FormPersona\obj\Debug\FormPersona.csprojResolveAssemblyReference.cache
+D:\Ariel\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 67\Ej 67\FormPersona\obj\Debug\FormPersona.Form1.resources
+D:\Ariel\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 67\Ej 67\FormPersona\obj\Debug\FormPersona.Properties.Resources.resources
+D:\Ariel\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 67\Ej 67\FormPersona\obj\Debug\FormPersona.csproj.GenerateResource.Cache
+D:\Ariel\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 67\Ej 67\FormPersona\obj\Debug\FormPersona.exe
+D:\Ariel\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 67\Ej 67\FormPersona\obj\Debug\FormPersona.pdb

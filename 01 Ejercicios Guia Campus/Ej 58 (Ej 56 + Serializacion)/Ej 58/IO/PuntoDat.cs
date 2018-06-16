@@ -48,11 +48,12 @@ namespace IO
 
         public bool Guardar(string ruta, PuntoDat obj)
         {
+
             FileStream fs = new FileStream(ruta, FileMode.Create);
             //Objeto que escribirá en binario. //Se indica ubicación del archivo binario y el modo.
             BinaryFormatter ser = new BinaryFormatter();
             //Objeto que serializará.   //Se crea el objeto serializador.
-                
+
             ser.Serialize(fs, obj);
             //Serializa el objeto obj en el archivo contenido en fs.
 

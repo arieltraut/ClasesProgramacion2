@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormPersona", "FormPersona\FormPersona.csproj", "{4F633617-2D07-4E11-B6AF-A3CB28C9B4B2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entidades", "Entidades\Entidades.csproj", "{849EF7ED-777F-456B-AE19-6984962C6F0E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F633617-2D07-4E11-B6AF-A3CB28C9B4B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F633617-2D07-4E11-B6AF-A3CB28C9B4B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F633617-2D07-4E11-B6AF-A3CB28C9B4B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F633617-2D07-4E11-B6AF-A3CB28C9B4B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{849EF7ED-777F-456B-AE19-6984962C6F0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{849EF7ED-777F-456B-AE19-6984962C6F0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{849EF7ED-777F-456B-AE19-6984962C6F0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{849EF7ED-777F-456B-AE19-6984962C6F0E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
