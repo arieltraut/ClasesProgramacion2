@@ -9,8 +9,21 @@ namespace Entidades
 {
     public class Paquete : IMostrar<Paquete>
     {
+        // Delegado del evento
+        public delegate void DelegadoEstado(); //ver parametros
+        // Evento del tipo del delegado
+        public event DelegadoEstado EventoQueGenera;
+
+      
+        public enum EEstado
+        {
+            Ingresado,
+            EnViaje,
+            Entregado
+        }
+        
         private string direccionEntrega;
-        //EEstado estado;
+        EEstado estado;
         private string trackingID;
 
         #region Constructor
@@ -18,22 +31,24 @@ namespace Entidades
         {
             this.direccionEntrega = direccionEntrega;
             this.trackingID = trackingID;
+            this.estado = EEstado.Ingresado;
+            this.EventoQueGenera += InformaEstado;
         }
         #endregion
 
         
-        #region Propiedades (falta estado)
+        #region Propiedades
         public string DireccionEntrega
         {
             get { return this.direccionEntrega; }
             set { this.direccionEntrega = value; }
         }
 
-        //public EEstado Estado
-        //{
-        //    get { return this.estado; }
-        //    set { this.estado = value; }
-        //}
+        public EEstado Estado
+        {
+            get { return this.estado; }
+            set { this.estado = value; }
+        }
 
         public string TrackingID
         {
@@ -50,12 +65,23 @@ namespace Entidades
 
         public void MockCicloDeVida()
         {
-            Thread.Sleep(10000);
+            do
+            {
+                Thread.Sleep(10000);
+                Estado = (Estado == EEstado.Ingresado) ? EEstado.EnViaje : EEstado.Entregado;
+                EventoQueGenera();
 
+            } while (Estado != EEstado.Entregado);
+            //falta guardar paquete en base de datos con evento
         }
 
+        /// <summary>
+        /// Generará un evento en el tiempo dado en el constructor
+        /// </summary>
+        public void InformaEstado()
+        {
 
-
+        }
         #endregion
 
         #region Operators & Override (ver ToString)

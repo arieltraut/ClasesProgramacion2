@@ -1,0 +1,10 @@
+D:\Ariel\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 67\Ej 67\Entidades\bin\Debug\Entidades.dll
+D:\Ariel\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 67\Ej 67\Entidades\bin\Debug\Entidades.pdb
+D:\Ariel\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 67\Ej 67\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+D:\Ariel\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 67\Ej 67\Entidades\obj\Debug\Entidades.dll
+D:\Ariel\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 67\Ej 67\Entidades\obj\Debug\Entidades.pdb
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 68\Ej 67\Entidades\bin\Debug\Entidades.dll
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 68\Ej 67\Entidades\bin\Debug\Entidades.pdb
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 68\Ej 67\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 68\Ej 67\Entidades\obj\Debug\Entidades.dll
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 68\Ej 67\Entidades\obj\Debug\Entidades.pdb

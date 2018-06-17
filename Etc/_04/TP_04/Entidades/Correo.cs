@@ -14,7 +14,8 @@ namespace Entidades
 
         public Correo()
         {
- 
+            mockPaquetes = new List<Thread>();
+            paquetes = new List<Paquete>();
         }
         
         #region Propiedades
@@ -43,7 +44,7 @@ namespace Entidades
             foreach(Paquete aux in (List<Paquete>)elementos)
             {
                 sb.AppendFormat("{0} para {1} ({2})", aux.TrackingID, aux.DireccionEntrega,
-                aux.Estado.ToString()); //ver estado
+                aux.Estado.ToString());
             }
             return sb.ToString();
         }
