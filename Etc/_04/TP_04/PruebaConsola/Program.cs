@@ -11,6 +11,9 @@ namespace PruebaConsola
     {
         static void Main(string[] args)
         {
+            //Prueba extension
+            string a = "Texto a guardar";
+            a.Guardar(@"d:\");  //extension de la clase String
 
         }
     }

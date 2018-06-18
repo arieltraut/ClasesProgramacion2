@@ -60,7 +60,7 @@ namespace Entidades
         #region Metodos
         public string MostrarDatos(IMostrar<Paquete> elemento)
         {
-            return String.Format("{0} para {1}", elemento.trackingID, elemento.direccionEntrega);
+            return String.Format("{0} para {1}", ((Paquete)elemento).trackingID, ((Paquete)elemento).direccionEntrega);
         }
 
         public void MockCicloDeVida()
@@ -84,10 +84,10 @@ namespace Entidades
         }
         #endregion
 
-        #region Operators & Override (ver ToString)
-        public override string ToString(IMostrar<Paquete> elemento) //ver
+        #region Operators & Override
+        public override string ToString()
         {
-            return elemento.MostrarDatos(elemento);
+            return MostrarDatos(this);
         }
 
         public static bool operator ==(Paquete p1, Paquete p2)
@@ -95,6 +95,11 @@ namespace Entidades
             if (ReferenceEquals(p1, null) || ReferenceEquals(p2, null))
                 return false;
             return (p1.TrackingID == p2.TrackingID);
+        }
+
+        public static bool operator !=(Paquete p1, Paquete p2)
+        {
+            return !(p1 == p2);
         }
 
         public override bool Equals(object obj)

@@ -1,0 +1,11 @@
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\Etc\_04\TP_04\MainCorreo\obj\Debug\MainCorreo.csprojResolveAssemblyReference.cache
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\Etc\_04\TP_04\MainCorreo\obj\Debug\MainCorreo.FrmPpal.resources
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\Etc\_04\TP_04\MainCorreo\obj\Debug\MainCorreo.Properties.Resources.resources
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\Etc\_04\TP_04\MainCorreo\obj\Debug\MainCorreo.csproj.GenerateResource.Cache
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\Etc\_04\TP_04\MainCorreo\bin\Debug\MainCorreo.exe.config
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\Etc\_04\TP_04\MainCorreo\bin\Debug\MainCorreo.exe
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\Etc\_04\TP_04\MainCorreo\bin\Debug\MainCorreo.pdb
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\Etc\_04\TP_04\MainCorreo\bin\Debug\Entidades.dll
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\Etc\_04\TP_04\MainCorreo\bin\Debug\Entidades.pdb
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\Etc\_04\TP_04\MainCorreo\obj\Debug\MainCorreo.exe
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\Etc\_04\TP_04\MainCorreo\obj\Debug\MainCorreo.pdb

@@ -1,0 +1,8 @@
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\Etc\_04\TP_04\PruebaConsola\obj\Debug\PruebaConsola.csprojResolveAssemblyReference.cache
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\Etc\_04\TP_04\PruebaConsola\bin\Debug\PruebaConsola.exe.config
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\Etc\_04\TP_04\PruebaConsola\bin\Debug\PruebaConsola.exe
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\Etc\_04\TP_04\PruebaConsola\bin\Debug\PruebaConsola.pdb
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\Etc\_04\TP_04\PruebaConsola\bin\Debug\Entidades.dll
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\Etc\_04\TP_04\PruebaConsola\bin\Debug\Entidades.pdb
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\Etc\_04\TP_04\PruebaConsola\obj\Debug\PruebaConsola.exe
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\Etc\_04\TP_04\PruebaConsola\obj\Debug\PruebaConsola.pdb

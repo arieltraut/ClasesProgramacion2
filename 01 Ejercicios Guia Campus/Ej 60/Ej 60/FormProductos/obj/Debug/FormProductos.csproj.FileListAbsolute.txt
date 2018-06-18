@@ -10,3 +10,6 @@ D:\Ariel\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 60\Ej 60\FormProductos
 D:\Ariel\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 60\Ej 60\FormProductos\obj\Debug\FormProductos.csproj.GenerateResource.Cache
 D:\Ariel\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 60\Ej 60\FormProductos\obj\Debug\FormProductos.exe
 D:\Ariel\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 60\Ej 60\FormProductos\obj\Debug\FormProductos.pdb
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 60\Ej 60\FormProductos\bin\Debug\FormProductos.exe.config
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 60\Ej 60\FormProductos\obj\Debug\FormProductos.exe
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 60\Ej 60\FormProductos\obj\Debug\FormProductos.pdb
