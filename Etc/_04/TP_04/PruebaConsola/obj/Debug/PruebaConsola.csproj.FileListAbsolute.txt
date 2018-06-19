@@ -6,3 +6,11 @@ D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\Etc\_04\TP_04\PruebaConsola\bin\Deb
 D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\Etc\_04\TP_04\PruebaConsola\bin\Debug\Entidades.pdb
 D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\Etc\_04\TP_04\PruebaConsola\obj\Debug\PruebaConsola.exe
 D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\Etc\_04\TP_04\PruebaConsola\obj\Debug\PruebaConsola.pdb
+C:\Users\Ari\Desktop\clasesprogramacion2\Etc\_04\TP_04\PruebaConsola\bin\Debug\PruebaConsola.exe.config
+C:\Users\Ari\Desktop\clasesprogramacion2\Etc\_04\TP_04\PruebaConsola\bin\Debug\PruebaConsola.exe
+C:\Users\Ari\Desktop\clasesprogramacion2\Etc\_04\TP_04\PruebaConsola\bin\Debug\PruebaConsola.pdb
+C:\Users\Ari\Desktop\clasesprogramacion2\Etc\_04\TP_04\PruebaConsola\bin\Debug\Entidades.dll
+C:\Users\Ari\Desktop\clasesprogramacion2\Etc\_04\TP_04\PruebaConsola\bin\Debug\Entidades.pdb
+C:\Users\Ari\Desktop\clasesprogramacion2\Etc\_04\TP_04\PruebaConsola\obj\Debug\PruebaConsola.csprojResolveAssemblyReference.cache
+C:\Users\Ari\Desktop\clasesprogramacion2\Etc\_04\TP_04\PruebaConsola\obj\Debug\PruebaConsola.exe
+C:\Users\Ari\Desktop\clasesprogramacion2\Etc\_04\TP_04\PruebaConsola\obj\Debug\PruebaConsola.pdb

@@ -38,10 +38,10 @@ namespace Entidades
             //Environment.Exit(Environment.ExitCode);
         }
                 
-        public string MostrarDatos(IMostrar<List<Paquete>> elementos)
+        public string MostrarDatos(List<Paquete> elementos)
         {
             StringBuilder sb = new StringBuilder();
-            foreach(Paquete aux in (List<Paquete>)elementos)
+            foreach(Paquete aux in elementos)
             {
                 sb.AppendFormat("{0} para {1} ({2})", aux.TrackingID, aux.DireccionEntrega,
                 aux.Estado.ToString());

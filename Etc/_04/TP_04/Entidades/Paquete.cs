@@ -58,9 +58,9 @@ namespace Entidades
         #endregion
 
         #region Metodos
-        public string MostrarDatos(IMostrar<Paquete> elemento)
+        public string MostrarDatos(Paquete elemento)
         {
-            return String.Format("{0} para {1}", ((Paquete)elemento).trackingID, ((Paquete)elemento).direccionEntrega);
+            return String.Format("{0} para {1}", elemento.trackingID, elemento.direccionEntrega);
         }
 
         public void MockCicloDeVida()
