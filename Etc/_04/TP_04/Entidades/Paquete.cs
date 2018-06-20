@@ -12,7 +12,7 @@ namespace Entidades
         // Delegado del evento
         public delegate void DelegadoEstado(); //ver parametros
         // Evento del tipo del delegado
-        public event DelegadoEstado EventoQueGenera;
+        public event DelegadoEstado InformaEstado;
 
       
         public enum EEstado
@@ -32,7 +32,7 @@ namespace Entidades
             this.direccionEntrega = direccionEntrega;
             this.trackingID = trackingID;
             this.estado = EEstado.Ingresado;
-            this.EventoQueGenera += InformaEstado;
+            //this.EventoQueGenera += InformaEstado;
         }
         #endregion
 
@@ -69,19 +69,13 @@ namespace Entidades
             {
                 Thread.Sleep(10000);
                 Estado = (Estado == EEstado.Ingresado) ? EEstado.EnViaje : EEstado.Entregado;
-                EventoQueGenera();
+                InformaEstado();
 
             } while (Estado != EEstado.Entregado);
             //falta guardar paquete en base de datos con evento
         }
 
-        /// <summary>
-        /// Generará un evento en el tiempo dado en el constructor
-        /// </summary>
-        public void InformaEstado()
-        {
 
-        }
         #endregion
 
         #region Operators & Override
@@ -104,6 +98,8 @@ namespace Entidades
 
         public override bool Equals(object obj)
         {
+            if (!(obj is Paquete))
+                return false;
             return this == (Paquete)obj;
         }
 

@@ -33,18 +33,18 @@
             this.btnMostrarTodos = new System.Windows.Forms.Button();
             this.cmsListas = new System.Windows.Forms.ContextMenuStrip(this.components);
             this.groupBox1 = new System.Windows.Forms.GroupBox();
-            this.groupBox2 = new System.Windows.Forms.GroupBox();
-            this.lblDireccion = new System.Windows.Forms.Label();
-            this.lblEstadoEntregado = new System.Windows.Forms.Label();
-            this.lblEstadoEnViaje = new System.Windows.Forms.Label();
-            this.lblEstadoIngresado = new System.Windows.Forms.Label();
-            this.lblTrackingID = new System.Windows.Forms.Label();
-            this.lstEstadoEntregado = new System.Windows.Forms.ListBox();
-            this.lstEstadoEnViaje = new System.Windows.Forms.ListBox();
             this.lstEstadoIngresado = new System.Windows.Forms.ListBox();
-            this.mtxtTrackingID = new System.Windows.Forms.MaskedTextBox();
-            this.rbtMostrar = new System.Windows.Forms.RichTextBox();
+            this.lstEstadoEnViaje = new System.Windows.Forms.ListBox();
+            this.lstEstadoEntregado = new System.Windows.Forms.ListBox();
+            this.lblEstadoIngresado = new System.Windows.Forms.Label();
+            this.lblEstadoEnViaje = new System.Windows.Forms.Label();
+            this.lblEstadoEntregado = new System.Windows.Forms.Label();
+            this.groupBox2 = new System.Windows.Forms.GroupBox();
             this.txtDireccion = new System.Windows.Forms.TextBox();
+            this.mtxtTrackingID = new System.Windows.Forms.MaskedTextBox();
+            this.lblDireccion = new System.Windows.Forms.Label();
+            this.lblTrackingID = new System.Windows.Forms.Label();
+            this.rbtMostrar = new System.Windows.Forms.RichTextBox();
             this.groupBox1.SuspendLayout();
             this.groupBox2.SuspendLayout();
             this.SuspendLayout();
@@ -57,6 +57,7 @@
             this.btnAgregar.TabIndex = 0;
             this.btnAgregar.Text = "Agregar";
             this.btnAgregar.UseVisualStyleBackColor = true;
+            this.btnAgregar.Click += new System.EventHandler(this.btnAgregar_Click);
             // 
             // btnMostrarTodos
             // 
@@ -66,6 +67,7 @@
             this.btnMostrarTodos.TabIndex = 1;
             this.btnMostrarTodos.Text = "Mostrar Todos";
             this.btnMostrarTodos.UseVisualStyleBackColor = true;
+            this.btnMostrarTodos.Click += new System.EventHandler(this.btnMostrarTodos_Click);
             // 
             // cmsListas
             // 
@@ -87,6 +89,57 @@
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "Estado Paquetes";
             // 
+            // lstEstadoIngresado
+            // 
+            this.lstEstadoIngresado.FormattingEnabled = true;
+            this.lstEstadoIngresado.Location = new System.Drawing.Point(12, 56);
+            this.lstEstadoIngresado.Name = "lstEstadoIngresado";
+            this.lstEstadoIngresado.Size = new System.Drawing.Size(190, 199);
+            this.lstEstadoIngresado.TabIndex = 7;
+            // 
+            // lstEstadoEnViaje
+            // 
+            this.lstEstadoEnViaje.FormattingEnabled = true;
+            this.lstEstadoEnViaje.Location = new System.Drawing.Point(235, 56);
+            this.lstEstadoEnViaje.Name = "lstEstadoEnViaje";
+            this.lstEstadoEnViaje.Size = new System.Drawing.Size(190, 199);
+            this.lstEstadoEnViaje.TabIndex = 6;
+            // 
+            // lstEstadoEntregado
+            // 
+            this.lstEstadoEntregado.FormattingEnabled = true;
+            this.lstEstadoEntregado.Location = new System.Drawing.Point(453, 56);
+            this.lstEstadoEntregado.Name = "lstEstadoEntregado";
+            this.lstEstadoEntregado.Size = new System.Drawing.Size(190, 199);
+            this.lstEstadoEntregado.TabIndex = 5;
+            // 
+            // lblEstadoIngresado
+            // 
+            this.lblEstadoIngresado.AutoSize = true;
+            this.lblEstadoIngresado.Location = new System.Drawing.Point(19, 36);
+            this.lblEstadoIngresado.Name = "lblEstadoIngresado";
+            this.lblEstadoIngresado.Size = new System.Drawing.Size(54, 13);
+            this.lblEstadoIngresado.TabIndex = 2;
+            this.lblEstadoIngresado.Text = "Ingresado";
+            // 
+            // lblEstadoEnViaje
+            // 
+            this.lblEstadoEnViaje.AutoSize = true;
+            this.lblEstadoEnViaje.Location = new System.Drawing.Point(258, 36);
+            this.lblEstadoEnViaje.Name = "lblEstadoEnViaje";
+            this.lblEstadoEnViaje.Size = new System.Drawing.Size(46, 13);
+            this.lblEstadoEnViaje.TabIndex = 1;
+            this.lblEstadoEnViaje.Text = "En Viaje";
+            // 
+            // lblEstadoEntregado
+            // 
+            this.lblEstadoEntregado.AutoSize = true;
+            this.lblEstadoEntregado.Location = new System.Drawing.Point(463, 36);
+            this.lblEstadoEntregado.Name = "lblEstadoEntregado";
+            this.lblEstadoEntregado.Size = new System.Drawing.Size(56, 13);
+            this.lblEstadoEntregado.TabIndex = 0;
+            this.lblEstadoEntregado.Text = "Entregado";
+            // 
             // groupBox2
             // 
             this.groupBox2.Controls.Add(this.txtDireccion);
@@ -102,6 +155,21 @@
             this.groupBox2.TabStop = false;
             this.groupBox2.Text = "Paquete";
             // 
+            // txtDireccion
+            // 
+            this.txtDireccion.Location = new System.Drawing.Point(10, 81);
+            this.txtDireccion.Name = "txtDireccion";
+            this.txtDireccion.Size = new System.Drawing.Size(158, 20);
+            this.txtDireccion.TabIndex = 4;
+            // 
+            // mtxtTrackingID
+            // 
+            this.mtxtTrackingID.Location = new System.Drawing.Point(10, 37);
+            this.mtxtTrackingID.Mask = "000-000-0000";
+            this.mtxtTrackingID.Name = "mtxtTrackingID";
+            this.mtxtTrackingID.Size = new System.Drawing.Size(158, 20);
+            this.mtxtTrackingID.TabIndex = 3;
+            // 
             // lblDireccion
             // 
             this.lblDireccion.AutoSize = true;
@@ -110,33 +178,6 @@
             this.lblDireccion.Size = new System.Drawing.Size(52, 13);
             this.lblDireccion.TabIndex = 0;
             this.lblDireccion.Text = "Direccion";
-            // 
-            // lblEstadoEntregado
-            // 
-            this.lblEstadoEntregado.AutoSize = true;
-            this.lblEstadoEntregado.Location = new System.Drawing.Point(463, 36);
-            this.lblEstadoEntregado.Name = "lblEstadoEntregado";
-            this.lblEstadoEntregado.Size = new System.Drawing.Size(56, 13);
-            this.lblEstadoEntregado.TabIndex = 0;
-            this.lblEstadoEntregado.Text = "Entregado";
-            // 
-            // lblEstadoEnViaje
-            // 
-            this.lblEstadoEnViaje.AutoSize = true;
-            this.lblEstadoEnViaje.Location = new System.Drawing.Point(258, 36);
-            this.lblEstadoEnViaje.Name = "lblEstadoEnViaje";
-            this.lblEstadoEnViaje.Size = new System.Drawing.Size(46, 13);
-            this.lblEstadoEnViaje.TabIndex = 1;
-            this.lblEstadoEnViaje.Text = "En Viaje";
-            // 
-            // lblEstadoIngresado
-            // 
-            this.lblEstadoIngresado.AutoSize = true;
-            this.lblEstadoIngresado.Location = new System.Drawing.Point(19, 36);
-            this.lblEstadoIngresado.Name = "lblEstadoIngresado";
-            this.lblEstadoIngresado.Size = new System.Drawing.Size(54, 13);
-            this.lblEstadoIngresado.TabIndex = 2;
-            this.lblEstadoIngresado.Text = "Ingresado";
             // 
             // lblTrackingID
             // 
@@ -147,37 +188,6 @@
             this.lblTrackingID.TabIndex = 2;
             this.lblTrackingID.Text = "Tracking ID";
             // 
-            // lstEstadoEntregado
-            // 
-            this.lstEstadoEntregado.FormattingEnabled = true;
-            this.lstEstadoEntregado.Location = new System.Drawing.Point(453, 56);
-            this.lstEstadoEntregado.Name = "lstEstadoEntregado";
-            this.lstEstadoEntregado.Size = new System.Drawing.Size(190, 199);
-            this.lstEstadoEntregado.TabIndex = 5;
-            // 
-            // lstEstadoEnViaje
-            // 
-            this.lstEstadoEnViaje.FormattingEnabled = true;
-            this.lstEstadoEnViaje.Location = new System.Drawing.Point(235, 56);
-            this.lstEstadoEnViaje.Name = "lstEstadoEnViaje";
-            this.lstEstadoEnViaje.Size = new System.Drawing.Size(190, 199);
-            this.lstEstadoEnViaje.TabIndex = 6;
-            // 
-            // lstEstadoIngresado
-            // 
-            this.lstEstadoIngresado.FormattingEnabled = true;
-            this.lstEstadoIngresado.Location = new System.Drawing.Point(12, 56);
-            this.lstEstadoIngresado.Name = "lstEstadoIngresado";
-            this.lstEstadoIngresado.Size = new System.Drawing.Size(190, 199);
-            this.lstEstadoIngresado.TabIndex = 7;
-            // 
-            // mtxtTrackingID
-            // 
-            this.mtxtTrackingID.Location = new System.Drawing.Point(10, 37);
-            this.mtxtTrackingID.Name = "mtxtTrackingID";
-            this.mtxtTrackingID.Size = new System.Drawing.Size(158, 20);
-            this.mtxtTrackingID.TabIndex = 3;
-            // 
             // rbtMostrar
             // 
             this.rbtMostrar.Location = new System.Drawing.Point(19, 308);
@@ -186,14 +196,7 @@
             this.rbtMostrar.TabIndex = 5;
             this.rbtMostrar.Text = "";
             // 
-            // txtDireccion
-            // 
-            this.txtDireccion.Location = new System.Drawing.Point(10, 81);
-            this.txtDireccion.Name = "txtDireccion";
-            this.txtDireccion.Size = new System.Drawing.Size(158, 20);
-            this.txtDireccion.TabIndex = 4;
-            // 
-            // Form1
+            // FrmPpal
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -201,8 +204,9 @@
             this.Controls.Add(this.rbtMostrar);
             this.Controls.Add(this.groupBox2);
             this.Controls.Add(this.groupBox1);
-            this.Name = "Form1";
-            this.Text = "Form1";
+            this.Name = "FrmPpal";
+            this.Text = "Correo UTN por Ariel.Traut.2C";
+            this.Load += new System.EventHandler(this.FrmPpal_Load);
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();
             this.groupBox2.ResumeLayout(false);

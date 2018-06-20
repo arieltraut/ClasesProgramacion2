@@ -31,3 +31,6 @@ D:\Ariel\clasesprogramacion2\TP\TP_01\MiCalculadora\MiCalculadora\obj\Debug\MiCa
 D:\Ariel\clasesprogramacion2\TP\TP_01\MiCalculadora\MiCalculadora\obj\Debug\MiCalculadora.csproj.GenerateResource.Cache
 C:\Users\Ari\Desktop\clasesprogramacion2\TP\TP_01\MiCalculadora\MiCalculadora\obj\Debug\MiCalculadora.LaCalculadora.resources
 D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\TP\TP_01\MiCalculadora\MiCalculadora\obj\Debug\MiCalculadora.LaCalculadora.resources
+C:\Users\airi\Desktop\clasesprogramacion2\Etc\_01\MiCalculadora\MiCalculadora\bin\Debug\MiCalculadora.exe.config
+C:\Users\airi\Desktop\clasesprogramacion2\Etc\_01\MiCalculadora\MiCalculadora\obj\Debug\MiCalculadora.exe
+C:\Users\airi\Desktop\clasesprogramacion2\Etc\_01\MiCalculadora\MiCalculadora\obj\Debug\MiCalculadora.pdb

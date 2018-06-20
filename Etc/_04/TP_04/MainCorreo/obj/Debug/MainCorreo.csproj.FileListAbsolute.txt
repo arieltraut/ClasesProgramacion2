@@ -20,3 +20,14 @@ C:\Users\Ari\Desktop\clasesprogramacion2\Etc\_04\TP_04\MainCorreo\obj\Debug\Main
 C:\Users\Ari\Desktop\clasesprogramacion2\Etc\_04\TP_04\MainCorreo\obj\Debug\MainCorreo.csproj.GenerateResource.Cache
 C:\Users\Ari\Desktop\clasesprogramacion2\Etc\_04\TP_04\MainCorreo\obj\Debug\MainCorreo.exe
 C:\Users\Ari\Desktop\clasesprogramacion2\Etc\_04\TP_04\MainCorreo\obj\Debug\MainCorreo.pdb
+C:\Users\airi\Desktop\clasesprogramacion2\Etc\_04\TP_04\MainCorreo\bin\Debug\MainCorreo.exe.config
+C:\Users\airi\Desktop\clasesprogramacion2\Etc\_04\TP_04\MainCorreo\obj\Debug\MainCorreo.exe
+C:\Users\airi\Desktop\clasesprogramacion2\Etc\_04\TP_04\MainCorreo\obj\Debug\MainCorreo.pdb
+C:\Users\airi\Desktop\clasesprogramacion2\Etc\_04\TP_04\MainCorreo\bin\Debug\MainCorreo.exe
+C:\Users\airi\Desktop\clasesprogramacion2\Etc\_04\TP_04\MainCorreo\bin\Debug\MainCorreo.pdb
+C:\Users\airi\Desktop\clasesprogramacion2\Etc\_04\TP_04\MainCorreo\bin\Debug\Entidades.dll
+C:\Users\airi\Desktop\clasesprogramacion2\Etc\_04\TP_04\MainCorreo\bin\Debug\Entidades.pdb
+C:\Users\airi\Desktop\clasesprogramacion2\Etc\_04\TP_04\MainCorreo\obj\Debug\MainCorreo.csprojResolveAssemblyReference.cache
+C:\Users\airi\Desktop\clasesprogramacion2\Etc\_04\TP_04\MainCorreo\obj\Debug\MainCorreo.FrmPpal.resources
+C:\Users\airi\Desktop\clasesprogramacion2\Etc\_04\TP_04\MainCorreo\obj\Debug\MainCorreo.Properties.Resources.resources
+C:\Users\airi\Desktop\clasesprogramacion2\Etc\_04\TP_04\MainCorreo\obj\Debug\MainCorreo.csproj.GenerateResource.Cache
