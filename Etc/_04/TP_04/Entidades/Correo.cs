@@ -40,7 +40,7 @@ namespace Entidades
                 
         public string MostrarDatos(List<Paquete> elementos)
         {
-            StringBuilder sb = new StringBuilder();
+            StringBuilder sb = new StringBuilder();            
             foreach(Paquete aux in elementos)
             {
                 sb.AppendFormat("{0} para {1} ({2})", aux.TrackingID, aux.DireccionEntrega,

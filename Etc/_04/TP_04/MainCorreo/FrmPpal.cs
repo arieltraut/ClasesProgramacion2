@@ -49,25 +49,34 @@ namespace MainCorreo
             this.MostrarInformacion<List<Paquete>>((IMostrar<List<Paquete>>)correo);
         }
 
+        private void mostrarToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            this.MostrarInformacion<Paquete>((IMostrar<Paquete>)lstEstadoEntregado.SelectedItem);
+        }
+
+
         #region Metodos
         private void paq_InformaEstado()
         {
             if (this.InvokeRequired)
             {
                 Paquete.DelegadoEstado d = new Paquete.DelegadoEstado(paq_InformaEstado);
-                this.Invoke( d, new object[] {sender, e} );
+                //this.Invoke( d, new object[] {sender, e} );
             }
             else
-            { 
-                // Llamar al método
+            {
+                ActualizarEstados();
             }
         }
 
-        private void MostrarInformacion<T>(IMostrar<T> elemento) where T : List<Paquete> //ver where
+        private void MostrarInformacion<T>(IMostrar<T> elemento) //where T : List<Paquete> //ver where
         {
             if (elemento != null)
             {
-                rbtMostrar.Text = Correo.MostrarDatos((List<Paquete>)elemento); //ver static y casteo
+                if(elemento is Correo)
+                    rbtMostrar.Text = ((Correo)elemento).MostrarDatos(elemento); //ver static y casteo
+                if (elemento is Paquete)
+                    rbtMostrar.Text = ((Paquete)elemento).ToString();
             }
         }
 
@@ -92,17 +101,9 @@ namespace MainCorreo
                 }
             }
         }
-
-            
-
-        }
         #endregion
 
 
-
-
-
-
-        //falta IContainer y ToolStripMenuItem
+        //falta IContainer
     }
 }
