@@ -32,6 +32,7 @@
             this.btnAgregar = new System.Windows.Forms.Button();
             this.btnMostrarTodos = new System.Windows.Forms.Button();
             this.cmsListas = new System.Windows.Forms.ContextMenuStrip(this.components);
+            this.toolStripMenuItem1 = new System.Windows.Forms.ToolStripMenuItem();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
             this.lstEstadoIngresado = new System.Windows.Forms.ListBox();
             this.lstEstadoEnViaje = new System.Windows.Forms.ListBox();
@@ -45,7 +46,6 @@
             this.lblDireccion = new System.Windows.Forms.Label();
             this.lblTrackingID = new System.Windows.Forms.Label();
             this.rbtMostrar = new System.Windows.Forms.RichTextBox();
-            this.toolStripMenuItem1 = new System.Windows.Forms.ToolStripMenuItem();
             this.cmsListas.SuspendLayout();
             this.groupBox1.SuspendLayout();
             this.groupBox2.SuspendLayout();
@@ -78,7 +78,14 @@
             this.cmsListas.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.toolStripMenuItem1});
             this.cmsListas.Name = "cmsListas";
-            this.cmsListas.Size = new System.Drawing.Size(452, 72);
+            this.cmsListas.Size = new System.Drawing.Size(452, 50);
+            // 
+            // toolStripMenuItem1
+            // 
+            this.toolStripMenuItem1.Name = "toolStripMenuItem1";
+            this.toolStripMenuItem1.Size = new System.Drawing.Size(451, 46);
+            this.toolStripMenuItem1.Text = "mostrarToolStripMenuItem";
+            this.toolStripMenuItem1.Click += new System.EventHandler(this.mostrarToolStripMenuItem_Click);
             // 
             // groupBox1
             // 
@@ -221,13 +228,6 @@
             this.rbtMostrar.TabIndex = 5;
             this.rbtMostrar.Text = "";
             // 
-            // toolStripMenuItem1
-            // 
-            this.toolStripMenuItem1.Name = "toolStripMenuItem1";
-            this.toolStripMenuItem1.Size = new System.Drawing.Size(451, 46);
-            this.toolStripMenuItem1.Text = "mostrarToolStripMenuItem";
-            this.toolStripMenuItem1.Click += new System.EventHandler(this.mostrarToolStripMenuItem_Click);
-            // 
             // FrmPpal
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(16F, 31F);
@@ -239,6 +239,7 @@
             this.Margin = new System.Windows.Forms.Padding(8, 7, 8, 7);
             this.Name = "FrmPpal";
             this.Text = "Correo UTN por Ariel.Traut.2C";
+            this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.FrmPpal_FormClosing);
             this.Load += new System.EventHandler(this.FrmPpal_Load);
             this.cmsListas.ResumeLayout(false);
             this.groupBox1.ResumeLayout(false);

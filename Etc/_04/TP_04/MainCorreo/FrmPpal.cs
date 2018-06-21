@@ -18,11 +18,11 @@ namespace MainCorreo
         public FrmPpal()
         {
             InitializeComponent();
+            correo = new Correo();
         }
 
         private void FrmPpal_Load(object sender, EventArgs e)
         {
-            correo = new Correo();
         }
 
         private void btnAgregar_Click(object sender, EventArgs e)
@@ -69,15 +69,10 @@ namespace MainCorreo
             }
         }
 
-        private void MostrarInformacion<T>(IMostrar<T> elemento) //where T : List<Paquete> //ver where
+        private void MostrarInformacion<T>(IMostrar<T> elemento)
         {
             if (elemento != null)
-            {
-                if(elemento is Correo)
-                    rbtMostrar.Text = ((Correo)elemento).MostrarDatos(elemento); //ver static y casteo
-                if (elemento is Paquete)
-                    rbtMostrar.Text = ((Paquete)elemento).ToString();
-            }
+                rbtMostrar.Text = elemento.MostrarDatos((T)elemento);
         }
 
         private void ActualizarEstados()
@@ -102,6 +97,11 @@ namespace MainCorreo
             }
         }
         #endregion
+
+        private void FrmPpal_FormClosing(object sender, FormClosingEventArgs e)
+        {
+            correo.FinEntregas();
+        }
 
 
         //falta IContainer
