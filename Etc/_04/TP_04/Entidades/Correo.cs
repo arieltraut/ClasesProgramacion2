@@ -12,12 +12,18 @@ namespace Entidades
         private List<Thread> mockPaquetes;
         private List<Paquete> paquetes;
 
+        #region Constructor
+        /// <summary>
+        /// Constructor por defecto, inicializa la lista de paquetes y threads.
+        /// </summary>
         public Correo()
         {
             mockPaquetes = new List<Thread>();
             paquetes = new List<Paquete>();
         }
-        
+        #endregion
+
+
         #region Propiedades
         public List<Paquete> Paquetes
         {
@@ -28,6 +34,10 @@ namespace Entidades
 
 
         #region Metodos
+        /// <summary>
+        /// Termina todos los threads en ejecucion
+        /// </summary>
+        /// <returns>void</returns>
         public void FinEntregas()
         {
             foreach (Thread aux in this.mockPaquetes)
@@ -35,16 +45,24 @@ namespace Entidades
                 if (aux.IsAlive)
                     aux.Abort();
             }          
-            //Environment.Exit(Environment.ExitCode);
         }
-                
-        public string MostrarDatos(List<Paquete> elementos)
+
+        /// <summary>
+        /// Retorna la lista de paquetes del correo (incluidas sus herencias)
+        /// </summary>
+        /// <param name="elementos"></param>
+        /// <returns>string con lista de paquetes</returns>        
+        public string MostrarDatos(IMostrar<List<Paquete>> elementos)
         {
-            StringBuilder sb = new StringBuilder();            
-            foreach(Paquete aux in elementos)
+            StringBuilder sb = new StringBuilder();
+            if (elementos is Correo)
             {
-                sb.AppendFormat("{0} para {1} ({2})", aux.TrackingID, aux.DireccionEntrega,
-                aux.Estado.ToString());
+                foreach(Paquete aux in ((Correo)elementos).Paquetes)
+                {
+                    sb.AppendFormat("{0} para {1} ({2})", aux.TrackingID, aux.DireccionEntrega,
+                    aux.Estado.ToString());
+                    sb.AppendLine();
+                } 
             }
             return sb.ToString();
         }
@@ -52,6 +70,12 @@ namespace Entidades
 
 
         #region Operadores
+        /// <summary>
+        /// Agregará un elemento a la lista
+        /// </summary>
+        /// <param name="c">Objeto donde se agregará el elemento</param>
+        /// <param name="p">Objeto a agregar</param>
+        /// <returns>Instancia de Correo</returns>
         public static Correo operator +(Correo c, Paquete p)
         {
             foreach (Paquete aux in c.Paquetes)

@@ -35,9 +35,9 @@ namespace Entidades
 
         #region Insertar Paquete
         public static bool Insertar(Paquete p)
-        {        
-            string sql = String.Format("INSERT INTO Paquetes (direccionEntrega,trackingID,alumno) VALUES('{0}','{1}',{2});",
-                p.DireccionEntrega, p.TrackingID, "Ariel Traut"); //p.DNI.ToString()
+        {
+            string sql = String.Format("INSERT INTO Paquetes (direccionEntrega,trackingID,alumno) VALUES('{0}','{1}','{2}');",
+                p.DireccionEntrega, p.TrackingID, "Ariel Traut");
 
             return EjecutarNonQuery(sql);
         }

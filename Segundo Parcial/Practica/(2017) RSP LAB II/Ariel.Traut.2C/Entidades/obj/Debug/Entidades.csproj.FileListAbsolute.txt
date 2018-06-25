@@ -1,0 +1,7 @@
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\Segundo Parcial\Practica\(2017) RSP LAB II\Ariel.Traut.2C\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\Segundo Parcial\Practica\(2017) RSP LAB II\Ariel.Traut.2C\Entidades\bin\Debug\Entidades.dll
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\Segundo Parcial\Practica\(2017) RSP LAB II\Ariel.Traut.2C\Entidades\bin\Debug\Entidades.pdb
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\Segundo Parcial\Practica\(2017) RSP LAB II\Ariel.Traut.2C\Entidades\bin\Debug\Interfaces.dll
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\Segundo Parcial\Practica\(2017) RSP LAB II\Ariel.Traut.2C\Entidades\bin\Debug\Interfaces.pdb
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\Segundo Parcial\Practica\(2017) RSP LAB II\Ariel.Traut.2C\Entidades\obj\Debug\Entidades.dll
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\Segundo Parcial\Practica\(2017) RSP LAB II\Ariel.Traut.2C\Entidades\obj\Debug\Entidades.pdb

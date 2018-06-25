@@ -1,0 +1,4 @@
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\Segundo Parcial\Practica\(2017) RSP LAB II\Ariel.Traut.2C\Interfaces\bin\Debug\Interfaces.dll
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\Segundo Parcial\Practica\(2017) RSP LAB II\Ariel.Traut.2C\Interfaces\bin\Debug\Interfaces.pdb
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\Segundo Parcial\Practica\(2017) RSP LAB II\Ariel.Traut.2C\Interfaces\obj\Debug\Interfaces.dll
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\Segundo Parcial\Practica\(2017) RSP LAB II\Ariel.Traut.2C\Interfaces\obj\Debug\Interfaces.pdb

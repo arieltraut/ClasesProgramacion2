@@ -78,13 +78,13 @@
             this.cmsListas.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.toolStripMenuItem1});
             this.cmsListas.Name = "cmsListas";
-            this.cmsListas.Size = new System.Drawing.Size(452, 50);
+            this.cmsListas.Size = new System.Drawing.Size(200, 50);
             // 
             // toolStripMenuItem1
             // 
             this.toolStripMenuItem1.Name = "toolStripMenuItem1";
-            this.toolStripMenuItem1.Size = new System.Drawing.Size(451, 46);
-            this.toolStripMenuItem1.Text = "mostrarToolStripMenuItem";
+            this.toolStripMenuItem1.Size = new System.Drawing.Size(199, 46);
+            this.toolStripMenuItem1.Text = "Mostrar";
             this.toolStripMenuItem1.Click += new System.EventHandler(this.mostrarToolStripMenuItem_Click);
             // 
             // groupBox1
@@ -224,6 +224,7 @@
             this.rbtMostrar.Location = new System.Drawing.Point(51, 734);
             this.rbtMostrar.Margin = new System.Windows.Forms.Padding(8, 7, 8, 7);
             this.rbtMostrar.Name = "rbtMostrar";
+            this.rbtMostrar.ReadOnly = true;
             this.rbtMostrar.Size = new System.Drawing.Size(1015, 295);
             this.rbtMostrar.TabIndex = 5;
             this.rbtMostrar.Text = "";
@@ -232,15 +233,15 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(16F, 31F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(2004, 1115);
+            this.ClientSize = new System.Drawing.Size(2037, 1122);
             this.Controls.Add(this.rbtMostrar);
             this.Controls.Add(this.groupBox2);
             this.Controls.Add(this.groupBox1);
             this.Margin = new System.Windows.Forms.Padding(8, 7, 8, 7);
             this.Name = "FrmPpal";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Correo UTN por Ariel.Traut.2C";
             this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.FrmPpal_FormClosing);
-            this.Load += new System.EventHandler(this.FrmPpal_Load);
             this.cmsListas.ResumeLayout(false);
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();
@@ -266,9 +267,9 @@
         private System.Windows.Forms.MaskedTextBox mtxtTrackingID;
         private System.Windows.Forms.Label lblDireccion;
         private System.Windows.Forms.Label lblTrackingID;
-        private System.Windows.Forms.RichTextBox rbtMostrar;
         private System.Windows.Forms.TextBox txtDireccion;
         private System.Windows.Forms.ToolStripMenuItem toolStripMenuItem1;
+        private System.Windows.Forms.RichTextBox rbtMostrar;
     }
 }
 

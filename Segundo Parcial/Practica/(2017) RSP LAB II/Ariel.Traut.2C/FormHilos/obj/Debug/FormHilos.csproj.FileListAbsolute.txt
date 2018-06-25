@@ -1,0 +1,13 @@
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\Segundo Parcial\Practica\(2017) RSP LAB II\Ariel.Traut.2C\FormHilos\obj\Debug\FormHilos.csprojResolveAssemblyReference.cache
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\Segundo Parcial\Practica\(2017) RSP LAB II\Ariel.Traut.2C\FormHilos\obj\Debug\FormHilos.fmrPpal.resources
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\Segundo Parcial\Practica\(2017) RSP LAB II\Ariel.Traut.2C\FormHilos\obj\Debug\FormHilos.Properties.Resources.resources
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\Segundo Parcial\Practica\(2017) RSP LAB II\Ariel.Traut.2C\FormHilos\obj\Debug\FormHilos.csproj.GenerateResource.Cache
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\Segundo Parcial\Practica\(2017) RSP LAB II\Ariel.Traut.2C\FormHilos\bin\Debug\FormHilos.exe.config
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\Segundo Parcial\Practica\(2017) RSP LAB II\Ariel.Traut.2C\FormHilos\bin\Debug\FormHilos.exe
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\Segundo Parcial\Practica\(2017) RSP LAB II\Ariel.Traut.2C\FormHilos\bin\Debug\FormHilos.pdb
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\Segundo Parcial\Practica\(2017) RSP LAB II\Ariel.Traut.2C\FormHilos\bin\Debug\Entidades.dll
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\Segundo Parcial\Practica\(2017) RSP LAB II\Ariel.Traut.2C\FormHilos\bin\Debug\Interfaces.dll
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\Segundo Parcial\Practica\(2017) RSP LAB II\Ariel.Traut.2C\FormHilos\bin\Debug\Entidades.pdb
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\Segundo Parcial\Practica\(2017) RSP LAB II\Ariel.Traut.2C\FormHilos\bin\Debug\Interfaces.pdb
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\Segundo Parcial\Practica\(2017) RSP LAB II\Ariel.Traut.2C\FormHilos\obj\Debug\FormHilos.exe
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\Segundo Parcial\Practica\(2017) RSP LAB II\Ariel.Traut.2C\FormHilos\obj\Debug\FormHilos.pdb

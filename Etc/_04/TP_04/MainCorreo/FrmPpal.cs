@@ -8,6 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using Entidades;
+using System.IO;
 
 namespace MainCorreo
 {
@@ -15,16 +16,18 @@ namespace MainCorreo
     {
         Correo correo;
 
+        /// <summary>
+        /// Constructor que inicializa el formulario y el atributo correo.
+        /// </summary>
         public FrmPpal()
         {
             InitializeComponent();
             correo = new Correo();
         }
 
-        private void FrmPpal_Load(object sender, EventArgs e)
-        {
-        }
-
+        /// <summary>
+        /// Evento que agrega un paquete al correo.
+        /// </summary>
         private void btnAgregar_Click(object sender, EventArgs e)
         {
             if (txtDireccion.Text != "" && mtxtTrackingID.Text != "")
@@ -44,24 +47,41 @@ namespace MainCorreo
             }
         }
 
+        /// <summary>
+        /// Evento que muestra la lista de paquetes.
+        /// </summary>
         private void btnMostrarTodos_Click(object sender, EventArgs e)
         {
             this.MostrarInformacion<List<Paquete>>((IMostrar<List<Paquete>>)correo);
         }
 
+        /// <summary>
+        /// Evento que muestra un menu al hacer click con boton derecho.
+        /// </summary>
         private void mostrarToolStripMenuItem_Click(object sender, EventArgs e)
         {
             this.MostrarInformacion<Paquete>((IMostrar<Paquete>)lstEstadoEntregado.SelectedItem);
         }
 
+        /// <summary>
+        /// Evento que cierra el formulario
+        /// </summary>
+        private void FrmPpal_FormClosing(object sender, FormClosingEventArgs e)
+        {
+            correo.FinEntregas();
+        }
+
 
         #region Metodos
-        private void paq_InformaEstado()
+        /// <summary>
+        /// Metodo que actualiza estados.
+        /// </summary>
+        private void paq_InformaEstado(object sender, EventArgs e)
         {
             if (this.InvokeRequired)
             {
                 Paquete.DelegadoEstado d = new Paquete.DelegadoEstado(paq_InformaEstado);
-                //this.Invoke( d, new object[] {sender, e} );
+                this.Invoke( d, new object[] {sender, e} );
             }
             else
             {
@@ -69,41 +89,52 @@ namespace MainCorreo
             }
         }
 
+        /// <summary>
+        /// Metodo que muestra informacion.
+        /// </summary>
         private void MostrarInformacion<T>(IMostrar<T> elemento)
         {
             if (elemento != null)
-                rbtMostrar.Text = elemento.MostrarDatos((T)elemento);
+            {
+                if (elemento is Correo)
+                    rbtMostrar.Text = ((Correo)elemento).MostrarDatos((Correo)elemento);
+                else if (elemento is Paquete)
+                    rbtMostrar.Text = ((Paquete)elemento).ToString();
+                
+                string escritorio = Environment.GetFolderPath(Environment.SpecialFolder.DesktopDirectory);
+                string ruta = Path.Combine(escritorio, "salida.txt");
+                rbtMostrar.Text.Guardar(ruta);
+            }
         }
 
+        /// <summary>
+        /// Metodo que actualiza estados.
+        /// </summary>
         private void ActualizarEstados()
         {
-            lstEstadoIngresado.Text = "";
-            lstEstadoEnViaje.Text = "";
-            lstEstadoEntregado.Text = "";
+            lstEstadoIngresado.Items.Clear();
+            lstEstadoEnViaje.Items.Clear();
+            lstEstadoEntregado.Items.Clear();
             foreach (Paquete aux in correo.Paquetes)
-            {
+            {               
                 switch (aux.Estado)
                 {
                     case Paquete.EEstado.Ingresado:
-                        lstEstadoIngresado.Text = aux.ToString();
+                        lstEstadoIngresado.Items.Add(aux);
                         break;
                     case Paquete.EEstado.EnViaje:
-                        lstEstadoEnViaje.Text = aux.ToString();
+                        lstEstadoEnViaje.Items.Add(aux);
                         break;
                     case Paquete.EEstado.Entregado:
-                        lstEstadoIngresado.Text = aux.ToString();
+                        lstEstadoEntregado.Items.Add(aux);
                         break;
                 }
             }
         }
         #endregion
 
-        private void FrmPpal_FormClosing(object sender, FormClosingEventArgs e)
-        {
-            correo.FinEntregas();
-        }
 
 
-        //falta IContainer
+
     }
 }

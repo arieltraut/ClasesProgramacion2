@@ -15,3 +15,9 @@ C:\Users\airi\Desktop\clasesprogramacion2\Etc\_04\TP_04\Entidades\bin\Debug\Enti
 C:\Users\airi\Desktop\clasesprogramacion2\Etc\_04\TP_04\Entidades\obj\Debug\Entidades.dll
 C:\Users\airi\Desktop\clasesprogramacion2\Etc\_04\TP_04\Entidades\obj\Debug\Entidades.pdb
 D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\Etc\_04\TP_04\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+D:\Ariel\clasesprogramacion2\Etc\_04\TP_04\Entidades\bin\Debug\Entidades.dll.config
+D:\Ariel\clasesprogramacion2\Etc\_04\TP_04\Entidades\bin\Debug\Entidades.dll
+D:\Ariel\clasesprogramacion2\Etc\_04\TP_04\Entidades\bin\Debug\Entidades.pdb
+D:\Ariel\clasesprogramacion2\Etc\_04\TP_04\Entidades\obj\Debug\Entidades.dll
+D:\Ariel\clasesprogramacion2\Etc\_04\TP_04\Entidades\obj\Debug\Entidades.pdb
+D:\Ariel\clasesprogramacion2\Etc\_04\TP_04\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
