@@ -1,0 +1,8 @@
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\Segundo Parcial\Practica\(2017) Final LAB II\(2017) Final LAB II\ConsolaPrueba\bin\Debug\ConsolaPrueba.exe.config
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\Segundo Parcial\Practica\(2017) Final LAB II\(2017) Final LAB II\ConsolaPrueba\bin\Debug\ConsolaPrueba.exe
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\Segundo Parcial\Practica\(2017) Final LAB II\(2017) Final LAB II\ConsolaPrueba\bin\Debug\ConsolaPrueba.pdb
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\Segundo Parcial\Practica\(2017) Final LAB II\(2017) Final LAB II\ConsolaPrueba\bin\Debug\Entidades.dll
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\Segundo Parcial\Practica\(2017) Final LAB II\(2017) Final LAB II\ConsolaPrueba\bin\Debug\Entidades.pdb
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\Segundo Parcial\Practica\(2017) Final LAB II\(2017) Final LAB II\ConsolaPrueba\obj\Debug\ConsolaPrueba.csprojResolveAssemblyReference.cache
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\Segundo Parcial\Practica\(2017) Final LAB II\(2017) Final LAB II\ConsolaPrueba\obj\Debug\ConsolaPrueba.exe
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\Segundo Parcial\Practica\(2017) Final LAB II\(2017) Final LAB II\ConsolaPrueba\obj\Debug\ConsolaPrueba.pdb

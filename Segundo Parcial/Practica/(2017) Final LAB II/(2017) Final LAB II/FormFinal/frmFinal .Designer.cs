@@ -1,0 +1,76 @@
+﻿namespace FormFinal
+{
+    partial class frmFinal
+    {
+        /// <summary>
+        /// Required designer variable.
+        /// </summary>
+        private System.ComponentModel.IContainer components = null;
+
+        /// <summary>
+        /// Clean up any resources being used.
+        /// </summary>
+        /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        protected override void Dispose(bool disposing)
+        {
+            if (disposing && (components != null))
+            {
+                components.Dispose();
+            }
+            base.Dispose(disposing);
+        }
+
+        #region Windows Form Designer generated code
+
+        /// <summary>
+        /// Required method for Designer support - do not modify
+        /// the contents of this method with the code editor.
+        /// </summary>
+        private void InitializeComponent()
+        {
+            this.btnGeneral = new System.Windows.Forms.Button();
+            this.btnEspecialista = new System.Windows.Forms.Button();
+            this.SuspendLayout();
+            // 
+            // btnGeneral
+            // 
+            this.btnGeneral.Location = new System.Drawing.Point(26, 36);
+            this.btnGeneral.Name = "btnGeneral";
+            this.btnGeneral.Size = new System.Drawing.Size(1262, 330);
+            this.btnGeneral.TabIndex = 0;
+            this.btnGeneral.Text = "Atender Medico General";
+            this.btnGeneral.UseVisualStyleBackColor = true;
+            this.btnGeneral.Click += new System.EventHandler(this.btnGeneral_Click);
+            // 
+            // btnEspecialista
+            // 
+            this.btnEspecialista.Location = new System.Drawing.Point(26, 397);
+            this.btnEspecialista.Name = "btnEspecialista";
+            this.btnEspecialista.Size = new System.Drawing.Size(1262, 330);
+            this.btnEspecialista.TabIndex = 1;
+            this.btnEspecialista.Text = "Atender Medico Especialista";
+            this.btnEspecialista.UseVisualStyleBackColor = true;
+            this.btnEspecialista.Click += new System.EventHandler(this.btnEspecialista_Click);
+            // 
+            // frmFinal
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(16F, 31F);
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.ClientSize = new System.Drawing.Size(1317, 812);
+            this.Controls.Add(this.btnEspecialista);
+            this.Controls.Add(this.btnGeneral);
+            this.Name = "frmFinal";
+            this.Text = "Final";
+            this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.frmFinal_FormClosing);
+            this.Load += new System.EventHandler(this.frmFinal_Load);
+            this.ResumeLayout(false);
+
+        }
+
+        #endregion
+
+        private System.Windows.Forms.Button btnGeneral;
+        private System.Windows.Forms.Button btnEspecialista;
+    }
+}
+

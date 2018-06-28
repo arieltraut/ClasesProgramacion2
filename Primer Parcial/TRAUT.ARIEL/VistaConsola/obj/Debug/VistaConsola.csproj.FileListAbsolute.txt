@@ -6,3 +6,6 @@ C:\Users\ariee\Desktop\TRAUT.ARIEL\VistaConsola\bin\Debug\Entidades.pdb
 C:\Users\ariee\Desktop\TRAUT.ARIEL\VistaConsola\obj\Debug\VistaConsola.csprojResolveAssemblyReference.cache
 C:\Users\ariee\Desktop\TRAUT.ARIEL\VistaConsola\obj\Debug\VistaConsola.exe
 C:\Users\ariee\Desktop\TRAUT.ARIEL\VistaConsola\obj\Debug\VistaConsola.pdb
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\Primer Parcial\TRAUT.ARIEL\VistaConsola\bin\Debug\VistaConsola.exe.config
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\Primer Parcial\TRAUT.ARIEL\VistaConsola\obj\Debug\VistaConsola.exe
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\Primer Parcial\TRAUT.ARIEL\VistaConsola\obj\Debug\VistaConsola.pdb
