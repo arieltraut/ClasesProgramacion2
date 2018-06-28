@@ -14,10 +14,13 @@ namespace Entidades
             Traumatologo,
             Odontologo
         }
+
+        private Especialidad especialidad;
                 
         #region Constructor
         public MEspecialista(string nombre, string apellido, Especialidad e) : base(nombre, apellido)
         {
+            this.especialidad = e;
         }
         #endregion
 
