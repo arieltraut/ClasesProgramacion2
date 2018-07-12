@@ -1,0 +1,17 @@
+D:\Federico\VB .Net\Visual C#\utn\Examenes\20180626-SP\20180626-SP-Console\bin\Debug\20180626-SP-Console.exe.config
+D:\Federico\VB .Net\Visual C#\utn\Examenes\20180626-SP\20180626-SP-Console\bin\Debug\20180626-SP-Console.exe
+D:\Federico\VB .Net\Visual C#\utn\Examenes\20180626-SP\20180626-SP-Console\bin\Debug\20180626-SP-Console.pdb
+D:\Federico\VB .Net\Visual C#\utn\Examenes\20180626-SP\20180626-SP-Console\bin\Debug\Entidades.dll
+D:\Federico\VB .Net\Visual C#\utn\Examenes\20180626-SP\20180626-SP-Console\bin\Debug\Excepciones.dll
+D:\Federico\VB .Net\Visual C#\utn\Examenes\20180626-SP\20180626-SP-Console\bin\Debug\Entidades.pdb
+D:\Federico\VB .Net\Visual C#\utn\Examenes\20180626-SP\20180626-SP-Console\bin\Debug\Excepciones.pdb
+D:\Federico\VB .Net\Visual C#\utn\Examenes\20180626-SP\20180626-SP-Console\obj\Debug\20180626-SP-Console.csprojResolveAssemblyReference.cache
+D:\Federico\VB .Net\Visual C#\utn\Examenes\20180626-SP\20180626-SP-Console\obj\Debug\20180626-SP-Console.exe
+D:\Federico\VB .Net\Visual C#\utn\Examenes\20180626-SP\20180626-SP-Console\obj\Debug\20180626-SP-Console.pdb
+D:\Federico\VB .Net\Visual C#\utn\Examenes\20180626-SP\Alumno\20180626-SP-Console\bin\Debug\20180626-SP-Console.exe.config
+D:\Federico\VB .Net\Visual C#\utn\Examenes\20180626-SP\Alumno\20180626-SP-Console\obj\Debug\20180626-SP-Console.exe
+D:\Federico\VB .Net\Visual C#\utn\Examenes\20180626-SP\Alumno\20180626-SP-Console\obj\Debug\20180626-SP-Console.pdb
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\Segundo Parcial\Practica\(2018) 2 SP 26 de Junio Archivo\20180626-SP\Alumno\20180626-SP-Console\bin\Debug\20180626-SP-Console.exe.config
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\Segundo Parcial\Practica\(2018) 2 SP 26 de Junio Archivo\20180626-SP\Alumno\20180626-SP-Console\obj\Debug\20180626-SP-Console.exe
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\Segundo Parcial\Practica\(2018) 2 SP 26 de Junio Archivo\20180626-SP\Alumno\20180626-SP-Console\obj\Debug\20180626-SP-Console.pdb
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\Segundo Parcial\Practica\(2018) 2 SP 26 de Junio Archivo\20180626-SP\Alumno\20180626-SP-Console\obj\Debug\20180626-SP-Console.csprojResolveAssemblyReference.cache

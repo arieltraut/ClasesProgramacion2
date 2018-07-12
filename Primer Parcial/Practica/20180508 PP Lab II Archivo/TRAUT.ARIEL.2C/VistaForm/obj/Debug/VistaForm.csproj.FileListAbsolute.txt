@@ -1,0 +1,11 @@
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\Primer Parcial\Practica\20180508 PP Lab II Archivo\TRAUT.ARIEL.2C\VistaForm\obj\Debug\VistaForm.csprojResolveAssemblyReference.cache
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\Primer Parcial\Practica\20180508 PP Lab II Archivo\TRAUT.ARIEL.2C\VistaForm\obj\Debug\VistaForm.Properties.Resources.resources
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\Primer Parcial\Practica\20180508 PP Lab II Archivo\TRAUT.ARIEL.2C\VistaForm\obj\Debug\VistaForm.csproj.GenerateResource.Cache
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\Primer Parcial\Practica\20180508 PP Lab II Archivo\TRAUT.ARIEL.2C\VistaForm\bin\Debug\VistaForm.exe.config
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\Primer Parcial\Practica\20180508 PP Lab II Archivo\TRAUT.ARIEL.2C\VistaForm\bin\Debug\VistaForm.exe
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\Primer Parcial\Practica\20180508 PP Lab II Archivo\TRAUT.ARIEL.2C\VistaForm\bin\Debug\VistaForm.pdb
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\Primer Parcial\Practica\20180508 PP Lab II Archivo\TRAUT.ARIEL.2C\VistaForm\bin\Debug\Entidades.dll
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\Primer Parcial\Practica\20180508 PP Lab II Archivo\TRAUT.ARIEL.2C\VistaForm\bin\Debug\Entidades.pdb
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\Primer Parcial\Practica\20180508 PP Lab II Archivo\TRAUT.ARIEL.2C\VistaForm\obj\Debug\VistaForm.exe
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\Primer Parcial\Practica\20180508 PP Lab II Archivo\TRAUT.ARIEL.2C\VistaForm\obj\Debug\VistaForm.pdb
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\Primer Parcial\Practica\20180508 PP Lab II Archivo\TRAUT.ARIEL.2C\VistaForm\obj\Debug\VistaForm.Form1.resources

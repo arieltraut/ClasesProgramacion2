@@ -1,0 +1,5 @@
+D:\Ariel\Ariel.Traut.2C\20180628-SP - Alumno\20180628-SP - Alumno\Excepciones\bin\Debug\Excepciones.dll
+D:\Ariel\Ariel.Traut.2C\20180628-SP - Alumno\20180628-SP - Alumno\Excepciones\bin\Debug\Excepciones.pdb
+D:\Ariel\Ariel.Traut.2C\20180628-SP - Alumno\20180628-SP - Alumno\Excepciones\obj\Debug\Excepciones.csprojResolveAssemblyReference.cache
+D:\Ariel\Ariel.Traut.2C\20180628-SP - Alumno\20180628-SP - Alumno\Excepciones\obj\Debug\Excepciones.dll
+D:\Ariel\Ariel.Traut.2C\20180628-SP - Alumno\20180628-SP - Alumno\Excepciones\obj\Debug\Excepciones.pdb

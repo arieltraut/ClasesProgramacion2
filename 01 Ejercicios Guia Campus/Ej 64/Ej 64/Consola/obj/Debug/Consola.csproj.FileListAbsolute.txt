@@ -6,3 +6,6 @@ D:\Ariel\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 64\Ej 64\Consola\obj\D
 D:\Ariel\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 64\Ej 64\Consola\obj\Debug\Consola.pdb
 D:\Ariel\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 64\Ej 64\Consola\bin\Debug\Entidades.dll
 D:\Ariel\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 64\Ej 64\Consola\bin\Debug\Entidades.pdb
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 64\Ej 64\Consola\bin\Debug\Consola.exe.config
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 64\Ej 64\Consola\obj\Debug\Consola.exe
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 64\Ej 64\Consola\obj\Debug\Consola.pdb

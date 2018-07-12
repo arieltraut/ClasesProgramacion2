@@ -1,0 +1,8 @@
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\Primer Parcial\Practica\20180508 PP Lab II Archivo\TRAUT.ARIEL.2C\VistaConsola\obj\Debug\VistaConsola.csprojResolveAssemblyReference.cache
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\Primer Parcial\Practica\20180508 PP Lab II Archivo\TRAUT.ARIEL.2C\VistaConsola\bin\Debug\VistaConsola.exe.config
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\Primer Parcial\Practica\20180508 PP Lab II Archivo\TRAUT.ARIEL.2C\VistaConsola\bin\Debug\VistaConsola.exe
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\Primer Parcial\Practica\20180508 PP Lab II Archivo\TRAUT.ARIEL.2C\VistaConsola\bin\Debug\VistaConsola.pdb
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\Primer Parcial\Practica\20180508 PP Lab II Archivo\TRAUT.ARIEL.2C\VistaConsola\bin\Debug\Entidades.dll
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\Primer Parcial\Practica\20180508 PP Lab II Archivo\TRAUT.ARIEL.2C\VistaConsola\bin\Debug\Entidades.pdb
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\Primer Parcial\Practica\20180508 PP Lab II Archivo\TRAUT.ARIEL.2C\VistaConsola\obj\Debug\VistaConsola.exe
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\Primer Parcial\Practica\20180508 PP Lab II Archivo\TRAUT.ARIEL.2C\VistaConsola\obj\Debug\VistaConsola.pdb

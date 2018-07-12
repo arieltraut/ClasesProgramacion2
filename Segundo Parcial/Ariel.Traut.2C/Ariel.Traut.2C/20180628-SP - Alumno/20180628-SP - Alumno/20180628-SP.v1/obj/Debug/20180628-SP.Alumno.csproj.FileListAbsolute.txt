@@ -1,0 +1,32 @@
+D:\Federico\VB .Net\Visual C#\utn\Examenes\20180628-SP\20180628-SP - Alumno\20180628-SP.v1\bin\Debug\20180628-SP.v1.exe.config
+D:\Federico\VB .Net\Visual C#\utn\Examenes\20180628-SP\20180628-SP - Alumno\20180628-SP.v1\obj\Debug\20180628-SP.v1.exe
+D:\Federico\VB .Net\Visual C#\utn\Examenes\20180628-SP\20180628-SP - Alumno\20180628-SP.v1\obj\Debug\20180628-SP.v1.pdb
+D:\Federico Dávila\2018\20180626\20180628-SP - Alumno\20180628-SP.v1\bin\Debug\20180628-SP.v1.exe.config
+D:\Federico Dávila\2018\20180626\20180628-SP - Alumno\20180628-SP.v1\obj\Debug\20180628-SP.v1.exe
+D:\Federico Dávila\2018\20180626\20180628-SP - Alumno\20180628-SP.v1\obj\Debug\20180628-SP.v1.pdb
+D:\Ariel\Ariel.Traut.2C\20180628-SP - Alumno\20180628-SP - Alumno\20180628-SP.v1\bin\Debug\20180628-SP.v1.exe.config
+D:\Ariel\Ariel.Traut.2C\20180628-SP - Alumno\20180628-SP - Alumno\20180628-SP.v1\obj\Debug\20180628-SP.v1.exe
+D:\Ariel\Ariel.Traut.2C\20180628-SP - Alumno\20180628-SP - Alumno\20180628-SP.v1\obj\Debug\20180628-SP.v1.pdb
+D:\Ariel\Ariel.Traut.2C\20180628-SP - Alumno\20180628-SP - Alumno\20180628-SP.v1\obj\Debug\20180628-SP.Alumno.csprojResolveAssemblyReference.cache
+D:\Ariel\Ariel.Traut.2C\20180628-SP - Alumno\20180628-SP - Alumno\20180628-SP.v1\obj\Debug\_20180628_SP.v1.FrmSenadores.resources
+D:\Ariel\Ariel.Traut.2C\20180628-SP - Alumno\20180628-SP - Alumno\20180628-SP.v1\obj\Debug\_20180628_SP.v1.Properties.Resources.resources
+D:\Ariel\Ariel.Traut.2C\20180628-SP - Alumno\20180628-SP - Alumno\20180628-SP.v1\obj\Debug\20180628-SP.Alumno.csproj.GenerateResource.Cache
+D:\Ariel\Ariel.Traut.2C\20180628-SP - Alumno\20180628-SP - Alumno\20180628-SP.v1\bin\Debug\20180628-SP.v1.exe
+D:\Ariel\Ariel.Traut.2C\20180628-SP - Alumno\20180628-SP - Alumno\20180628-SP.v1\bin\Debug\20180628-SP.v1.pdb
+D:\Ariel\Ariel.Traut.2C\20180628-SP - Alumno\20180628-SP - Alumno\20180628-SP.v1\bin\Debug\Entidades.dll
+D:\Ariel\Ariel.Traut.2C\20180628-SP - Alumno\20180628-SP - Alumno\20180628-SP.v1\bin\Debug\Excepciones.dll
+D:\Ariel\Ariel.Traut.2C\20180628-SP - Alumno\20180628-SP - Alumno\20180628-SP.v1\bin\Debug\Entidades.pdb
+D:\Ariel\Ariel.Traut.2C\20180628-SP - Alumno\20180628-SP - Alumno\20180628-SP.v1\bin\Debug\Excepciones.pdb
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\Segundo Parcial\Ariel.Traut.2C\Ariel.Traut.2C\20180628-SP - Alumno\20180628-SP - Alumno\20180628-SP.v1\bin\Debug\20180628-SP.v1.exe.config
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\Segundo Parcial\Ariel.Traut.2C\Ariel.Traut.2C\20180628-SP - Alumno\20180628-SP - Alumno\20180628-SP.v1\obj\Debug\20180628-SP.v1.exe
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\Segundo Parcial\Ariel.Traut.2C\Ariel.Traut.2C\20180628-SP - Alumno\20180628-SP - Alumno\20180628-SP.v1\obj\Debug\20180628-SP.v1.pdb
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\Segundo Parcial\Ariel.Traut.2C\Ariel.Traut.2C\20180628-SP - Alumno\20180628-SP - Alumno\20180628-SP.v1\bin\Debug\20180628-SP.v1.exe
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\Segundo Parcial\Ariel.Traut.2C\Ariel.Traut.2C\20180628-SP - Alumno\20180628-SP - Alumno\20180628-SP.v1\bin\Debug\20180628-SP.v1.pdb
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\Segundo Parcial\Ariel.Traut.2C\Ariel.Traut.2C\20180628-SP - Alumno\20180628-SP - Alumno\20180628-SP.v1\bin\Debug\Entidades.dll
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\Segundo Parcial\Ariel.Traut.2C\Ariel.Traut.2C\20180628-SP - Alumno\20180628-SP - Alumno\20180628-SP.v1\bin\Debug\Excepciones.dll
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\Segundo Parcial\Ariel.Traut.2C\Ariel.Traut.2C\20180628-SP - Alumno\20180628-SP - Alumno\20180628-SP.v1\bin\Debug\Entidades.pdb
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\Segundo Parcial\Ariel.Traut.2C\Ariel.Traut.2C\20180628-SP - Alumno\20180628-SP - Alumno\20180628-SP.v1\bin\Debug\Excepciones.pdb
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\Segundo Parcial\Ariel.Traut.2C\Ariel.Traut.2C\20180628-SP - Alumno\20180628-SP - Alumno\20180628-SP.v1\obj\Debug\20180628-SP.Alumno.csprojResolveAssemblyReference.cache
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\Segundo Parcial\Ariel.Traut.2C\Ariel.Traut.2C\20180628-SP - Alumno\20180628-SP - Alumno\20180628-SP.v1\obj\Debug\_20180628_SP.v1.FrmSenadores.resources
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\Segundo Parcial\Ariel.Traut.2C\Ariel.Traut.2C\20180628-SP - Alumno\20180628-SP - Alumno\20180628-SP.v1\obj\Debug\_20180628_SP.v1.Properties.Resources.resources
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\Segundo Parcial\Ariel.Traut.2C\Ariel.Traut.2C\20180628-SP - Alumno\20180628-SP - Alumno\20180628-SP.v1\obj\Debug\20180628-SP.Alumno.csproj.GenerateResource.Cache

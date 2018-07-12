@@ -48,12 +48,11 @@ namespace Entidades
 
             get
             {
-                string escritorio = Environment.GetFolderPath(Environment.SpecialFolder.DesktopDirectory);
-                string ruta = Path.Combine(escritorio, "bitacora.txt");
                 string retorno = string.Empty;
                 try
                 {
-                    using (System.IO.StreamReader file = new System.IO.StreamReader(@"C:\Users\ariee\Desktop\bitacora.txt"))
+                    string fullPath = Environment.GetFolderPath(Environment.SpecialFolder.Desktop) + Path.DirectorySeparatorChar + "bitacora.txt";
+                    using (System.IO.StreamReader file = new System.IO.StreamReader(fullPath)) //@"C:\Users\ariee\Desktop\bitacora.txt"
                     {
                         retorno = file.ReadToEnd();
                         file.Close();
@@ -72,7 +71,7 @@ namespace Entidades
         private LosHilos AgregarHilo(LosHilos hilos)
         {
             this.id++;
-            this.misHilos.Add(new InfoHilo(this.id,(LosHilos)this));
+            this.misHilos.Add(new InfoHilo(hilos.id,hilos));
             return hilos;
         }
 

@@ -39,7 +39,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Class1.cs" />
+    <Compile Include="ArchivosBinarios.cs" />
+    <Compile Include="ArchivosDeTexto.cs" />
+    <Compile Include="IInterfaz.cs" />
+    <Compile Include="PersonaDAO.cs" />
+    <Compile Include="Eventos.cs" />
+    <Compile Include="Persona.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

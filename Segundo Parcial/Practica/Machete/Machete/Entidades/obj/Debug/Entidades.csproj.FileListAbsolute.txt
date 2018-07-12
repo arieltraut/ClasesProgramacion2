@@ -1,0 +1,8 @@
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\Segundo Parcial\Practica\Machete\Machete\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\Segundo Parcial\Practica\Machete\Machete\Entidades\bin\Debug\Entidades.dll
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\Segundo Parcial\Practica\Machete\Machete\Entidades\bin\Debug\Entidades.pdb
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\Segundo Parcial\Practica\Machete\Machete\Entidades\obj\Debug\Entidades.dll
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\Segundo Parcial\Practica\Machete\Machete\Entidades\obj\Debug\Entidades.pdb
+F:\Segundo Parcial\Prog-Lab II\clasesprogramacion2\Segundo Parcial\Practica\Machete\Machete\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+F:\Segundo Parcial\Prog-Lab II\clasesprogramacion2\Segundo Parcial\Practica\Machete\Machete\Entidades\obj\Debug\Entidades.dll
+F:\Segundo Parcial\Prog-Lab II\clasesprogramacion2\Segundo Parcial\Practica\Machete\Machete\Entidades\obj\Debug\Entidades.pdb

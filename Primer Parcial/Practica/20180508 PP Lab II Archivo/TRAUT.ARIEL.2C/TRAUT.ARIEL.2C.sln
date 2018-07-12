@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entidades", "Entidades\Entidades.csproj", "{D869018C-0B5C-43A8-A322-7D8ECC7ABA0D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VistaConsola", "VistaConsola\VistaConsola.csproj", "{BF265C68-F9C5-43CF-A8B5-0BDC86CE7036}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VistaForm", "VistaForm\VistaForm.csproj", "{1A095E9B-02F3-43DA-B4BD-67E4D8E3757E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D869018C-0B5C-43A8-A322-7D8ECC7ABA0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D869018C-0B5C-43A8-A322-7D8ECC7ABA0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D869018C-0B5C-43A8-A322-7D8ECC7ABA0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D869018C-0B5C-43A8-A322-7D8ECC7ABA0D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF265C68-F9C5-43CF-A8B5-0BDC86CE7036}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF265C68-F9C5-43CF-A8B5-0BDC86CE7036}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF265C68-F9C5-43CF-A8B5-0BDC86CE7036}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF265C68-F9C5-43CF-A8B5-0BDC86CE7036}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A095E9B-02F3-43DA-B4BD-67E4D8E3757E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A095E9B-02F3-43DA-B4BD-67E4D8E3757E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A095E9B-02F3-43DA-B4BD-67E4D8E3757E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A095E9B-02F3-43DA-B4BD-67E4D8E3757E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

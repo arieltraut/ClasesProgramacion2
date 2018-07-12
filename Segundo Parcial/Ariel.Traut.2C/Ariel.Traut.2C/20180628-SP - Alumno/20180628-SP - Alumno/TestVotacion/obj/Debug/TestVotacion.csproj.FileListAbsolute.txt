@@ -1,0 +1,9 @@
+D:\Ariel\Ariel.Traut.2C\20180628-SP - Alumno\20180628-SP - Alumno\TestVotacion\obj\Debug\TestVotacion.csprojResolveAssemblyReference.cache
+D:\Ariel\Ariel.Traut.2C\20180628-SP - Alumno\20180628-SP - Alumno\TestVotacion\bin\Debug\TestVotacion.dll
+D:\Ariel\Ariel.Traut.2C\20180628-SP - Alumno\20180628-SP - Alumno\TestVotacion\bin\Debug\TestVotacion.pdb
+D:\Ariel\Ariel.Traut.2C\20180628-SP - Alumno\20180628-SP - Alumno\TestVotacion\bin\Debug\Entidades.dll
+D:\Ariel\Ariel.Traut.2C\20180628-SP - Alumno\20180628-SP - Alumno\TestVotacion\bin\Debug\Excepciones.dll
+D:\Ariel\Ariel.Traut.2C\20180628-SP - Alumno\20180628-SP - Alumno\TestVotacion\bin\Debug\Entidades.pdb
+D:\Ariel\Ariel.Traut.2C\20180628-SP - Alumno\20180628-SP - Alumno\TestVotacion\bin\Debug\Excepciones.pdb
+D:\Ariel\Ariel.Traut.2C\20180628-SP - Alumno\20180628-SP - Alumno\TestVotacion\obj\Debug\TestVotacion.dll
+D:\Ariel\Ariel.Traut.2C\20180628-SP - Alumno\20180628-SP - Alumno\TestVotacion\obj\Debug\TestVotacion.pdb

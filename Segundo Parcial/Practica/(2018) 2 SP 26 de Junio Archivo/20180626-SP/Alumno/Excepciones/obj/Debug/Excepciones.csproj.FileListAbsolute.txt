@@ -1,0 +1,5 @@
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\Segundo Parcial\Practica\(2018) 2 SP 26 de Junio Archivo\20180626-SP\Alumno\Excepciones\bin\Debug\Excepciones.dll
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\Segundo Parcial\Practica\(2018) 2 SP 26 de Junio Archivo\20180626-SP\Alumno\Excepciones\bin\Debug\Excepciones.pdb
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\Segundo Parcial\Practica\(2018) 2 SP 26 de Junio Archivo\20180626-SP\Alumno\Excepciones\obj\Debug\Excepciones.csprojResolveAssemblyReference.cache
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\Segundo Parcial\Practica\(2018) 2 SP 26 de Junio Archivo\20180626-SP\Alumno\Excepciones\obj\Debug\Excepciones.dll
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\Segundo Parcial\Practica\(2018) 2 SP 26 de Junio Archivo\20180626-SP\Alumno\Excepciones\obj\Debug\Excepciones.pdb

@@ -1,0 +1,5 @@
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\Primer Parcial\Practica\20180508 PP Lab II Archivo\TRAUT.ARIEL.2C\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\Primer Parcial\Practica\20180508 PP Lab II Archivo\TRAUT.ARIEL.2C\Entidades\bin\Debug\Entidades.dll
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\Primer Parcial\Practica\20180508 PP Lab II Archivo\TRAUT.ARIEL.2C\Entidades\bin\Debug\Entidades.pdb
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\Primer Parcial\Practica\20180508 PP Lab II Archivo\TRAUT.ARIEL.2C\Entidades\obj\Debug\Entidades.dll
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\Primer Parcial\Practica\20180508 PP Lab II Archivo\TRAUT.ARIEL.2C\Entidades\obj\Debug\Entidades.pdb

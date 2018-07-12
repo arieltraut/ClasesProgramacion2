@@ -1,0 +1,11 @@
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 61\Ej 61\FormPersonas\bin\Debug\FormPersonas.exe.config
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 61\Ej 61\FormPersonas\bin\Debug\FormPersonas.exe
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 61\Ej 61\FormPersonas\bin\Debug\FormPersonas.pdb
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 61\Ej 61\FormPersonas\bin\Debug\Entidades.dll
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 61\Ej 61\FormPersonas\bin\Debug\Entidades.pdb
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 61\Ej 61\FormPersonas\obj\Debug\FormPersonas.csprojResolveAssemblyReference.cache
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 61\Ej 61\FormPersonas\obj\Debug\FormPersonas.fmrPersonas.resources
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 61\Ej 61\FormPersonas\obj\Debug\FormPersonas.Properties.Resources.resources
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 61\Ej 61\FormPersonas\obj\Debug\FormPersonas.csproj.GenerateResource.Cache
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 61\Ej 61\FormPersonas\obj\Debug\FormPersonas.exe
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\01 Ejercicios Guia Campus\Ej 61\Ej 61\FormPersonas\obj\Debug\FormPersonas.pdb
